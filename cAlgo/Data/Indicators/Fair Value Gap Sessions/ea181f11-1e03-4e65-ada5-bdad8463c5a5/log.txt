@@ -1,2 +1,0 @@
-23/01/2026 19:12:42.501 | Info | Indicator instance [Fair Value Gap Sessions, EURUSD, h1] loaded.
-23/01/2026 19:19:39.938 | Info | Indicator instance [Fair Value Gap Sessions, EURUSD, h1] unloaded.
