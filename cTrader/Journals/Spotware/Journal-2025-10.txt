@@ -1,0 +1,472 @@
+2025.10.01 10:40:23.515 | cTrader started
+2025.10.01 12:27:57.594 | Request to Buy 0.25 Lots NDX100 (SL: 143.0, TP: 556.0) is sent to server
+2025.10.01 12:27:57.734 | → Request to Buy 0.25 Lots NDX100 (SL: 143.0, TP: 556.0) is ACCEPTED, order OID5107771 created (01/10/2025 12:27:57.664 UTC+0)
+2025.10.01 12:27:58.109 | → Order OID5107771 is FILLED at 24565.14, position PID2269347 (01/10/2025 12:27:57.976 UTC+0)
+2025.10.01 12:30:42.281 | → Order OID5107772 is FILLED at 24551.16, position PID2269347 closed (01/10/2025 12:30:42.208 UTC+0)
+2025.10.01 12:37:59.871 | Request to Sell 0.12 Lots NDX100 (SL: 297.2, TP: 508.2) is sent to server
+2025.10.01 12:37:59.965 | → Request to Sell 0.12 Lots NDX100 (SL: 297.2, TP: 508.2) is ACCEPTED, order OID5107904 created (01/10/2025 12:37:59.944 UTC+0)
+2025.10.01 12:38:00.246 | → Order OID5107904 is FILLED at 24545.86, position PID2269407 (01/10/2025 12:38:00.158 UTC+0)
+2025.10.01 12:49:24.648 | Request to Buy 0.24 Lots NDX100 (SL: 300, TP: 600) is sent to server
+2025.10.01 12:49:24.742 | → Request to Buy 0.24 Lots NDX100 (SL: 300, TP: 600) is ACCEPTED, order OID5108037 created (01/10/2025 12:49:24.696 UTC+0)
+2025.10.01 12:49:25.039 | → Order OID5108037 is FILLED at 24573.24, position PID2269407 (01/10/2025 12:49:24.988 UTC+0)
+2025.10.01 13:19:43.588 | Request to amend position PID2269407 (TP: 24680.81) is sent to server
+2025.10.01 13:19:43.682 | → Request to amend position PID2269407 (TP: 24680.81) is ACCEPTED
+2025.10.01 13:19:46.166 | Request to amend position PID2269407 (TP: 24718.87) is sent to server
+2025.10.01 13:19:46.244 | → Request to amend position PID2269407 (TP: 24718.87) is ACCEPTED
+2025.10.01 13:19:50.652 | Request to amend position PID2269407 (TP: 24779.36) is sent to server
+2025.10.01 13:19:50.731 | → Request to amend position PID2269407 (TP: 24779.36) is ACCEPTED
+2025.10.01 13:21:21.715 | Request to amend position PID2269407 (TP: 24690.98) is sent to server
+2025.10.01 13:21:21.777 | → Request to amend position PID2269407 (TP: 24690.98) is ACCEPTED
+2025.10.01 13:27:40.692 | → Order OID5108038 is FILLED at 24540.76, position PID2269407 closed (01/10/2025 13:27:40.660 UTC+0)
+2025.10.01 13:31:26.403 | Request to Buy 0.32 Lots NDX100 (SL: 300, TP: 600) is sent to server
+2025.10.01 13:31:26.496 | → Request to Buy 0.32 Lots NDX100 (SL: 300, TP: 600) is ACCEPTED, order OID5108483 created (01/10/2025 13:31:26.460 UTC+0)
+2025.10.01 13:31:26.778 | → Order OID5108483 is FILLED at 24564.94, position PID2269677 (01/10/2025 13:31:26.738 UTC+0)
+2025.10.01 13:31:36.981 | Request to amend position PID2269677 (SL: 24565.80) is sent to server
+2025.10.01 13:31:37.059 | → Request to amend position PID2269677 (SL: 24565.80) is ACCEPTED
+2025.10.01 13:31:39.543 | Request to close position PID2269677 is sent to server
+2025.10.01 13:31:39.653 | → Request to close position PID2269677 is ACCEPTED, order OID5108496 created (01/10/2025 13:31:39.617 UTC+0)
+2025.10.01 13:31:39.934 | → Order OID5108496 is FILLED at 24571.66, position PID2269677 closed (01/10/2025 13:31:39.888 UTC+0)
+2025.10.01 13:32:54.930 | Request to Buy 0.32 Lots NDX100 (SL: 300, TP: 600) is sent to server
+2025.10.01 13:32:55.024 | → Request to Buy 0.32 Lots NDX100 (SL: 300, TP: 600) is ACCEPTED, order OID5108547 created (01/10/2025 13:32:54.975 UTC+0)
+2025.10.01 13:32:55.305 | → Order OID5108547 is FILLED at 24595.64, position PID2269696 (01/10/2025 13:32:55.265 UTC+0)
+2025.10.01 13:34:05.821 | Request to amend position PID2269696 (SL: 24596.67) is sent to server
+2025.10.01 13:34:05.993 | → Request to amend position PID2269696 (SL: 24596.67) is ACCEPTED
+2025.10.01 13:34:11.743 | Request to close position PID2269696 is sent to server
+2025.10.01 13:34:11.836 | → Request to close position PID2269696 is ACCEPTED, order OID5108561 created (01/10/2025 13:34:11.807 UTC+0)
+2025.10.01 13:34:12.180 | → Order OID5108561 is FILLED at 24606.26, position PID2269696 closed (01/10/2025 13:34:12.137 UTC+0)
+2025.10.01 14:04:18.779 | Request to Buy 0.14 Lots NDX100 (SL: 305.3, TP: 950.6) is sent to server
+2025.10.01 14:04:18.857 | → Request to Buy 0.14 Lots NDX100 (SL: 305.3, TP: 950.6) is ACCEPTED, order OID5108864 created (01/10/2025 14:04:18.825 UTC+0)
+2025.10.01 14:04:19.091 | → Order OID5108864 is FILLED at 24599.64, position PID2269836 (01/10/2025 14:04:19.061 UTC+0)
+2025.10.01 14:05:27.259 | Request to amend position PID2269836 (TP: 24690.22) is sent to server
+2025.10.01 14:05:27.368 | → Request to amend position PID2269836 (TP: 24690.22) is ACCEPTED
+2025.10.01 14:19:12.291 | Request to amend position PID2269836 (SL: 24600.46) is sent to server
+2025.10.01 14:19:12.416 | → Request to amend position PID2269836 (SL: 24600.46) is ACCEPTED
+2025.10.01 14:22:14.063 | Request to close position PID2269836 is sent to server
+2025.10.01 14:22:14.157 | → Request to close position PID2269836 is ACCEPTED, order OID5109059 created (01/10/2025 14:22:14.108 UTC+0)
+2025.10.01 14:22:14.563 | → Order OID5109059 is FILLED at 24651.06, position PID2269836 closed (01/10/2025 14:22:14.487 UTC+0)
+2025.10.02 09:20:11.253 | cTrader started
+2025.10.02 14:01:11.316 | Request to Buy 0.09 Lots NDX100 (SL: 477.4, TP: 1233.7) is sent to server
+2025.10.02 14:01:11.535 | → Request to Buy 0.09 Lots NDX100 (SL: 477.4, TP: 1233.7) is ACCEPTED, order OID5114267 created (02/10/2025 14:01:11.446 UTC+0)
+2025.10.02 14:01:11.785 | → Order OID5114267 is FILLED at 24854.54, position PID2272390 (02/10/2025 14:01:11.666 UTC+0)
+2025.10.02 14:32:45.050 | Request to close position PID2272390 is sent to server
+2025.10.02 14:32:45.175 | → Request to close position PID2272390 is ACCEPTED, order OID5114650 created (02/10/2025 14:32:45.087 UTC+0)
+2025.10.02 14:32:45.504 | → Order OID5114650 is FILLED at 24856.96, position PID2272390 closed (02/10/2025 14:32:45.424 UTC+0)
+2025.10.02 17:55:19.442 | Request to Sell 0.21 Lots NDX100 (SL: 204.6, TP: 505.2) is sent to server
+2025.10.02 17:55:19.582 | → Request to Sell 0.21 Lots NDX100 (SL: 204.6, TP: 505.2) is ACCEPTED, order OID5116072 created (02/10/2025 17:55:19.503 UTC+0)
+2025.10.02 17:55:19.848 | → Order OID5116072 is FILLED at 24869.16, position PID2273224 (02/10/2025 17:55:19.815 UTC+0)
+2025.10.02 18:12:15.659 | → Order OID5116073 is FILLED at 24889.94, position PID2273224 closed (02/10/2025 18:12:15.552 UTC+0)
+2025.10.03 11:23:58.992 | cTrader started
+2025.10.03 11:24:58.458 | Request to Sell 0.30 Lots NDX100 (SL: 142.8, TP: 142.8) is sent to server
+2025.10.03 11:24:58.583 | → Request to Sell 0.30 Lots NDX100 (SL: 142.8, TP: 142.8) is ACCEPTED, order OID5118669 created (03/10/2025 11:24:58.505 UTC+0)
+2025.10.03 11:24:58.943 | → Order OID5118669 is FILLED at 24939.16, position PID2274476 (03/10/2025 11:24:58.806 UTC+0)
+2025.10.03 11:35:25.196 | Request to close position PID2274476 is sent to server
+2025.10.03 11:35:25.289 | → Request to close position PID2274476 is ACCEPTED, order OID5118727 created (03/10/2025 11:35:25.243 UTC+0)
+2025.10.03 11:35:25.539 | → Order OID5118727 is FILLED at 24927.84, position PID2274476 closed (03/10/2025 11:35:25.450 UTC+0)
+2025.10.03 11:59:52.037 | Request to Sell 0.35 Lots NDX100 (SL: 122.7, TP: 180.8) is sent to server
+2025.10.03 11:59:52.131 | → Request to Sell 0.35 Lots NDX100 (SL: 122.7, TP: 180.8) is ACCEPTED, order OID5118839 created (03/10/2025 11:59:52.086 UTC+0)
+2025.10.03 11:59:52.521 | → Order OID5118839 is FILLED at 24927.16, position PID2274564 (03/10/2025 11:59:52.471 UTC+0)
+2025.10.03 12:00:11.552 | Request to close position PID2274564 is sent to server
+2025.10.03 12:00:11.631 | → Request to close position PID2274564 is ACCEPTED, order OID5118843 created (03/10/2025 12:00:11.588 UTC+0)
+2025.10.03 12:00:11.943 | → Order OID5118843 is FILLED at 24928.34, position PID2274564 closed (03/10/2025 12:00:11.887 UTC+0)
+2025.10.03 12:00:29.412 | Limit order to Sell 0.35 Lots NDX100 (Price: 24937.47, SL: 24949.74, TP: 24919.40) is sent to server
+2025.10.03 12:00:29.506 | → Limit order OID5118846 to Sell 0.35 Lots NDX100 (Price: 24937.47, SL: 24949.74, TP: 24919.40) is ACCEPTED (03/10/2025 12:00:29.452 UTC+0)
+2025.10.03 12:08:17.428 | Request to amend order OID5118846 (TP: 24908.95) is sent to server
+2025.10.03 12:08:17.522 | → Request to amend order OID5118846 (TP: 24908.95) is ACCEPTED (03/10/2025 12:08:17.487 UTC+0)
+2025.10.03 12:10:37.006 | Request to CANCEL order OID5118846 is sent to server
+2025.10.03 12:10:37.099 | → Limit order to SELL 0.35 Lots NDX100 OID5118846 is CANCELLED (03/10/2025 12:10:37.061 UTC+0)
+2025.10.03 13:15:08.888 | Request to Sell 0.65 Lots NDX100 (SL: 66.0, TP: 196.9) is sent to server
+2025.10.03 13:15:08.997 | → Request to Sell 0.65 Lots NDX100 (SL: 66.0, TP: 196.9) is ACCEPTED, order OID5119308 created (03/10/2025 13:15:08.943 UTC+0)
+2025.10.03 13:15:09.247 | → Order OID5119308 is FILLED at 24913.26, position PID2274788 (03/10/2025 13:15:09.214 UTC+0)
+2025.10.03 13:20:08.476 | → Order OID5119309 is FILLED at 24920.24, position PID2274788 closed (03/10/2025 13:20:08.428 UTC+0)
+2025.10.03 13:31:47.500 | Request to Buy 0.32 Lots NDX100 (SL: 300, TP: 600) is sent to server
+2025.10.03 13:31:47.578 | → Request to Buy 0.32 Lots NDX100 (SL: 300, TP: 600) is ACCEPTED, order OID5119422 created (03/10/2025 13:31:47.542 UTC+0)
+2025.10.03 13:31:47.968 | → Order OID5119422 is FILLED at 24952.54, position PID2274844 (03/10/2025 13:31:47.925 UTC+0)
+2025.10.03 13:41:21.359 | → Order OID5119423 is FILLED at 24919.06, position PID2274844 closed (03/10/2025 13:41:21.322 UTC+0)
+2025.10.03 14:53:01.504 | Request to Buy 0.33 Lots NDX100 (SL: 214.5, TP: 687.8) is sent to server
+2025.10.03 14:53:01.582 | → Request to Buy 0.33 Lots NDX100 (SL: 214.5, TP: 687.8) is ACCEPTED, order OID5120234 created (03/10/2025 14:53:01.536 UTC+0)
+2025.10.03 14:53:01.926 | → Order OID5120234 is FILLED at 24907.34, position PID2275233 (03/10/2025 14:53:01.869 UTC+0)
+2025.10.03 15:22:22.036 | Request to amend position PID2275233 (TP: 24963.89) is sent to server
+2025.10.03 15:22:22.130 | → Request to amend position PID2275233 (TP: 24963.89) is ACCEPTED
+2025.10.03 16:39:29.837 | Request to amend position PID2275233 (SL: 24907.63) is sent to server
+2025.10.03 16:39:29.915 | → Request to amend position PID2275233 (SL: 24907.63) is ACCEPTED
+2025.10.03 16:44:26.659 | → Order OID5120235 is FILLED at 24907.96, position PID2275233 closed (03/10/2025 16:44:26.624 UTC+0)
+2025.10.06 09:03:00.232 | cTrader started
+2025.10.07 06:39:18.589 | cTrader started
+2025.10.07 06:39:25.174 | cTrader started
+2025.10.07 08:12:49.295 | Request to Sell 0.64 Lots NDX100 (SL: 110.6, TP: 232.7) is sent to server
+2025.10.07 08:12:49.436 | → Request to Sell 0.64 Lots NDX100 (SL: 110.6, TP: 232.7) is ACCEPTED, order OID5128721 created (07/10/2025 08:12:49.354 UTC+0)
+2025.10.07 08:12:49.686 | → Order OID5128721 is FILLED at 24934.56, position PID2279611 (07/10/2025 08:12:49.575 UTC+0)
+2025.10.07 08:13:35.342 | Request to amend position PID2279611 (SL: 24947.99) is sent to server
+2025.10.07 08:13:35.451 | → Request to amend position PID2279611 (SL: 24947.99) is ACCEPTED
+2025.10.07 08:15:02.313 | Request to amend position PID2279611 (TP: 24917.84) is sent to server
+2025.10.07 08:15:02.391 | → Request to amend position PID2279611 (TP: 24917.84) is ACCEPTED
+2025.10.07 08:19:01.787 | Request to close position PID2279611 is sent to server
+2025.10.07 08:19:01.880 | → Request to close position PID2279611 is ACCEPTED, order OID5128771 created (07/10/2025 08:19:01.858 UTC+0)
+2025.10.07 08:19:02.287 | → Order OID5128771 is FILLED at 24945.04, position PID2279611 closed (07/10/2025 08:19:02.220 UTC+0)
+2025.10.07 08:32:33.506 | Request to Sell 0.25 Lots NDX100 (SL: 197.3, TP: 173.0) is sent to server
+2025.10.07 08:32:33.631 | → Request to Sell 0.25 Lots NDX100 (SL: 197.3, TP: 173.0) is ACCEPTED, order OID5128825 created (07/10/2025 08:32:33.603 UTC+0)
+2025.10.07 08:32:33.897 | → Order OID5128825 is FILLED at 24927.16, position PID2279659 (07/10/2025 08:32:33.875 UTC+0)
+2025.10.07 08:33:05.616 | Request to amend position PID2279659 (TP: 24900.00) is sent to server
+2025.10.07 08:33:05.678 | → Request to amend position PID2279659 (TP: 24900.00) is ACCEPTED
+2025.10.07 08:44:13.931 | → Order OID5128826 is FILLED at 24946.74, position PID2279659 closed (07/10/2025 08:44:13.890 UTC+0)
+2025.10.07 10:05:02.005 | Request to Buy 0.14 Lots XAUUSD (SL: 35.1, TP: 70.4) is sent to server
+2025.10.07 10:05:02.099 | → Request to Buy 0.14 Lots XAUUSD (SL: 35.1, TP: 70.4) is ACCEPTED, order OID5129269 created (07/10/2025 10:05:02.056 UTC+0)
+2025.10.07 10:05:02.365 | → Order OID5129269 is FILLED at 3957.94, position PID2279880 (07/10/2025 10:05:02.326 UTC+0)
+2025.10.07 10:17:42.720 | Request to amend position PID2279880 (TP: 3965.15) is sent to server
+2025.10.07 10:17:42.798 | → Request to amend position PID2279880 (TP: 3965.15) is ACCEPTED
+2025.10.07 10:19:11.517 | Request to amend position PID2279880 (TP: 3966.47) is sent to server
+2025.10.07 10:19:11.642 | → Request to amend position PID2279880 (TP: 3966.47) is ACCEPTED
+2025.10.07 11:10:23.457 | Request to amend position PID2279880 (SL: 3958.02) is sent to server
+2025.10.07 11:10:23.536 | → Request to amend position PID2279880 (SL: 3958.02) is ACCEPTED
+2025.10.07 11:22:26.385 | → Order OID5129270 is FILLED at 3957.69, position PID2279880 closed (07/10/2025 11:22:26.333 UTC+0)
+2025.10.07 14:08:44.591 | Limit order to Buy 0.33 Lots NDX100 (Price: 25027.85, SL: 25012.96, TP: 25067.48) is sent to server
+2025.10.07 14:08:44.700 | → Limit order OID5131118 to Buy 0.33 Lots NDX100 (Price: 25027.85, SL: 25012.96, TP: 25067.48) is ACCEPTED (07/10/2025 14:08:44.643 UTC+0)
+2025.10.07 14:10:13.647 | Request to CANCEL order OID5131118 is sent to server
+2025.10.07 14:10:13.741 | → Limit order to BUY 0.33 Lots NDX100 OID5131118 is CANCELLED (07/10/2025 14:10:13.693 UTC+0)
+2025.10.07 15:43:02.130 | Request to Buy 0.10 Lots NDX100 (SL: 491.3, TP: 803.2) is sent to server
+2025.10.07 15:43:02.239 | → Request to Buy 0.10 Lots NDX100 (SL: 491.3, TP: 803.2) is ACCEPTED, order OID5132019 created (07/10/2025 15:43:02.204 UTC+0)
+2025.10.07 15:43:02.489 | → Order OID5132019 is FILLED at 24847.14, position PID2281119 (07/10/2025 15:43:02.420 UTC+0)
+2025.10.07 15:43:16.364 | Request to amend position PID2281119 (TP: 24947.21) is sent to server
+2025.10.07 15:43:16.458 | → Request to amend position PID2281119 (TP: 24947.21) is ACCEPTED
+2025.10.07 15:47:57.963 | → Order OID5132020 is FILLED at 24797.26, position PID2281119 closed (07/10/2025 15:47:46.860 UTC+0)
+2025.10.08 13:25:14.776 | cTrader started
+2025.10.08 14:11:19.979 | Request to Buy 0.07 Lots XAUUSD (SL: 69.9, TP: 118.3) is sent to server
+2025.10.08 14:11:20.119 | → Request to Buy 0.07 Lots XAUUSD (SL: 69.9, TP: 118.3) is ACCEPTED, order OID5137812 created (08/10/2025 14:11:20.046 UTC+0)
+2025.10.08 14:11:20.463 | → Order OID5137812 is FILLED at 4043.45, position PID2283761 (08/10/2025 14:11:20.345 UTC+0)
+2025.10.08 14:12:10.885 | Request to amend position PID2283761 (TP: 4072.33) is sent to server
+2025.10.08 14:12:10.979 | → Request to amend position PID2283761 (TP: 4072.33) is ACCEPTED
+2025.10.08 15:00:40.991 | Request to close position PID2283761 is sent to server
+2025.10.08 15:00:41.085 | → Request to close position PID2283761 is ACCEPTED, order OID5138203 created (08/10/2025 15:00:41.030 UTC+0)
+2025.10.08 15:00:41.460 | → Order OID5138203 is FILLED at 4048.76, position PID2283761 closed (08/10/2025 15:00:41.309 UTC+0)
+2025.10.08 18:26:09.540 | Limit order to Buy 0.14 Lots XAUUSD (Price: 4045.84, SL: 4042.33, TP: 4053.59) is sent to server
+2025.10.08 18:26:09.665 | → Limit order OID5139126 to Buy 0.14 Lots XAUUSD (Price: 4045.84, SL: 4042.33, TP: 4053.59) is ACCEPTED (08/10/2025 18:26:09.593 UTC+0)
+2025.10.08 18:30:35.906 | Request to amend order OID5139126 (Price: 4046.33, SL: 4042.82, TP: 4054.08) is sent to server
+2025.10.08 18:30:36.015 | → Request to amend order OID5139126 (Price: 4046.33, SL: 4042.82, TP: 4054.08) is ACCEPTED (08/10/2025 18:30:35.973 UTC+0)
+2025.10.08 18:30:49.593 | Request to amend order OID5139126 (TP: 4059.28) is sent to server
+2025.10.08 18:30:49.687 | → Request to amend order OID5139126 (TP: 4059.28) is ACCEPTED (08/10/2025 18:30:49.644 UTC+0)
+2025.10.08 18:36:08.863 | → Limit order to BUY 0.14 Lots XAUUSD OID5139126 is FILLED at 4046.26, position PID2284390 (08/10/2025 18:36:08.773 UTC+0)
+2025.10.08 18:37:08.347 | Request to amend position PID2284390 (SL: 4046.36) is sent to server
+2025.10.08 18:37:08.426 | → Request to amend position PID2284390 (SL: 4046.36) is ACCEPTED
+2025.10.08 18:40:37.784 | Request to close position PID2284390 is sent to server
+2025.10.08 18:40:37.909 | → Request to close position PID2284390 is ACCEPTED, order OID5139192 created (08/10/2025 18:40:37.857 UTC+0)
+2025.10.08 18:40:38.237 | → Order OID5139192 is FILLED at 4048.51, position PID2284390 closed (08/10/2025 18:40:38.195 UTC+0)
+2025.10.09 13:17:02.569 | cTrader started
+2025.10.09 13:23:59.458 | Stop order to Buy 0.09 Lots XAUUSD (Price: 4055.03, SL: 4049.56, TP: 4063.23) is sent to server
+2025.10.09 13:23:59.630 | → Stop order OID5143636 to Buy 0.09 Lots XAUUSD (Price: 4055.03, SL: 4049.56, TP: 4063.23) is ACCEPTED (09/10/2025 13:23:59.518 UTC+0)
+2025.10.09 13:24:10.943 | → Stop order to BUY 0.09 Lots XAUUSD OID5143636 is FILLED at 4055.08, position PID2286487 (09/10/2025 13:24:10.869 UTC+0)
+2025.10.09 13:24:45.255 | Request to amend position PID2286487 (TP: 4066.25) is sent to server
+2025.10.09 13:24:45.365 | → Request to amend position PID2286487 (TP: 4066.25) is ACCEPTED
+2025.10.09 13:34:34.925 | → Order OID5143641 is FILLED at 4049.24, position PID2286487 closed (09/10/2025 13:34:34.854 UTC+0)
+2025.10.09 13:45:17.100 | Limit order to Sell 0.29 Lots NDX100 (Price: 25072.46, SL: 25089.36, TP: 25039.00) is sent to server
+2025.10.09 13:45:17.178 | → Limit order OID5143976 to Sell 0.29 Lots NDX100 (Price: 25072.46, SL: 25089.36, TP: 25039.00) is ACCEPTED (09/10/2025 13:45:17.147 UTC+0)
+2025.10.09 13:45:26.271 | Request to CANCEL order OID5143976 is sent to server
+2025.10.09 13:45:26.350 | → Limit order to SELL 0.29 Lots NDX100 OID5143976 is CANCELLED (09/10/2025 13:45:26.316 UTC+0)
+2025.10.09 13:45:33.021 | Request to Sell 0.29 Lots NDX100 (SL: 169.0, TP: 334.6) is sent to server
+2025.10.09 13:45:33.100 | → Request to Sell 0.29 Lots NDX100 (SL: 169.0, TP: 334.6) is ACCEPTED, order OID5143978 created (09/10/2025 13:45:33.064 UTC+0)
+2025.10.09 13:45:33.506 | → Order OID5143978 is FILLED at 25060.06, position PID2286662 (09/10/2025 13:45:33.459 UTC+0)
+2025.10.09 13:47:16.806 | Request to amend position PID2286662 (SL: 25084.15) is sent to server
+2025.10.09 13:47:16.884 | → Request to amend position PID2286662 (SL: 25084.15) is ACCEPTED
+2025.10.09 13:48:14.212 | Request to amend position PID2286662 (SL: 25090.99) is sent to server
+2025.10.09 13:48:14.306 | → Request to amend position PID2286662 (SL: 25090.99) is ACCEPTED
+2025.10.09 13:48:56.494 | → Order OID5143980 is FILLED at 25091.74, position PID2286662 closed (09/10/2025 13:48:56.437 UTC+0)
+2025.10.09 13:49:02.228 | Request to Buy 0.30 Lots NDX100 (SL: 300, TP: 600) is sent to server
+2025.10.09 13:49:02.306 | → Request to Buy 0.30 Lots NDX100 (SL: 300, TP: 600) is ACCEPTED, order OID5144061 created (09/10/2025 13:49:02.279 UTC+0)
+2025.10.09 13:49:02.665 | → Order OID5144061 is FILLED at 25095.74, position PID2286707 (09/10/2025 13:49:02.629 UTC+0)
+2025.10.09 13:49:08.494 | Request to amend position PID2286707 (TP: 25191.67) is sent to server
+2025.10.09 13:49:08.650 | → Request to amend position PID2286707 (TP: 25191.67) is ACCEPTED
+2025.10.09 13:53:31.868 | → Order OID5144062 is FILLED at 25065.56, position PID2286707 closed (09/10/2025 13:53:31.804 UTC+0)
+2025.10.09 14:06:56.239 | Stop order to Buy 0.04 Lots XAUUSD (Price: 4027.24, SL: 4015.15, TP: 4058.18) is sent to server
+2025.10.09 14:06:56.411 | → Stop order OID5144428 to Buy 0.04 Lots XAUUSD (Price: 4027.24, SL: 4015.15, TP: 4058.18) is ACCEPTED (09/10/2025 14:06:56.390 UTC+0)
+2025.10.09 14:06:58.786 | → Stop order to BUY 0.04 Lots XAUUSD OID5144428 is FILLED at 4027.54, position PID2286899 (09/10/2025 14:06:58.755 UTC+0)
+2025.10.09 14:10:45.979 | Request to amend position PID2286899 (SL: 4012.98) is sent to server
+2025.10.09 14:10:46.057 | → Request to amend position PID2286899 (SL: 4012.98) is ACCEPTED
+2025.10.09 14:23:07.718 | → Order OID5144432 is FILLED at 4012.89, position PID2286899 closed (09/10/2025 14:23:07.681 UTC+0)
+2025.10.10 10:59:19.651 | cTrader started
+2025.10.10 11:10:46.474 | Request to Buy 0.33 Lots NDX100 (SL: 146.0, TP: 295.9) is sent to server
+2025.10.10 11:10:46.615 | → Request to Buy 0.33 Lots NDX100 (SL: 146.0, TP: 295.9) is ACCEPTED, order OID5149913 created (10/10/2025 11:10:46.558 UTC+0)
+2025.10.10 11:10:46.974 | → Order OID5149913 is FILLED at 25126.44, position PID2289404 (10/10/2025 11:10:46.865 UTC+0)
+2025.10.10 11:11:48.327 | Request to amend position PID2289404 (TP: 25167.11) is sent to server
+2025.10.10 11:11:48.421 | → Request to amend position PID2289404 (TP: 25167.11) is ACCEPTED
+2025.10.10 11:35:35.627 | Request to amend position PID2289404 (SL: 25127.12) is sent to server
+2025.10.10 11:35:35.705 | → Request to amend position PID2289404 (SL: 25127.12) is ACCEPTED
+2025.10.10 11:38:45.472 | → Order OID5149914 is FILLED at 25126.96, position PID2289404 closed (10/10/2025 11:38:45.363 UTC+0)
+2025.10.10 13:36:56.996 | Request to Buy 0.22 Lots NDX100 (SL: 219.0, TP: 370.8) is sent to server
+2025.10.10 13:36:57.105 | → Request to Buy 0.22 Lots NDX100 (SL: 219.0, TP: 370.8) is ACCEPTED, order OID5151188 created (10/10/2025 13:36:57.051 UTC+0)
+2025.10.10 13:36:57.464 | → Order OID5151188 is FILLED at 25158.34, position PID2290016 (10/10/2025 13:36:57.417 UTC+0)
+2025.10.10 13:37:38.808 | Request to amend position PID2290016 (SL: 25159.54) is sent to server
+2025.10.10 13:37:38.886 | → Request to amend position PID2290016 (SL: 25159.54) is ACCEPTED
+2025.10.10 13:40:04.161 | Request to amend position PID2290016 (SL: 25173.58) is sent to server
+2025.10.10 13:40:04.239 | → Request to amend position PID2290016 (SL: 25173.58) is ACCEPTED
+2025.10.10 13:40:20.661 | → Order OID5151189 is FILLED at 25173.36, position PID2290016 closed (10/10/2025 13:40:20.596 UTC+0)
+2025.10.10 15:18:32.267 | Request to Sell 0.03 Lots NDX100 (SL: 1609.6, TP: 2771.5) is sent to server
+2025.10.10 15:18:32.361 | → Request to Sell 0.03 Lots NDX100 (SL: 1609.6, TP: 2771.5) is ACCEPTED, order OID5152442 created (10/10/2025 15:18:32.327 UTC+0)
+2025.10.10 15:18:32.596 | → Order OID5152442 is FILLED at 24762.66, position PID2290586 (10/10/2025 15:18:32.554 UTC+0)
+2025.10.10 15:21:30.250 | Request to amend position PID2290586 (SL: 24756.52) is sent to server
+2025.10.10 15:21:30.328 | → Request to amend position PID2290586 (SL: 24756.52) is ACCEPTED
+2025.10.10 15:26:33.046 | Request to amend position PID2290586 (SL: 24666.88) is sent to server
+2025.10.10 15:26:33.140 | → Request to amend position PID2290586 (SL: 24666.88) is ACCEPTED
+2025.10.10 15:27:09.968 | → Order OID5152443 is FILLED at 24669.64, position PID2290586 closed (10/10/2025 15:27:09.921 UTC+0)
+2025.10.13 09:01:19.434 | cTrader started
+2025.10.14 08:35:42.856 | cTrader started
+2025.10.14 08:35:49.370 | cTrader started
+2025.10.14 10:31:34.605 | Request to Buy 0.02 Lots XAUUSD (SL: 172.8, TP: 406.0) is sent to server
+2025.10.14 10:31:34.745 | → Request to Buy 0.02 Lots XAUUSD (SL: 172.8, TP: 406.0) is ACCEPTED, order OID5163632 created (14/10/2025 10:31:34.668 UTC+0)
+2025.10.14 10:31:34.995 | → Order OID5163632 is FILLED at 4140.73, position PID2295698 (14/10/2025 10:31:34.891 UTC+0)
+2025.10.14 13:39:26.840 | Request to Buy 0.06 Lots NDX100 (SL: 574.6, TP: 1360.8) is sent to server
+2025.10.14 13:39:26.934 | → Request to Buy 0.06 Lots NDX100 (SL: 574.6, TP: 1360.8) is ACCEPTED, order OID5165390 created (14/10/2025 13:39:26.868 UTC+0)
+2025.10.14 13:39:27.247 | → Order OID5165390 is FILLED at 24351.64, position PID2296494 (14/10/2025 13:39:27.190 UTC+0)
+2025.10.14 13:42:20.294 | → Order OID5165391 is FILLED at 24298.66, position PID2296494 closed (14/10/2025 13:42:20.246 UTC+0)
+2025.10.14 13:43:21.689 | Request to Sell 0.04 Lots NDX100 (SL: 859.9, TP: 1092.5) is sent to server
+2025.10.14 13:43:21.783 | → Request to Sell 0.04 Lots NDX100 (SL: 859.9, TP: 1092.5) is ACCEPTED, order OID5165457 created (14/10/2025 13:43:21.744 UTC+0)
+2025.10.14 13:43:22.174 | → Order OID5165457 is FILLED at 24260.86, position PID2296524 (14/10/2025 13:43:22.125 UTC+0)
+2025.10.14 13:43:40.392 | Request to amend position PID2296524 (TP: 24010.02) is sent to server
+2025.10.14 13:43:40.517 | → Request to amend position PID2296524 (TP: 24010.02) is ACCEPTED
+2025.10.14 13:44:56.845 | Request to amend position PID2296524 (SL: 24357.22) is sent to server
+2025.10.14 13:44:57.002 | → Request to amend position PID2296524 (SL: 24357.22) is ACCEPTED
+2025.10.14 13:53:04.539 | Request to amend position PID2296524 (SL: 24371.86) is sent to server
+2025.10.14 13:53:04.617 | → Request to amend position PID2296524 (SL: 24371.86) is ACCEPTED
+2025.10.14 13:53:57.476 | Request to Buy 0.08 Lots NDX100 (SL: 300, TP: 600) is sent to server
+2025.10.14 13:53:57.585 | → Request to Buy 0.08 Lots NDX100 (SL: 300, TP: 600) is ACCEPTED, order OID5165627 created (14/10/2025 13:53:57.540 UTC+0)
+2025.10.14 13:53:58.101 | → Order OID5165627 is FILLED at 24369.04, position PID2296524 (14/10/2025 13:53:57.931 UTC+0)
+2025.10.14 13:54:23.142 | Request to amend position PID2296524 (TP: 24621.46) is sent to server
+2025.10.14 13:54:23.220 | → Request to amend position PID2296524 (TP: 24621.46) is ACCEPTED
+2025.10.14 13:54:29.752 | Request to amend position PID2296524 (SL: 24248.30) is sent to server
+2025.10.14 13:54:29.861 | → Request to amend position PID2296524 (SL: 24248.30) is ACCEPTED
+2025.10.14 13:54:48.345 | Request to amend position PID2296524 (TP: 24619.27) is sent to server
+2025.10.14 13:54:48.439 | → Request to amend position PID2296524 (TP: 24619.27) is ACCEPTED
+2025.10.14 13:56:05.580 | Request to amend position PID2296524 (TP: 24876.22) is sent to server
+2025.10.14 13:56:05.689 | → Request to amend position PID2296524 (TP: 24876.22) is ACCEPTED
+2025.10.14 14:43:10.228 | Request to close position PID2296524 is sent to server
+2025.10.14 14:43:10.306 | → Request to close position PID2296524 is ACCEPTED, order OID5166176 created (14/10/2025 14:43:10.292 UTC+0)
+2025.10.14 14:43:10.712 | → Order OID5166176 is FILLED at 24545.96, position PID2296524 closed (14/10/2025 14:43:10.681 UTC+0)
+2025.10.14 17:14:16.791 | cTrader started
+2025.10.14 17:22:01.081 | Request to Buy 0.11 Lots NDX100 (SL: 313.3, TP: 678.1) is sent to server
+2025.10.14 17:22:01.221 | → Request to Buy 0.11 Lots NDX100 (SL: 313.3, TP: 678.1) is ACCEPTED, order OID5167268 created (14/10/2025 17:22:01.156 UTC+0)
+2025.10.14 17:22:01.627 | → Order OID5167268 is FILLED at 24751.84, position PID2297319 (14/10/2025 17:22:01.480 UTC+0)
+2025.10.14 17:22:25.143 | Request to amend position PID2297319 (TP: 24839.27) is sent to server
+2025.10.14 17:22:25.237 | → Request to amend position PID2297319 (TP: 24839.27) is ACCEPTED
+2025.10.14 17:22:30.551 | Request to amend position PID2297319 (TP: 24866.03) is sent to server
+2025.10.14 17:22:30.614 | → Request to amend position PID2297319 (TP: 24866.03) is ACCEPTED
+2025.10.14 17:34:38.536 | → Order OID5167269 is FILLED at 24718.86, position PID2297319 closed (14/10/2025 17:34:38.459 UTC+0)
+2025.10.15 08:44:40.431 | cTrader started
+2025.10.15 13:55:48.295 | Request to Buy 0.07 Lots NDX100 (SL: 491.0, TP: 764.8) is sent to server
+2025.10.15 13:55:48.436 | → Request to Buy 0.07 Lots NDX100 (SL: 491.0, TP: 764.8) is ACCEPTED, order OID5172317 created (15/10/2025 13:55:48.367 UTC+0)
+2025.10.15 13:55:48.826 | → Order OID5172317 is FILLED at 24830.14, position PID2299718 (15/10/2025 13:55:48.727 UTC+0)
+2025.10.15 13:59:07.539 | Request to amend position PID2299718 (SL: 24830.71) is sent to server
+2025.10.15 13:59:07.617 | → Request to amend position PID2299718 (SL: 24830.71) is ACCEPTED
+2025.10.15 14:02:03.982 | Request to amend position PID2299718 (SL: 24832.30) is sent to server
+2025.10.15 14:02:04.060 | → Request to amend position PID2299718 (SL: 24832.30) is ACCEPTED
+2025.10.15 14:05:43.775 | Request to amend position PID2299718 (SL: 24844.28) is sent to server
+2025.10.15 14:05:43.915 | → Request to amend position PID2299718 (SL: 24844.28) is ACCEPTED
+2025.10.15 14:06:42.900 | Request to amend position PID2299718 (SL: 24861.35) is sent to server
+2025.10.15 14:06:42.978 | → Request to amend position PID2299718 (SL: 24861.35) is ACCEPTED
+2025.10.15 14:07:25.792 | Request to amend position PID2299718 (SL: 24885.68) is sent to server
+2025.10.15 14:07:25.917 | → Request to amend position PID2299718 (SL: 24885.68) is ACCEPTED
+2025.10.15 14:07:29.761 | Request to amend position PID2299718 (TP: 24917.52) is sent to server
+2025.10.15 14:07:29.855 | → Request to amend position PID2299718 (TP: 24917.52) is ACCEPTED
+2025.10.15 14:08:07.933 | Request to amend position PID2299718 (TP: 24930.96) is sent to server
+2025.10.15 14:08:08.011 | → Request to amend position PID2299718 (TP: 24930.96) is ACCEPTED
+2025.10.15 14:08:12.074 | Request to amend position PID2299718 (SL: 24907.11) is sent to server
+2025.10.15 14:08:12.213 | → Request to amend position PID2299718 (SL: 24907.11) is ACCEPTED
+2025.10.15 14:09:14.390 | Request to close position PID2299718 is sent to server
+2025.10.15 14:09:14.484 | → Request to close position PID2299718 is ACCEPTED, order OID5172528 created (15/10/2025 14:09:14.425 UTC+0)
+2025.10.15 14:09:14.812 | → Order OID5172528 is FILLED at 24913.36, position PID2299718 closed (15/10/2025 14:09:14.722 UTC+0)
+2025.10.16 09:39:31.909 | cTrader started
+2025.10.16 14:37:39.236 | Request to Buy 0.12 Lots NDX100 (SL: 287.7, TP: 572.1) is sent to server
+2025.10.16 14:37:39.376 | → Request to Buy 0.12 Lots NDX100 (SL: 287.7, TP: 572.1) is ACCEPTED, order OID5179832 created (16/10/2025 14:37:39.313 UTC+0)
+2025.10.16 14:37:39.845 | → Order OID5179832 is FILLED at 24972.04, position PID2303238 (16/10/2025 14:37:39.705 UTC+0)
+2025.10.16 14:37:45.454 | Request to amend position PID2303238 (TP: 25038.16) is sent to server
+2025.10.16 14:37:45.579 | → Request to amend position PID2303238 (TP: 25038.16) is ACCEPTED
+2025.10.16 14:37:55.439 | Request to amend position PID2303238 (SL: 24920.11) is sent to server
+2025.10.16 14:37:55.532 | → Request to amend position PID2303238 (SL: 24920.11) is ACCEPTED
+2025.10.16 14:38:03.157 | Request to amend position PID2303238 (TP: 25072.61) is sent to server
+2025.10.16 14:38:03.236 | → Request to amend position PID2303238 (TP: 25072.61) is ACCEPTED
+2025.10.16 15:05:59.360 | → Order OID5179833 is FILLED at 24915.96, position PID2303238 closed (16/10/2025 15:05:59.283 UTC+0)
+2025.10.16 15:10:05.883 | Request to Buy 0.07 Lots NDX100 (SL: 490.7, TP: 981.5) is sent to server
+2025.10.16 15:10:06.008 | → Request to Buy 0.07 Lots NDX100 (SL: 490.7, TP: 981.5) is ACCEPTED, order OID5180109 created (16/10/2025 15:10:05.939 UTC+0)
+2025.10.16 15:10:06.243 | → Order OID5180109 is FILLED at 24958.14, position PID2303363 (16/10/2025 15:10:06.198 UTC+0)
+2025.10.16 15:10:46.961 | Request to amend position PID2303363 (SL: 24928.54) is sent to server
+2025.10.16 15:10:47.055 | → Request to amend position PID2303363 (SL: 24928.54) is ACCEPTED
+2025.10.16 15:16:15.107 | → Order OID5180110 is FILLED at 24927.16, position PID2303363 closed (16/10/2025 15:16:15.066 UTC+0)
+2025.10.16 15:25:20.523 | Request to Sell 0.07 Lots NDX100 (SL: 490.0, TP: 2077.5) is sent to server
+2025.10.16 15:25:20.617 | → Request to Sell 0.07 Lots NDX100 (SL: 490.0, TP: 2077.5) is ACCEPTED, order OID5180196 created (16/10/2025 15:25:20.571 UTC+0)
+2025.10.16 15:25:20.945 | → Order OID5180196 is FILLED at 24896.56, position PID2303397 (16/10/2025 15:25:20.896 UTC+0)
+2025.10.16 15:28:12.304 | Request to amend position PID2303397 (SL: 24895.20) is sent to server
+2025.10.16 15:28:12.367 | → Request to amend position PID2303397 (SL: 24895.20) is ACCEPTED
+2025.10.16 15:31:00.274 | Request to amend position PID2303397 (SL: 24866.33) is sent to server
+2025.10.16 15:31:00.352 | → Request to amend position PID2303397 (SL: 24866.33) is ACCEPTED
+2025.10.16 15:32:44.539 | → Order OID5180197 is FILLED at 24868.34, position PID2303397 closed (16/10/2025 15:32:44.499 UTC+0)
+2025.10.16 15:56:56.558 | Request to Sell 0.07 Lots NDX100 (SL: 490.7, TP: 958.9) is sent to server
+2025.10.16 15:56:56.683 | → Request to Sell 0.07 Lots NDX100 (SL: 490.7, TP: 958.9) is ACCEPTED, order OID5180483 created (16/10/2025 15:56:56.628 UTC+0)
+2025.10.16 15:56:57.121 | → Order OID5180483 is FILLED at 24782.66, position PID2303532 (16/10/2025 15:56:57.024 UTC+0)
+2025.10.16 16:00:23.389 | Request to close position PID2303532 is sent to server
+2025.10.16 16:00:23.467 | → Request to close position PID2303532 is ACCEPTED, order OID5180507 created (16/10/2025 16:00:23.439 UTC+0)
+2025.10.16 16:00:23.873 | → Order OID5180507 is FILLED at 24782.74, position PID2303532 closed (16/10/2025 16:00:23.822 UTC+0)
+2025.10.17 07:21:21.161 | cTrader started
+2025.10.17 07:25:43.633 | Request to Buy 0.02 Lots XAUUSD (SL: 171.7, TP: 263.9) is sent to server
+2025.10.17 07:25:43.774 | → Request to Buy 0.02 Lots XAUUSD (SL: 171.7, TP: 263.9) is ACCEPTED, order OID5184886 created (17/10/2025 07:25:43.705 UTC+0)
+2025.10.17 07:25:44.133 | → Order OID5184886 is FILLED at 4348.67, position PID2305474 (17/10/2025 07:25:44.007 UTC+0)
+2025.10.17 07:30:10.455 | Request to amend position PID2305474 (SL: 4321.81) is sent to server
+2025.10.17 07:30:10.533 | → Request to amend position PID2305474 (SL: 4321.81) is ACCEPTED
+2025.10.17 07:49:05.480 | Request to amend position PID2305474 (TP: 4381.07) is sent to server
+2025.10.17 07:49:05.558 | → Request to amend position PID2305474 (TP: 4381.07) is ACCEPTED
+2025.10.17 07:49:19.355 | Request to amend position PID2305474 (TP: 4382.83) is sent to server
+2025.10.17 07:49:19.433 | → Request to amend position PID2305474 (TP: 4382.83) is ACCEPTED
+2025.10.17 08:09:24.528 | → Order OID5184887 is FILLED at 4321.35, position PID2305474 closed (17/10/2025 08:09:24.449 UTC+0)
+2025.10.17 11:01:12.936 | Request to Buy 0.03 Lots NDX100 (SL: 1140.3, TP: 6015.1) is sent to server
+2025.10.17 11:01:13.014 | → Request to Buy 0.03 Lots NDX100 (SL: 1140.3, TP: 6015.1) is ACCEPTED, order OID5186575 created (17/10/2025 11:01:12.980 UTC+0)
+2025.10.17 11:01:13.326 | → Order OID5186575 is FILLED at 24414.04, position PID2306224 (17/10/2025 11:01:13.270 UTC+0)
+2025.10.17 14:17:25.196 | Request to close position PID2306224 is sent to server
+2025.10.17 14:17:25.290 | → Request to close position PID2306224 is ACCEPTED, order OID5188730 created (17/10/2025 14:17:25.249 UTC+0)
+2025.10.17 14:17:25.712 | → Order OID5188730 is FILLED at 24752.36, position PID2306224 closed (17/10/2025 14:17:25.642 UTC+0)
+2025.10.20 13:29:48.009 | cTrader started
+2025.10.20 15:16:50.737 | Request to Sell 0.22 Lots NDX100 (SL: 156.6, TP: 314.0) is sent to server
+2025.10.20 15:16:50.893 | → Request to Sell 0.22 Lots NDX100 (SL: 156.6, TP: 314.0) is ACCEPTED, order OID5196389 created (20/10/2025 15:16:50.798 UTC+0)
+2025.10.20 15:16:51.315 | → Order OID5196389 is FILLED at 25132.96, position PID2310538 (20/10/2025 15:16:51.164 UTC+0)
+2025.10.20 15:17:12.183 | Request to amend position PID2310538 (SL: 25155.29) is sent to server
+2025.10.20 15:17:12.276 | → Request to amend position PID2310538 (SL: 25155.29) is ACCEPTED
+2025.10.20 15:18:12.433 | Request to amend position PID2310538 (SL: 25157.55) is sent to server
+2025.10.20 15:18:12.558 | → Request to amend position PID2310538 (SL: 25157.55) is ACCEPTED
+2025.10.20 15:20:10.895 | → Order OID5196390 is FILLED at 25157.74, position PID2310538 closed (20/10/2025 15:20:10.786 UTC+0)
+2025.10.20 15:21:46.473 | Request to Buy 0.10 Lots NDX100 (SL: 343.3, TP: 322.7) is sent to server
+2025.10.20 15:21:46.582 | → Request to Buy 0.10 Lots NDX100 (SL: 343.3, TP: 322.7) is ACCEPTED, order OID5196447 created (20/10/2025 15:21:46.524 UTC+0)
+2025.10.20 15:21:46.785 | → Order OID5196447 is FILLED at 25159.24, position PID2310564 (20/10/2025 15:21:46.752 UTC+0)
+2025.10.20 15:21:59.098 | Request to amend position PID2310564 (TP: 25209.97) is sent to server
+2025.10.20 15:21:59.192 | → Request to amend position PID2310564 (TP: 25209.97) is ACCEPTED
+2025.10.20 15:22:14.035 | Request to amend position PID2310564 (TP: 25230.88) is sent to server
+2025.10.20 15:22:14.129 | → Request to amend position PID2310564 (TP: 25230.88) is ACCEPTED
+2025.10.20 17:08:15.144 | Request to close position PID2310564 is sent to server
+2025.10.20 17:08:15.253 | → Request to close position PID2310564 is ACCEPTED, order OID5197022 created (20/10/2025 17:08:15.215 UTC+0)
+2025.10.20 17:08:15.550 | → Order OID5197022 is FILLED at 25164.16, position PID2310564 closed (20/10/2025 17:08:15.493 UTC+0)
+2025.10.21 09:33:02.331 | cTrader started
+2025.10.21 11:13:36.928 | Request to Buy 0.17 Lots NDX100 (SL: 202.0, TP: 223.3) is sent to server
+2025.10.21 11:13:37.085 | → Request to Buy 0.17 Lots NDX100 (SL: 202.0, TP: 223.3) is ACCEPTED, order OID5200965 created (21/10/2025 11:13:37.010 UTC+0)
+2025.10.21 11:13:37.350 | → Order OID5200965 is FILLED at 25130.94, position PID2312521 (21/10/2025 11:13:37.242 UTC+0)
+2025.10.21 11:13:56.178 | Request to amend position PID2312521 (TP: 25204.38) is sent to server
+2025.10.21 11:13:56.272 | → Request to amend position PID2312521 (TP: 25204.38) is ACCEPTED
+2025.10.21 11:14:55.319 | Request to amend position PID2312521 (TP: 25200.00) is sent to server
+2025.10.21 11:14:55.428 | → Request to amend position PID2312521 (TP: 25200.00) is ACCEPTED
+2025.10.21 13:13:19.095 | → Order OID5200966 is FILLED at 25110.26, position PID2312521 closed (21/10/2025 13:13:18.955 UTC+0)
+2025.10.21 13:42:07.598 | Request to Sell 0.12 Lots NDX100 (SL: 285.4, TP: 1088.5) is sent to server
+2025.10.21 13:42:07.692 | → Request to Sell 0.12 Lots NDX100 (SL: 285.4, TP: 1088.5) is ACCEPTED, order OID5202230 created (21/10/2025 13:42:07.653 UTC+0)
+2025.10.21 13:42:08.020 | → Order OID5202230 is FILLED at 25080.36, position PID2313111 (21/10/2025 13:42:07.965 UTC+0)
+2025.10.21 13:43:23.504 | Request to amend position PID2313111 (TP: 24955.22) is sent to server
+2025.10.21 13:43:23.582 | → Request to amend position PID2313111 (TP: 24955.22) is ACCEPTED
+2025.10.21 14:19:00.724 | Request to amend position PID2313111 (SL: 25112.09) is sent to server
+2025.10.21 14:19:00.802 | → Request to amend position PID2313111 (SL: 25112.09) is ACCEPTED
+2025.10.21 14:19:55.552 | → Order OID5202231 is FILLED at 25111.54, position PID2313111 closed (21/10/2025 14:19:55.504 UTC+0)
+2025.10.21 14:20:35.911 | Request to Buy 0.07 Lots NDX100 (SL: 488.0, TP: 776.9) is sent to server
+2025.10.21 14:20:36.021 | → Request to Buy 0.07 Lots NDX100 (SL: 488.0, TP: 776.9) is ACCEPTED, order OID5202907 created (21/10/2025 14:20:35.985 UTC+0)
+2025.10.21 14:20:36.271 | → Order OID5202907 is FILLED at 25118.74, position PID2313397 (21/10/2025 14:20:36.211 UTC+0)
+2025.10.21 14:26:38.202 | → Order OID5202908 is FILLED at 25068.86, position PID2313397 closed (21/10/2025 14:26:38.152 UTC+0)
+2025.10.21 15:31:14.889 | cTrader started
+2025.10.22 08:19:34.804 | cTrader started
+2025.10.22 08:21:21.419 | Request to Buy 0.01 Lots XAUUSD (SL: 477.0, TP: 1332.0) is sent to server
+2025.10.22 08:21:21.607 | → Request to Buy 0.01 Lots XAUUSD (SL: 477.0, TP: 1332.0) is ACCEPTED, order OID5207831 created (22/10/2025 08:21:21.472 UTC+0)
+2025.10.22 08:21:21.935 | → Order OID5207831 is FILLED at 4101.49, position PID2315547 (22/10/2025 08:21:21.800 UTC+0)
+2025.10.22 08:21:36.122 | Request to amend position PID2315547 (SL: 4004.53) is sent to server
+2025.10.22 08:21:36.200 | → Request to amend position PID2315547 (SL: 4004.53) is ACCEPTED
+2025.10.22 08:21:43.407 | Request to amend position PID2315547 (TP: 4381.69) is sent to server
+2025.10.22 08:21:43.485 | → Request to amend position PID2315547 (TP: 4381.69) is ACCEPTED
+2025.10.22 10:59:05.989 | Request to amend position PID2315547 (SL: 3994.93) is sent to server
+2025.10.22 10:59:06.067 | → Request to amend position PID2315547 (SL: 3994.93) is ACCEPTED
+2025.10.22 20:41:07.052 | cTrader started
+2025.10.22 20:42:07.106 | Request to close position PID2315547 is sent to server
+2025.10.22 20:42:07.263 | → Request to close position PID2315547 is ACCEPTED, order OID5213290 created (22/10/2025 20:42:07.159 UTC+0)
+2025.10.22 20:42:07.466 | → Order OID5213290 is FILLED at 4102.07, position PID2315547 closed (22/10/2025 20:42:07.369 UTC+0)
+2025.10.23 09:11:37.605 | cTrader started
+2025.10.23 12:51:46.664 | cTrader started
+2025.10.23 14:23:59.805 | Request to Buy 0.09 Lots NDX100 (SL: 530.0, TP: 512.8) is sent to server
+2025.10.23 14:23:59.946 | → Request to Buy 0.09 Lots NDX100 (SL: 530.0, TP: 512.8) is ACCEPTED, order OID5218711 created (23/10/2025 14:23:59.868 UTC+0)
+2025.10.23 14:24:00.336 | → Order OID5218711 is FILLED at 24985.84, position PID2320324 (23/10/2025 14:24:00.202 UTC+0)
+2025.10.23 14:25:05.215 | Request to amend position PID2320324 (TP: 25180.74) is sent to server
+2025.10.23 14:25:05.308 | → Request to amend position PID2320324 (TP: 25180.74) is ACCEPTED
+2025.10.23 14:41:18.059 | Request to amend position PID2320324 (SL: 24986.71) is sent to server
+2025.10.23 14:41:18.200 | → Request to amend position PID2320324 (SL: 24986.71) is ACCEPTED
+2025.10.23 15:22:23.356 | → Order OID5218712 is FILLED at 24987.46, position PID2320324 closed (23/10/2025 15:22:23.268 UTC+0)
+2025.10.24 08:00:56.712 | cTrader started
+2025.10.24 10:09:34.469 | cTrader started
+2025.10.24 10:29:15.567 | cTrader started
+2025.10.24 13:34:34.116 | Request to Buy 0.12 Lots NDX100 (SL: 397.6, TP: 795.4) is sent to server
+2025.10.24 13:34:34.257 | → Request to Buy 0.12 Lots NDX100 (SL: 397.6, TP: 795.4) is ACCEPTED, order OID5224484 created (24/10/2025 13:34:34.169 UTC+0)
+2025.10.24 13:34:34.538 | → Order OID5224484 is FILLED at 25343.74, position PID2322813 (24/10/2025 13:34:34.418 UTC+0)
+2025.10.24 13:37:00.648 | Request to amend position PID2322813 (SL: 25345.44) is sent to server
+2025.10.24 13:37:00.741 | → Request to amend position PID2322813 (SL: 25345.44) is ACCEPTED
+2025.10.24 13:41:23.902 | Request to amend position PID2322813 (TP: 25443.86) is sent to server
+2025.10.24 13:41:23.980 | → Request to amend position PID2322813 (TP: 25443.86) is ACCEPTED
+2025.10.24 13:43:45.034 | → Order OID5224485 is FILLED at 25347.06, position PID2322813 closed (24/10/2025 13:43:44.959 UTC+0)
+2025.10.24 17:59:19.088 | Request to Sell 0.28 Lots NDX100 (SL: 170.4, TP: 272.5) is sent to server
+2025.10.24 17:59:19.197 | → Request to Sell 0.28 Lots NDX100 (SL: 170.4, TP: 272.5) is ACCEPTED, order OID5226202 created (24/10/2025 17:59:19.128 UTC+0)
+2025.10.24 17:59:19.432 | → Order OID5226202 is FILLED at 25401.26, position PID2323541 (24/10/2025 17:59:19.383 UTC+0)
+2025.10.24 18:03:28.231 | Request to amend position PID2323541 (SL: 25400.96) is sent to server
+2025.10.24 18:03:28.340 | → Request to amend position PID2323541 (SL: 25400.96) is ACCEPTED
+2025.10.24 18:03:52.106 | Request to amend position PID2323541 (SL: 25397.77) is sent to server
+2025.10.24 18:03:52.200 | → Request to amend position PID2323541 (SL: 25397.77) is ACCEPTED
+2025.10.24 18:04:04.434 | Request to close position PID2323541 is sent to server
+2025.10.24 18:04:04.543 | → Request to close position PID2323541 is ACCEPTED, order OID5226212 created (24/10/2025 18:04:04.493 UTC+0)
+2025.10.24 18:04:04.872 | → Order OID5226212 is FILLED at 25392.84, position PID2323541 closed (24/10/2025 18:04:04.808 UTC+0)
+2025.10.27 11:05:44.684 | cTrader started
+2025.10.27 13:33:04.392 | cTrader started
+2025.10.27 14:16:57.769 | Request to Sell 0.45 Lots NDX100 (SL: 106.3, TP: 257.5) is sent to server
+2025.10.27 14:16:57.910 | → Request to Sell 0.45 Lots NDX100 (SL: 106.3, TP: 257.5) is ACCEPTED, order OID5231918 created (27/10/2025 14:16:57.830 UTC+0)
+2025.10.27 14:16:58.316 | → Order OID5231918 is FILLED at 25695.86, position PID2326149 (27/10/2025 14:16:58.181 UTC+0)
+2025.10.27 14:17:11.988 | Request to amend position PID2326149 (SL: 25718.09) is sent to server
+2025.10.27 14:17:12.066 | → Request to amend position PID2326149 (SL: 25718.09) is ACCEPTED
+2025.10.27 14:17:15.988 | Request to amend position PID2326149 (SL: 25707.97) is sent to server
+2025.10.27 14:17:16.066 | → Request to amend position PID2326149 (SL: 25707.97) is ACCEPTED
+2025.10.27 14:17:32.144 | Request to amend position PID2326149 (SL: 25717.94) is sent to server
+2025.10.27 14:17:32.223 | → Request to amend position PID2326149 (SL: 25717.94) is ACCEPTED
+2025.10.27 14:17:54.223 | Request to amend position PID2326149 (TP: 25653.45) is sent to server
+2025.10.27 14:17:54.316 | → Request to amend position PID2326149 (TP: 25653.45) is ACCEPTED
+2025.10.27 14:19:57.546 | Request to amend position PID2326149 (SL: 25695.48) is sent to server
+2025.10.27 14:19:57.640 | → Request to amend position PID2326149 (SL: 25695.48) is ACCEPTED
+2025.10.27 14:20:16.093 | Request to close position PID2326149 is sent to server
+2025.10.27 14:20:16.171 | → Request to close position PID2326149 is ACCEPTED, order OID5231997 created (27/10/2025 14:20:16.142 UTC+0)
+2025.10.27 14:20:16.484 | → Order OID5231997 is FILLED at 25689.34, position PID2326149 closed (27/10/2025 14:20:16.406 UTC+0)
+2025.10.27 15:01:01.589 | Request to Buy 0.30 Lots NDX100 (SL: 159.7, TP: 330.4) is sent to server
+2025.10.27 15:01:01.683 | → Request to Buy 0.30 Lots NDX100 (SL: 159.7, TP: 330.4) is ACCEPTED, order OID5232471 created (27/10/2025 15:01:01.640 UTC+0)
+2025.10.27 15:01:01.980 | → Order OID5232471 is FILLED at 25726.94, position PID2326400 (27/10/2025 15:01:01.953 UTC+0)
+2025.10.27 15:02:23.891 | Request to amend position PID2326400 (TP: 25744.84) is sent to server
+2025.10.27 15:02:23.985 | → Request to amend position PID2326400 (TP: 25744.84) is ACCEPTED
+2025.10.27 15:02:55.360 | Request to close position PID2326400 is sent to server
+2025.10.27 15:02:55.454 | → Request to close position PID2326400 is ACCEPTED, order OID5232512 created (27/10/2025 15:02:55.405 UTC+0)
+2025.10.27 15:02:55.688 | → Order OID5232512 is FILLED at 25728.36, position PID2326400 closed (27/10/2025 15:02:55.629 UTC+0)
+2025.10.28 08:59:19.842 | cTrader started
+2025.10.28 13:42:42.635 | cTrader started
+2025.10.28 13:56:42.370 | Request to Buy 0.12 Lots NDX100 (SL: 399.3, TP: 600.0) is sent to server
+2025.10.28 13:56:42.495 | → Request to Buy 0.12 Lots NDX100 (SL: 399.3, TP: 600.0) is ACCEPTED, order OID5239744 created (28/10/2025 13:56:42.420 UTC+0)
+2025.10.28 13:56:42.745 | → Order OID5239744 is FILLED at 25937.14, position PID2329544 (28/10/2025 13:56:42.621 UTC+0)
+2025.10.28 13:57:12.683 | Request to amend position PID2329544 (TP: 26007.84) is sent to server
+2025.10.28 13:57:12.777 | → Request to amend position PID2329544 (TP: 26007.84) is ACCEPTED
+2025.10.28 13:57:23.605 | Request to amend position PID2329544 (TP: 26015.62) is sent to server
+2025.10.28 13:57:23.683 | → Request to amend position PID2329544 (TP: 26015.62) is ACCEPTED
+2025.10.28 13:57:35.964 | Request to amend position PID2329544 (TP: 26017.24) is sent to server
+2025.10.28 13:57:36.042 | → Request to amend position PID2329544 (TP: 26017.24) is ACCEPTED
+2025.10.28 14:27:11.862 | Request to amend position PID2329544 (SL: 25885.05) is sent to server
+2025.10.28 14:27:11.956 | → Request to amend position PID2329544 (SL: 25885.05) is ACCEPTED
+2025.10.28 14:27:39.206 | Request to amend position PID2329544 (SL: 25866.47) is sent to server
+2025.10.28 14:27:39.300 | → Request to amend position PID2329544 (SL: 25866.47) is ACCEPTED
+2025.10.28 14:45:53.186 | → Order OID5239745 is FILLED at 25865.86, position PID2329544 closed (28/10/2025 14:45:53.125 UTC+0)
+2025.10.28 14:55:12.500 | Request to Buy 0.15 Lots NDX100 (SL: 317.5, TP: 797.8) is sent to server
+2025.10.28 14:55:12.594 | → Request to Buy 0.15 Lots NDX100 (SL: 317.5, TP: 797.8) is ACCEPTED, order OID5240350 created (28/10/2025 14:55:12.538 UTC+0)
+2025.10.28 14:55:12.953 | → Order OID5240350 is FILLED at 25903.04, position PID2329828 (28/10/2025 14:55:12.903 UTC+0)
+2025.10.28 15:02:38.870 | Request to amend position PID2329828 (SL: 25886.48) is sent to server
+2025.10.28 15:02:38.964 | → Request to amend position PID2329828 (SL: 25886.48) is ACCEPTED
+2025.10.28 15:04:00.355 | Request to close position PID2329828 is sent to server
+2025.10.28 15:04:00.449 | → Request to close position PID2329828 is ACCEPTED, order OID5240402 created (28/10/2025 15:04:00.407 UTC+0)
+2025.10.28 15:04:00.730 | → Order OID5240402 is FILLED at 25891.36, position PID2329828 closed (28/10/2025 15:04:00.671 UTC+0)
+2025.10.28 16:39:42.592 | cTrader started
+2025.10.29 18:05:42.486 | cTrader started
+2025.10.29 18:10:21.527 | Request to Sell 0.20 Lots NDX100 (SL: 237.8, TP: 417.1) is sent to server
+2025.10.29 18:10:21.684 | → Request to Sell 0.20 Lots NDX100 (SL: 237.8, TP: 417.1) is ACCEPTED, order OID5249777 created (29/10/2025 18:10:21.594 UTC+0)
+2025.10.29 18:10:22.059 | → Order OID5249777 is FILLED at 26089.56, position PID2334070 (29/10/2025 18:10:21.922 UTC+0)
+2025.10.29 18:10:50.105 | Request to amend position PID2334070 (TP: 26024.65) is sent to server
+2025.10.29 18:10:50.230 | → Request to amend position PID2334070 (TP: 26024.65) is ACCEPTED
+2025.10.29 18:11:09.074 | Request to amend position PID2334070 (SL: 26117.12) is sent to server
+2025.10.29 18:11:09.152 | → Request to amend position PID2334070 (SL: 26117.12) is ACCEPTED
+2025.10.29 18:31:20.699 | → Order OID5249778 is FILLED at 26117.07, position PID2334070 closed (29/10/2025 18:31:20.598 UTC+0)
+2025.10.29 18:36:47.276 | Request to Sell 0.30 Lots NDX100 (SL: 300, TP: 600) is sent to server
+2025.10.29 18:36:47.385 | → Request to Sell 0.30 Lots NDX100 (SL: 300, TP: 600) is ACCEPTED, order OID5250034 created (29/10/2025 18:36:47.321 UTC+0)
+2025.10.29 18:36:47.604 | → Order OID5250034 is FILLED at 25988.86, position PID2334168 (29/10/2025 18:36:47.549 UTC+0)
+2025.10.29 18:36:59.369 | → Order OID5250035 is FILLED at 26015.74, position PID2334168 closed (29/10/2025 18:36:59.304 UTC+0)
+2025.10.29 18:48:10.065 | cTrader started

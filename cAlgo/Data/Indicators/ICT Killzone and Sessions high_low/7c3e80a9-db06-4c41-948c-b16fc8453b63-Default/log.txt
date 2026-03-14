@@ -1,0 +1,2 @@
+13/03/2026 13:34:12.851 | Info | Indicator instance [ICT Killzone and Sessions high_low, NDX100, m1] loaded.
+13/03/2026 15:27:59.716 | Info | Indicator instance [ICT Killzone and Sessions high_low, NDX100, m1] unloaded.

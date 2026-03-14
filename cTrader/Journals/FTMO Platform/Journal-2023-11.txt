@@ -1,0 +1,588 @@
+2023.11.01 07:59:13.754 | cTrader started
+2023.11.01 09:48:07.946 | Request to Buy 0.50 Lots EURUSD is sent to server
+2023.11.01 09:48:08.117 | → Request to Buy 0.50 Lots EURUSD is ACCEPTED, order OID75251994 created (01/11/2023 09:48:08.019 UTC+0)
+2023.11.01 09:48:08.399 | → Order OID75251994 is FILLED at 1.05505, position PID14090750 (01/11/2023 09:48:08.259 UTC+0)
+2023.11.01 09:48:25.836 | Request to amend position PID14090750 (SL: 1.05450) is sent to server
+2023.11.01 09:48:25.961 | → Request to amend position PID14090750 (SL: 1.05450) is ACCEPTED
+2023.11.01 09:49:19.464 | Request to amend position PID14090750 (TP: 1.05805) is sent to server
+2023.11.01 09:49:19.557 | → Request to amend position PID14090750 (TP: 1.05805) is ACCEPTED
+2023.11.01 11:16:51.737 | → Order OID75252005 is FILLED at 1.05448, position PID14090750 closed (01/11/2023 11:16:51.633 UTC+0)
+2023.11.01 13:38:10.203 | Request to Buy 1.00 Lots GBPUSD is sent to server
+2023.11.01 13:38:10.312 | → Request to Buy 1.00 Lots GBPUSD is ACCEPTED, order OID75267296 created (01/11/2023 13:38:10.272 UTC+0)
+2023.11.01 13:38:10.609 | → Order OID75267296 is FILLED at 1.21007, position PID14097131 (01/11/2023 13:38:10.560 UTC+0)
+2023.11.01 13:38:20.328 | Request to amend position PID14097131 (SL: 1.20957) is sent to server
+2023.11.01 13:38:20.453 | → Request to amend position PID14097131 (SL: 1.20957) is ACCEPTED
+2023.11.01 13:40:17.109 | → Order OID75267316 is FILLED at 1.20956, position PID14097131 closed (01/11/2023 13:40:17.020 UTC+0)
+2023.11.01 19:57:14.028 | Request to Sell 0.50 Lots EURUSD is sent to server
+2023.11.01 19:57:14.122 | → Request to Sell 0.50 Lots EURUSD is ACCEPTED, order OID75295501 created (01/11/2023 19:57:14.075 UTC+0)
+2023.11.01 19:57:14.387 | → Order OID75295501 is FILLED at 1.05672, position PID14109041 (01/11/2023 19:57:14.334 UTC+0)
+2023.11.01 19:57:30.971 | Request to amend position PID14109041 (SL: 1.05722) is sent to server
+2023.11.01 19:57:31.096 | → Request to amend position PID14109041 (SL: 1.05722) is ACCEPTED
+2023.11.01 19:59:46.674 | Request to amend position PID14109041 (TP: 1.05172) is sent to server
+2023.11.01 19:59:46.846 | → Request to amend position PID14109041 (TP: 1.05172) is ACCEPTED
+2023.11.01 20:04:55.751 | → Order OID75295512 is FILLED at 1.05724, position PID14109041 closed (01/11/2023 20:04:55.694 UTC+0)
+2023.11.02 11:00:54.703 | cTrader started
+2023.11.02 11:22:59.170 | Request to Sell 0.50 Lots EURUSD is sent to server
+2023.11.02 11:22:59.342 | → Request to Sell 0.50 Lots EURUSD is ACCEPTED, order OID75318226 created (02/11/2023 11:22:59.220 UTC+0)
+2023.11.02 11:22:59.639 | → Order OID75318226 is FILLED at 1.06333, position PID14119572 (02/11/2023 11:22:59.476 UTC+0)
+2023.11.02 11:23:14.952 | Request to amend position PID14119572 (SL: 1.06400) is sent to server
+2023.11.02 11:23:15.077 | → Request to amend position PID14119572 (SL: 1.06400) is ACCEPTED
+2023.11.02 12:08:10.524 | → Order OID75318231 is FILLED at 1.064, position PID14119572 closed (02/11/2023 12:08:10.438 UTC+0)
+2023.11.02 14:07:17.132 | Request to Buy 0.50 Lots GBPUSD is sent to server
+2023.11.02 14:07:17.226 | → Request to Buy 0.50 Lots GBPUSD is ACCEPTED, order OID75332199 created (02/11/2023 14:07:17.188 UTC+0)
+2023.11.02 14:07:17.492 | → Order OID75332199 is FILLED at 1.21890, position PID14125694 (02/11/2023 14:07:17.447 UTC+0)
+2023.11.02 14:07:38.304 | Request to amend position PID14125694 (SL: 1.21820) is sent to server
+2023.11.02 14:07:38.382 | → Request to amend position PID14125694 (SL: 1.21820) is ACCEPTED
+2023.11.02 14:09:21.211 | → Order OID75332226 is FILLED at 1.21816, position PID14125694 closed (02/11/2023 14:09:21.162 UTC+0)
+2023.11.02 18:02:48.861 | Request to Buy 0.50 Lots GBPUSD (SL: 3.0) is sent to server
+2023.11.02 18:02:49.002 | → Request to Buy 0.50 Lots GBPUSD (SL: 3.0) is ACCEPTED, order OID75348918 created (02/11/2023 18:02:48.945 UTC+0)
+2023.11.02 18:02:49.205 | → Order OID75348918 is FILLED at 1.22016, position PID14132937 (02/11/2023 18:02:49.151 UTC+0)
+2023.11.02 18:05:15.872 | Request to Sell 1.00 Lots GBPUSD is sent to server
+2023.11.02 18:05:15.997 | → Request to Sell 1.00 Lots GBPUSD is ACCEPTED, order OID75348995 created (02/11/2023 18:05:15.946 UTC+0)
+2023.11.02 18:05:16.232 | → Order OID75348995 is FILLED at 1.21995, position PID14132937 (02/11/2023 18:05:16.165 UTC+0)
+2023.11.02 18:05:44.247 | Request to amend position PID14132937 (SL: 1.22045) is sent to server
+2023.11.02 18:05:44.372 | → Request to amend position PID14132937 (SL: 1.22045) is ACCEPTED
+2023.11.02 18:15:04.562 | → Order OID75349008 is FILLED at 1.22047, position PID14132937 closed (02/11/2023 18:15:04.486 UTC+0)
+2023.11.03 10:12:28.416 | cTrader started
+2023.11.03 14:36:00.760 | Request to Sell 0.50 Lots EURUSD is sent to server
+2023.11.03 14:36:00.979 | → Request to Sell 0.50 Lots EURUSD is ACCEPTED, order OID75388703 created (03/11/2023 14:36:00.834 UTC+0)
+2023.11.03 14:36:01.182 | → Order OID75388703 is FILLED at 1.07038, position PID14150360 (03/11/2023 14:36:01.049 UTC+0)
+2023.11.03 14:36:13.401 | Request to amend position PID14150360 (SL: 1.07100) is sent to server
+2023.11.03 14:36:13.557 | → Request to amend position PID14150360 (SL: 1.07100) is ACCEPTED
+2023.11.03 14:39:34.914 | → Order OID75388735 is FILLED at 1.071, position PID14150360 closed (03/11/2023 14:39:34.831 UTC+0)
+2023.11.03 14:43:06.398 | Request to Sell 0.50 Lots EURUSD is sent to server
+2023.11.03 14:43:06.508 | → Request to Sell 0.50 Lots EURUSD is ACCEPTED, order OID75389473 created (03/11/2023 14:43:06.462 UTC+0)
+2023.11.03 14:43:06.727 | → Order OID75389473 is FILLED at 1.07015, position PID14150684 (03/11/2023 14:43:06.682 UTC+0)
+2023.11.03 14:43:27.148 | Request to amend position PID14150684 (SL: 1.07120) is sent to server
+2023.11.03 14:43:27.258 | → Request to amend position PID14150684 (SL: 1.07120) is ACCEPTED
+2023.11.03 14:46:29.313 | Request to amend position PID14150684 (SL: 1.07215) is sent to server
+2023.11.03 14:46:29.531 | → Request to amend position PID14150684 (SL: 1.07215) is ACCEPTED
+2023.11.03 15:00:06.006 | → Order OID75389527 is FILLED at 1.07219, position PID14150684 closed (03/11/2023 15:00:05.914 UTC+0)
+2023.11.06 07:00:24.423 | cTrader started
+2023.11.06 07:30:29.448 | Request to Sell 0.50 Lots GBPUSD is sent to server
+2023.11.06 07:30:29.605 | → Request to Sell 0.50 Lots GBPUSD is ACCEPTED, order OID75415943 created (06/11/2023 07:30:29.540 UTC+0)
+2023.11.06 07:30:29.886 | → Order OID75415943 is FILLED at 1.23891, position PID14162542 (06/11/2023 07:30:29.780 UTC+0)
+2023.11.06 07:30:39.417 | Request to Sell 0.50 Lots EURUSD is sent to server
+2023.11.06 07:30:39.511 | → Request to Sell 0.50 Lots EURUSD is ACCEPTED, order OID75415953 created (06/11/2023 07:30:39.497 UTC+0)
+2023.11.06 07:30:39.745 | → Order OID75415953 is FILLED at 1.07380, position PID14162548 (06/11/2023 07:30:39.716 UTC+0)
+2023.11.06 07:30:53.526 | Request to amend position PID14162542 (SL: 1.23941) is sent to server
+2023.11.06 07:30:53.636 | → Request to amend position PID14162542 (SL: 1.23941) is ACCEPTED
+2023.11.06 07:30:59.464 | Request to amend position PID14162548 (SL: 1.07430) is sent to server
+2023.11.06 07:30:59.558 | → Request to amend position PID14162548 (SL: 1.07430) is ACCEPTED
+2023.11.06 07:33:29.052 | Request to amend position PID14162548 (TP: 1.07130) is sent to server
+2023.11.06 07:33:29.130 | → Request to amend position PID14162548 (TP: 1.07130) is ACCEPTED
+2023.11.06 07:33:38.661 | Request to amend position PID14162542 (TP: 1.23641) is sent to server
+2023.11.06 07:33:38.739 | → Request to amend position PID14162542 (TP: 1.23641) is ACCEPTED
+2023.11.06 07:39:36.644 | → Order OID75415972 is FILLED at 1.23942, position PID14162542 closed (06/11/2023 07:39:36.546 UTC+0)
+2023.11.06 07:42:08.504 | → Order OID75415981 is FILLED at 1.0743, position PID14162548 closed (06/11/2023 07:42:08.432 UTC+0)
+2023.11.06 07:57:30.394 | Request to Sell 0.50 Lots GBPUSD is sent to server
+2023.11.06 07:57:30.487 | → Request to Sell 0.50 Lots GBPUSD is ACCEPTED, order OID75416917 created (06/11/2023 07:57:30.435 UTC+0)
+2023.11.06 07:57:30.737 | → Order OID75416917 is FILLED at 1.23823, position PID14163018 (06/11/2023 07:57:30.686 UTC+0)
+2023.11.06 07:57:42.128 | Request to Sell 0.50 Lots EURUSD is sent to server
+2023.11.06 07:57:42.253 | → Request to Sell 0.50 Lots EURUSD is ACCEPTED, order OID75416922 created (06/11/2023 07:57:42.182 UTC+0)
+2023.11.06 07:57:42.519 | → Order OID75416922 is FILLED at 1.07348, position PID14163023 (06/11/2023 07:57:42.469 UTC+0)
+2023.11.06 07:57:51.925 | Request to amend position PID14163018 (SL: 1.23923) is sent to server
+2023.11.06 07:57:52.019 | → Request to amend position PID14163018 (SL: 1.23923) is ACCEPTED
+2023.11.06 07:57:59.909 | Request to amend position PID14163023 (SL: 1.07448) is sent to server
+2023.11.06 07:58:00.003 | → Request to amend position PID14163023 (SL: 1.07448) is ACCEPTED
+2023.11.06 08:03:14.998 | Request to amend position PID14163018 (SL: 1.23973) is sent to server
+2023.11.06 08:03:15.091 | → Request to amend position PID14163018 (SL: 1.23973) is ACCEPTED
+2023.11.06 08:11:25.040 | → Order OID75416938 is FILLED at 1.07448, position PID14163023 closed (06/11/2023 08:11:24.996 UTC+0)
+2023.11.06 08:17:08.390 | → Order OID75416929 is FILLED at 1.23975, position PID14163018 closed (06/11/2023 08:17:08.319 UTC+0)
+2023.11.07 09:38:18.135 | cTrader started
+2023.11.07 09:39:01.598 | Request to Buy 0.20 Lots EURUSD (SL: 10.0) is sent to server
+2023.11.07 09:39:01.769 | → Request to Buy 0.20 Lots EURUSD (SL: 10.0) is ACCEPTED, order OID75478790 created (07/11/2023 09:39:01.674 UTC+0)
+2023.11.07 09:39:02.019 | → Order OID75478790 is FILLED at 1.06922, position PID14190220 (07/11/2023 09:39:01.877 UTC+0)
+2023.11.07 09:40:07.330 | Request to amend position PID14190220 (TP: 1.07122) is sent to server
+2023.11.07 09:40:07.424 | → Request to amend position PID14190220 (TP: 1.07122) is ACCEPTED
+2023.11.07 10:02:14.951 | → Order OID75478792 is FILLED at 1.06821, position PID14190220 closed (07/11/2023 10:02:14.855 UTC+0)
+2023.11.07 10:47:51.947 | Request to Buy 0.20 Lots EURUSD is sent to server
+2023.11.07 10:47:52.072 | → Request to Buy 0.20 Lots EURUSD is ACCEPTED, order OID75482778 created (07/11/2023 10:47:51.996 UTC+0)
+2023.11.07 10:47:52.275 | → Order OID75482778 is FILLED at 1.06864, position PID14191996 (07/11/2023 10:47:52.210 UTC+0)
+2023.11.07 10:48:02.619 | Request to amend position PID14191996 (SL: 1.06764) is sent to server
+2023.11.07 10:48:02.744 | → Request to amend position PID14191996 (SL: 1.06764) is ACCEPTED
+2023.11.07 10:48:27.744 | Request to amend position PID14191996 (TP: 1.07114) is sent to server
+2023.11.07 10:48:27.885 | → Request to amend position PID14191996 (TP: 1.07114) is ACCEPTED
+2023.11.07 11:17:41.745 | → Order OID75482786 is FILLED at 1.06764, position PID14191996 closed (07/11/2023 11:17:41.678 UTC+0)
+2023.11.09 18:03:22.114 | cTrader started
+2023.11.10 11:52:27.561 | cTrader started
+2023.11.10 12:12:18.948 | Request to Buy 0.20 Lots EURUSD (SL: 5.0) is sent to server
+2023.11.10 12:12:19.151 | → Request to Buy 0.20 Lots EURUSD (SL: 5.0) is ACCEPTED, order OID75673611 created (10/11/2023 12:12:19.028 UTC+0)
+2023.11.10 12:12:19.354 | → Order OID75673611 is FILLED at 1.06723, position PID14275805 (10/11/2023 12:12:19.240 UTC+0)
+2023.11.10 12:13:19.041 | Request to amend position PID14275805 (TP: 1.06883) is sent to server
+2023.11.10 12:13:19.150 | → Request to amend position PID14275805 (TP: 1.06883) is ACCEPTED
+2023.11.10 12:26:03.924 | Request to amend position PID14275805 (SL: 1.06726) is sent to server
+2023.11.10 12:26:04.018 | → Request to amend position PID14275805 (SL: 1.06726) is ACCEPTED
+2023.11.10 12:36:18.443 | Request to amend position PID14275805 is sent to server
+2023.11.10 12:36:18.537 | → Request to amend position PID14275805 is ACCEPTED
+2023.11.10 12:51:42.716 | → Order OID75673612 is FILLED at 1.06883, position PID14275805 closed (10/11/2023 12:51:42.603 UTC+0)
+2023.11.10 15:08:51.825 | Request to Buy 0.20 Lots EURUSD is sent to server
+2023.11.10 15:08:51.981 | → Request to Buy 0.20 Lots EURUSD is ACCEPTED, order OID75690622 created (10/11/2023 15:08:51.914 UTC+0)
+2023.11.10 15:08:52.231 | → Order OID75690622 is FILLED at 1.06718, position PID14283082 (10/11/2023 15:08:52.178 UTC+0)
+2023.11.10 15:09:04.512 | Request to amend position PID14283082 (SL: 1.06618) is sent to server
+2023.11.10 15:09:04.621 | → Request to amend position PID14283082 (SL: 1.06618) is ACCEPTED
+2023.11.10 15:10:30.966 | Request to amend position PID14283082 (TP: 1.06918) is sent to server
+2023.11.10 15:10:31.060 | → Request to amend position PID14283082 (TP: 1.06918) is ACCEPTED
+2023.11.10 16:04:58.763 | Request to amend position PID14283082 (SL: 1.06721) is sent to server
+2023.11.10 16:04:58.888 | → Request to amend position PID14283082 (SL: 1.06721) is ACCEPTED
+2023.11.10 16:11:03.615 | → Order OID75690661 is FILLED at 1.06721, position PID14283082 closed (10/11/2023 16:11:03.560 UTC+0)
+2023.11.13 10:21:14.232 | cTrader started
+2023.11.13 10:22:53.721 | Request to Buy 0.20 Lots EURUSD is sent to server
+2023.11.13 10:22:53.909 | → Request to Buy 0.20 Lots EURUSD is ACCEPTED, order OID75735643 created (13/11/2023 10:22:53.804 UTC+0)
+2023.11.13 10:22:54.159 | → Order OID75735643 is FILLED at 1.06896, position PID14302655 (13/11/2023 10:22:54.011 UTC+0)
+2023.11.13 10:23:07.768 | Request to amend position PID14302655 (SL: 1.06846) is sent to server
+2023.11.13 10:23:07.909 | → Request to amend position PID14302655 (SL: 1.06846) is ACCEPTED
+2023.11.13 10:48:58.830 | Request to amend position PID14302655 (TP: 1.07070) is sent to server
+2023.11.13 10:48:58.939 | → Request to amend position PID14302655 (TP: 1.07070) is ACCEPTED
+2023.11.13 10:49:01.783 | Request to amend position PID14302655 (SL: 1.06899) is sent to server
+2023.11.13 10:49:01.892 | → Request to amend position PID14302655 (SL: 1.06899) is ACCEPTED
+2023.11.13 11:09:04.379 | → Order OID75735648 is FILLED at 1.06899, position PID14302655 closed (13/11/2023 11:09:04.289 UTC+0)
+2023.11.13 13:24:41.999 | Request to Buy 0.20 Lots EURUSD (SL: 5.0) is sent to server
+2023.11.13 13:24:42.109 | → Request to Buy 0.20 Lots EURUSD (SL: 5.0) is ACCEPTED, order OID75744762 created (13/11/2023 13:24:42.067 UTC+0)
+2023.11.13 13:24:42.405 | → Order OID75744762 is FILLED at 1.06715, position PID14306530 (13/11/2023 13:24:42.331 UTC+0)
+2023.11.13 13:26:03.452 | Request to amend position PID14306530 (TP: 1.07015) is sent to server
+2023.11.13 13:26:03.577 | → Request to amend position PID14306530 (TP: 1.07015) is ACCEPTED
+2023.11.13 13:36:44.599 | → Order OID75744763 is FILLED at 1.06663, position PID14306530 closed (13/11/2023 13:36:44.522 UTC+0)
+2023.11.14 08:36:17.312 | cTrader started
+2023.11.14 09:30:44.467 | Request to Sell 0.20 Lots EURUSD is sent to server
+2023.11.14 09:30:44.655 | → Request to Sell 0.20 Lots EURUSD is ACCEPTED, order OID75792638 created (14/11/2023 09:30:44.535 UTC+0)
+2023.11.14 09:30:44.936 | → Order OID75792638 is FILLED at 1.07079, position PID14327128 (14/11/2023 09:30:44.797 UTC+0)
+2023.11.14 09:31:18.655 | Request to amend position PID14327128 (SL: 1.07160) is sent to server
+2023.11.14 09:31:18.780 | → Request to amend position PID14327128 (SL: 1.07160) is ACCEPTED
+2023.11.14 09:32:59.927 | Request to amend position PID14327128 (TP: 1.06649) is sent to server
+2023.11.14 09:33:00.037 | → Request to amend position PID14327128 (TP: 1.06649) is ACCEPTED
+2023.11.14 09:46:07.514 | → Order OID75792686 is FILLED at 1.07161, position PID14327128 closed (14/11/2023 09:46:07.445 UTC+0)
+2023.11.14 09:57:25.905 | Request to Sell 0.20 Lots EURUSD (SL: 8.0) is sent to server
+2023.11.14 09:57:26.030 | → Request to Sell 0.20 Lots EURUSD (SL: 8.0) is ACCEPTED, order OID75794055 created (14/11/2023 09:57:25.983 UTC+0)
+2023.11.14 09:57:26.280 | → Order OID75794055 is FILLED at 1.07132, position PID14327725 (14/11/2023 09:57:26.212 UTC+0)
+2023.11.14 09:57:40.249 | Request to amend position PID14327725 (TP: 1.06812) is sent to server
+2023.11.14 09:57:40.343 | → Request to amend position PID14327725 (TP: 1.06812) is ACCEPTED
+2023.11.14 10:07:15.873 | → Order OID75794056 is FILLED at 1.07216, position PID14327725 closed (14/11/2023 10:07:15.812 UTC+0)
+2023.11.14 12:29:51.040 | Request to Buy 0.20 Lots EURUSD (SL: 10.0) is sent to server
+2023.11.14 12:29:51.134 | → Request to Buy 0.20 Lots EURUSD (SL: 10.0) is ACCEPTED, order OID75800730 created (14/11/2023 12:29:51.085 UTC+0)
+2023.11.14 12:29:51.352 | → Order OID75800730 is FILLED at 1.07244, position PID14330533 (14/11/2023 12:29:51.312 UTC+0)
+2023.11.14 12:30:50.212 | Request to close position PID14330533 is sent to server
+2023.11.14 12:30:50.305 | → Request to close position PID14330533 is ACCEPTED, order OID75800777 created (14/11/2023 12:30:50.268 UTC+0)
+2023.11.14 12:30:50.540 | → Order OID75800777 is FILLED at 1.0723, position PID14330533 closed (14/11/2023 12:30:50.485 UTC+0)
+2023.11.14 12:31:02.634 | Request to Sell 0.20 Lots EURUSD (SL: 10.0) is sent to server
+2023.11.14 12:31:02.727 | → Request to Sell 0.20 Lots EURUSD (SL: 10.0) is ACCEPTED, order OID75800810 created (14/11/2023 12:31:02.692 UTC+0)
+2023.11.14 12:31:03.009 | → Order OID75800810 is FILLED at 1.07230, position PID14330561 (14/11/2023 12:31:02.974 UTC+0)
+2023.11.14 13:18:13.742 | Request to amend position PID14330561 (TP: 1.06630) is sent to server
+2023.11.14 13:18:13.851 | → Request to amend position PID14330561 (TP: 1.06630) is ACCEPTED
+2023.11.14 13:30:02.558 | → Order OID75800812 is FILLED at 1.07501, position PID14330561 closed (14/11/2023 13:30:01.989 UTC+0)
+2023.11.15 13:28:11.823 | cTrader started
+2023.11.15 13:30:58.446 | Request to Sell 0.20 Lots EURUSD is sent to server
+2023.11.15 13:30:58.649 | → Request to Sell 0.20 Lots EURUSD is ACCEPTED, order OID75864082 created (15/11/2023 13:30:58.537 UTC+0)
+2023.11.15 13:30:58.930 | → Order OID75864082 is FILLED at 1.08762, position PID14358027 (15/11/2023 13:30:58.806 UTC+0)
+2023.11.15 13:31:08.524 | Request to amend position PID14358027 (SL: 1.08912) is sent to server
+2023.11.15 13:31:08.633 | → Request to amend position PID14358027 (SL: 1.08912) is ACCEPTED
+2023.11.15 13:46:11.138 | Request to amend position PID14358027 (SL: 1.08540) is sent to server
+2023.11.15 13:46:11.232 | → Request to amend position PID14358027 (SL: 1.08540) is ACCEPTED
+2023.11.15 13:50:00.744 | → Order OID75864124 is FILLED at 1.08542, position PID14358027 closed (15/11/2023 13:50:00.665 UTC+0)
+2023.11.15 16:16:14.068 | Request to Sell 0.40 Lots GBPUSD is sent to server
+2023.11.15 16:16:14.693 | → Request to Sell 0.40 Lots GBPUSD is ACCEPTED, order OID75886504 created (15/11/2023 16:16:14.155 UTC+0)
+2023.11.15 16:16:14.693 | → Order OID75886504 is FILLED at 1.24483, position PID14367700 (15/11/2023 16:16:14.450 UTC+0)
+2023.11.15 16:16:37.193 | Request to amend position PID14367700 (SL: 1.24540) is sent to server
+2023.11.15 16:16:37.349 | → Request to amend position PID14367700 (SL: 1.24540) is ACCEPTED
+2023.11.15 16:17:41.865 | Request to amend position PID14367700 (SL: 1.24620) is sent to server
+2023.11.15 16:17:41.990 | → Request to amend position PID14367700 (SL: 1.24620) is ACCEPTED
+2023.11.15 16:35:09.461 | Request to amend position PID14367700 (SL: 1.24483) is sent to server
+2023.11.15 16:35:09.601 | → Request to amend position PID14367700 (SL: 1.24483) is ACCEPTED
+2023.11.15 16:37:41.288 | Request to close position PID14367700 is sent to server
+2023.11.15 16:37:41.398 | → Request to close position PID14367700 is ACCEPTED, order OID75888626 created (15/11/2023 16:37:41.357 UTC+0)
+2023.11.15 16:37:41.694 | → Position PID14367700 is PARTIALLY CLOSED for 0.20 Lots at 1.24329 (15/11/2023 16:37:41.608 UTC+0)
+2023.11.15 17:15:24.731 | Request to close position PID14367700 is sent to server
+2023.11.15 17:15:24.887 | → Request to close position PID14367700 is ACCEPTED, order OID75891300 created (15/11/2023 17:15:24.801 UTC+0)
+2023.11.15 17:15:25.091 | → Position PID14367700 is PARTIALLY CLOSED for 0.10 Lots at 1.24182 (15/11/2023 17:15:25.023 UTC+0)
+2023.11.15 19:44:36.112 | Request to close position PID14367700 is sent to server
+2023.11.15 19:44:36.237 | → Request to close position PID14367700 is ACCEPTED, order OID75899032 created (15/11/2023 19:44:36.178 UTC+0)
+2023.11.15 19:44:36.596 | → Order OID75899032 is FILLED at 1.24194, position PID14367700 closed (15/11/2023 19:44:36.448 UTC+0)
+2023.11.16 08:04:09.653 | cTrader started
+2023.11.16 09:46:34.566 | Request to Sell 0.50 Lots EURUSD (SL: 10.0) is sent to server
+2023.11.16 09:46:34.722 | → Request to Sell 0.50 Lots EURUSD (SL: 10.0) is ACCEPTED, order OID75916249 created (16/11/2023 09:46:34.630 UTC+0)
+2023.11.16 09:46:34.988 | → Order OID75916249 is FILLED at 1.08511, position PID14380929 (16/11/2023 09:46:34.844 UTC+0)
+2023.11.16 09:47:02.238 | Request to Buy 0.50 Lots GBPUSD (SL: 10.0) is sent to server
+2023.11.16 09:47:02.347 | → Request to Buy 0.50 Lots GBPUSD (SL: 10.0) is ACCEPTED, order OID75916263 created (16/11/2023 09:47:02.293 UTC+0)
+2023.11.16 09:47:02.597 | → Order OID75916263 is FILLED at 1.23986, position PID14380934 (16/11/2023 09:47:02.548 UTC+0)
+2023.11.16 09:48:30.517 | Request to close position PID14380934 is sent to server
+2023.11.16 09:48:30.611 | → Request to close position PID14380934 is ACCEPTED, order OID75916336 created (16/11/2023 09:48:30.568 UTC+0)
+2023.11.16 09:48:30.924 | → Order OID75916336 is FILLED at 1.23957, position PID14380934 closed (16/11/2023 09:48:30.830 UTC+0)
+2023.11.16 09:48:35.845 | Request to Sell 0.50 Lots GBPUSD (SL: 10.0) is sent to server
+2023.11.16 09:48:35.955 | → Request to Sell 0.50 Lots GBPUSD (SL: 10.0) is ACCEPTED, order OID75916348 created (16/11/2023 09:48:35.897 UTC+0)
+2023.11.16 09:48:36.189 | → Order OID75916348 is FILLED at 1.23956, position PID14380980 (16/11/2023 09:48:36.107 UTC+0)
+2023.11.16 10:52:39.873 | → Order OID75916349 is FILLED at 1.24057, position PID14380980 closed (16/11/2023 10:52:39.823 UTC+0)
+2023.11.16 12:21:26.223 | Request to amend position PID14380929 (SL: 1.08458) is sent to server
+2023.11.16 12:21:26.348 | → Request to amend position PID14380929 (SL: 1.08458) is ACCEPTED
+2023.11.16 12:33:00.253 | → Order OID75916250 is FILLED at 1.08458, position PID14380929 closed (16/11/2023 12:33:00.195 UTC+0)
+2023.11.16 15:56:21.028 | Request to Buy 0.50 Lots EURUSD is sent to server
+2023.11.16 15:56:21.169 | → Request to Buy 0.50 Lots EURUSD is ACCEPTED, order OID75948958 created (16/11/2023 15:56:21.135 UTC+0)
+2023.11.16 15:56:21.872 | → Order OID75948958 is FILLED at 1.08758, position PID14395289 (16/11/2023 15:56:21.433 UTC+0)
+2023.11.16 15:56:35.856 | Request to amend position PID14395289 (SL: 1.08608) is sent to server
+2023.11.16 15:56:35.950 | → Request to amend position PID14395289 (SL: 1.08608) is ACCEPTED
+2023.11.16 16:04:47.635 | Request to amend position PID14395289 (SL: 1.08761) is sent to server
+2023.11.16 16:04:47.745 | → Request to amend position PID14395289 (SL: 1.08761) is ACCEPTED
+2023.11.16 16:15:01.480 | → Order OID75948984 is FILLED at 1.08761, position PID14395289 closed (16/11/2023 16:15:01.440 UTC+0)
+2023.11.17 12:39:08.974 | cTrader started
+2023.11.17 13:30:07.777 | Request to Sell 0.50 Lots EURUSD (SL: 5.0) is sent to server
+2023.11.17 13:30:07.996 | → Request to Sell 0.50 Lots EURUSD (SL: 5.0) is ACCEPTED, order OID75992350 created (17/11/2023 13:30:07.870 UTC+0)
+2023.11.17 13:30:08.277 | → Order OID75992350 is FILLED at 1.08686, position PID14414350 (17/11/2023 13:30:08.122 UTC+0)
+2023.11.17 13:32:26.159 | Request to amend position PID14414350 (SL: 1.08836) is sent to server
+2023.11.17 13:32:26.284 | → Request to amend position PID14414350 (SL: 1.08836) is ACCEPTED
+2023.11.17 14:05:22.389 | → Order OID75992352 is FILLED at 1.08838, position PID14414350 closed (17/11/2023 14:05:22.308 UTC+0)
+2023.11.17 14:08:55.754 | Request to Sell 0.50 Lots GBPUSD is sent to server
+2023.11.17 14:08:55.863 | → Request to Sell 0.50 Lots GBPUSD is ACCEPTED, order OID75995732 created (17/11/2023 14:08:55.813 UTC+0)
+2023.11.17 14:08:56.160 | → Order OID75995732 is FILLED at 1.24204, position PID14415823 (17/11/2023 14:08:56.107 UTC+0)
+2023.11.17 14:09:01.457 | Request to amend position PID14415823 (SL: 1.24354) is sent to server
+2023.11.17 14:09:01.567 | → Request to amend position PID14415823 (SL: 1.24354) is ACCEPTED
+2023.11.17 14:16:48.515 | Request to amend position PID14415823 (SL: 1.24151) is sent to server
+2023.11.17 14:16:48.609 | → Request to amend position PID14415823 (SL: 1.24151) is ACCEPTED
+2023.11.17 14:17:52.827 | → Order OID75995741 is FILLED at 1.24158, position PID14415823 closed (17/11/2023 14:17:52.753 UTC+0)
+2023.11.17 14:25:46.857 | Request to Sell 0.50 Lots GBPUSD is sent to server
+2023.11.17 14:25:46.998 | → Request to Sell 0.50 Lots GBPUSD is ACCEPTED, order OID75996727 created (17/11/2023 14:25:46.946 UTC+0)
+2023.11.17 14:25:47.592 | → Order OID75996727 is FILLED at 1.24190, position PID14416237 (17/11/2023 14:25:47.156 UTC+0)
+2023.11.17 14:25:52.920 | Request to close position PID14416237 is sent to server
+2023.11.17 14:25:53.029 | → Request to close position PID14416237 is ACCEPTED, order OID75996734 created (17/11/2023 14:25:52.999 UTC+0)
+2023.11.17 14:25:53.326 | → Order OID75996734 is FILLED at 1.24199, position PID14416237 closed (17/11/2023 14:25:53.264 UTC+0)
+2023.11.17 14:26:05.482 | Request to Buy 0.50 Lots GBPUSD is sent to server
+2023.11.17 14:26:05.607 | → Request to Buy 0.50 Lots GBPUSD is ACCEPTED, order OID75996754 created (17/11/2023 14:26:05.553 UTC+0)
+2023.11.17 14:26:05.857 | → Order OID75996754 is FILLED at 1.24210, position PID14416249 (17/11/2023 14:26:05.804 UTC+0)
+2023.11.17 14:26:15.029 | Request to amend position PID14416249 (SL: 1.24060) is sent to server
+2023.11.17 14:26:15.154 | → Request to amend position PID14416249 (SL: 1.24060) is ACCEPTED
+2023.11.17 14:37:17.070 | → Order OID75996767 is FILLED at 1.2406, position PID14416249 closed (17/11/2023 14:37:17.003 UTC+0)
+2023.11.17 17:20:08.576 | Request to amend position PID14420037 is sent to server
+2023.11.17 17:20:08.654 | → Request to amend position PID14420037 is ACCEPTED
+2023.11.17 17:53:42.553 | Request to close position PID14420037 is sent to server
+2023.11.17 17:53:42.662 | → Request to close position PID14420037 is ACCEPTED, order OID76015144 created (17/11/2023 17:53:42.607 UTC+0)
+2023.11.17 17:53:42.865 | → Order OID76015144 is FILLED at 1.24344, position PID14420037 closed (17/11/2023 17:53:42.825 UTC+0)
+2023.11.17 18:03:35.627 | Request to Buy 1.00 Lots GBPUSD is sent to server
+2023.11.17 18:03:35.721 | → Request to Buy 1.00 Lots GBPUSD is ACCEPTED, order OID76015614 created (17/11/2023 18:03:35.687 UTC+0)
+2023.11.17 18:03:35.955 | → Order OID76015614 is FILLED at 1.24337, position PID14424021 (17/11/2023 18:03:35.922 UTC+0)
+2023.11.17 18:04:24.803 | Request to amend position PID14424021 (SL: 1.24315) is sent to server
+2023.11.17 18:04:24.928 | → Request to amend position PID14424021 (SL: 1.24315) is ACCEPTED
+2023.11.17 18:04:30.631 | Request to close position PID14424021 is sent to server
+2023.11.17 18:04:30.787 | → Request to close position PID14424021 is ACCEPTED, order OID76015728 created (17/11/2023 18:04:30.740 UTC+0)
+2023.11.17 18:04:31.115 | → Order OID76015728 is FILLED at 1.24362, position PID14424021 closed (17/11/2023 18:04:30.994 UTC+0)
+2023.11.20 13:30:54.657 | cTrader started
+2023.11.20 13:34:52.084 | Request to Buy 0.50 Lots EURUSD is sent to server
+2023.11.20 13:34:52.287 | → Request to Buy 0.50 Lots EURUSD is ACCEPTED, order OID76055691 created (20/11/2023 13:34:52.167 UTC+0)
+2023.11.20 13:34:52.537 | → Order OID76055691 is FILLED at 1.09261, position PID14442191 (20/11/2023 13:34:52.397 UTC+0)
+2023.11.20 13:35:04.615 | Request to amend position PID14442191 (SL: 1.09211) is sent to server
+2023.11.20 13:35:04.771 | → Request to amend position PID14442191 (SL: 1.09211) is ACCEPTED
+2023.11.20 13:39:50.872 | Request to amend position PID14442191 (SL: 1.09201) is sent to server
+2023.11.20 13:39:50.981 | → Request to amend position PID14442191 (SL: 1.09201) is ACCEPTED
+2023.11.20 13:50:21.028 | Request to amend position PID14442191 (SL: 1.09264) is sent to server
+2023.11.20 13:50:21.200 | → Request to amend position PID14442191 (SL: 1.09264) is ACCEPTED
+2023.11.20 13:58:44.644 | → Order OID76055707 is FILLED at 1.0926, position PID14442191 closed (20/11/2023 13:58:44.559 UTC+0)
+2023.11.20 14:30:32.295 | Request to Buy 0.50 Lots EURUSD (SL: 5.0) is sent to server
+2023.11.20 14:30:32.404 | → Request to Buy 0.50 Lots EURUSD (SL: 5.0) is ACCEPTED, order OID76059253 created (20/11/2023 14:30:32.365 UTC+0)
+2023.11.20 14:30:32.639 | → Order OID76059253 is FILLED at 1.09241, position PID14443748 (20/11/2023 14:30:32.593 UTC+0)
+2023.11.20 14:32:48.914 | Request to amend position PID14443748 (TP: 1.09391) is sent to server
+2023.11.20 14:32:49.023 | → Request to amend position PID14443748 (TP: 1.09391) is ACCEPTED
+2023.11.20 14:36:10.981 | Request to amend position PID14443748 (SL: 1.09244) is sent to server
+2023.11.20 14:36:11.231 | → Request to amend position PID14443748 (SL: 1.09244) is ACCEPTED
+2023.11.20 14:38:23.900 | Request to amend position PID14443748 (SL: 1.09294) is sent to server
+2023.11.20 14:38:24.009 | → Request to amend position PID14443748 (SL: 1.09294) is ACCEPTED
+2023.11.20 14:43:57.159 | → Order OID76059254 is FILLED at 1.09392, position PID14443748 closed (20/11/2023 14:43:57.113 UTC+0)
+2023.11.20 15:49:48.399 | Request to Sell 0.50 Lots GBPUSD (SL: 5.0) is sent to server
+2023.11.20 15:49:48.540 | → Request to Sell 0.50 Lots GBPUSD (SL: 5.0) is ACCEPTED, order OID76069505 created (20/11/2023 15:49:48.472 UTC+0)
+2023.11.20 15:49:48.743 | → Order OID76069505 is FILLED at 1.24903, position PID14448022 (20/11/2023 15:49:48.690 UTC+0)
+2023.11.20 15:50:47.200 | Request to amend position PID14448022 (TP: 1.24713) is sent to server
+2023.11.20 15:50:47.310 | → Request to amend position PID14448022 (TP: 1.24713) is ACCEPTED
+2023.11.20 16:00:24.494 | → Order OID76069506 is FILLED at 1.24953, position PID14448022 closed (20/11/2023 16:00:24.408 UTC+0)
+2023.11.20 16:06:34.072 | Request to Buy 0.50 Lots EURUSD (SL: 5.0) is sent to server
+2023.11.20 16:06:34.150 | → Request to Buy 0.50 Lots EURUSD (SL: 5.0) is ACCEPTED, order OID76071203 created (20/11/2023 16:06:34.114 UTC+0)
+2023.11.20 16:06:34.384 | → Order OID76071203 is FILLED at 1.09423, position PID14448713 (20/11/2023 16:06:34.319 UTC+0)
+2023.11.20 16:07:18.587 | Request to close position PID14448713 is sent to server
+2023.11.20 16:07:18.697 | → Request to close position PID14448713 is ACCEPTED, order OID76071282 created (20/11/2023 16:07:18.649 UTC+0)
+2023.11.20 16:07:18.900 | → Order OID76071282 is FILLED at 1.09406, position PID14448713 closed (20/11/2023 16:07:18.853 UTC+0)
+2023.11.20 16:07:21.915 | Request to Sell 0.50 Lots EURUSD (SL: 5.0) is sent to server
+2023.11.20 16:07:22.072 | → Request to Sell 0.50 Lots EURUSD (SL: 5.0) is ACCEPTED, order OID76071289 created (20/11/2023 16:07:22.020 UTC+0)
+2023.11.20 16:07:22.337 | → Order OID76071289 is FILLED at 1.09407, position PID14448754 (20/11/2023 16:07:22.291 UTC+0)
+2023.11.20 16:48:14.489 | Request to amend position PID14448754 (SL: 1.09507) is sent to server
+2023.11.20 16:48:14.724 | → Request to amend position PID14448754 (SL: 1.09507) is ACCEPTED
+2023.11.20 16:48:54.040 | Request to amend position PID14448754 (TP: 1.09187) is sent to server
+2023.11.20 16:48:54.290 | → Request to amend position PID14448754 (TP: 1.09187) is ACCEPTED
+2023.11.20 17:06:54.858 | → Order OID76071290 is FILLED at 1.09508, position PID14448754 closed (20/11/2023 17:06:54.803 UTC+0)
+2023.11.20 17:14:43.299 | Request to Sell 0.50 Lots EURUSD (SL: 10.0) is sent to server
+2023.11.20 17:14:43.377 | → Request to Sell 0.50 Lots EURUSD (SL: 10.0) is ACCEPTED, order OID76075200 created (20/11/2023 17:14:43.344 UTC+0)
+2023.11.20 17:14:43.659 | → Order OID76075200 is FILLED at 1.09462, position PID14450295 (20/11/2023 17:14:43.624 UTC+0)
+2023.11.20 17:52:04.492 | Request to amend position PID14450295 (TP: 1.09250) is sent to server
+2023.11.20 17:52:04.617 | → Request to amend position PID14450295 (TP: 1.09250) is ACCEPTED
+2023.11.20 17:52:32.960 | Request to amend position PID14450295 (SL: 1.09459) is sent to server
+2023.11.20 17:52:33.195 | → Request to amend position PID14450295 (SL: 1.09459) is ACCEPTED
+2023.11.20 17:54:39.773 | Request to close position PID14450295 is sent to server
+2023.11.20 17:54:39.913 | → Request to close position PID14450295 is ACCEPTED, order OID76077018 created (20/11/2023 17:54:39.859 UTC+0)
+2023.11.20 17:54:40.210 | → Order OID76077018 is FILLED at 1.09365, position PID14450295 closed (20/11/2023 17:54:40.144 UTC+0)
+2023.11.21 09:33:19.443 | cTrader started
+2023.11.21 11:49:22.815 | Request to Buy 0.50 Lots EURUSD is sent to server
+2023.11.21 11:49:22.971 | → Request to Buy 0.50 Lots EURUSD is ACCEPTED, order OID76110145 created (21/11/2023 11:49:22.889 UTC+0)
+2023.11.21 11:49:23.299 | → Order OID76110145 is FILLED at 1.09426, position PID14465154 (21/11/2023 11:49:23.149 UTC+0)
+2023.11.21 11:49:33.252 | Request to amend position PID14465154 (SL: 1.09376) is sent to server
+2023.11.21 11:49:33.361 | → Request to amend position PID14465154 (SL: 1.09376) is ACCEPTED
+2023.11.21 12:30:40.074 | Request to amend position PID14465154 (SL: 1.09429) is sent to server
+2023.11.21 12:30:40.168 | → Request to amend position PID14465154 (SL: 1.09429) is ACCEPTED
+2023.11.21 12:31:08.793 | Request to amend position PID14465154 (TP: 1.09650) is sent to server
+2023.11.21 12:31:08.903 | → Request to amend position PID14465154 (TP: 1.09650) is ACCEPTED
+2023.11.21 12:34:02.674 | Request to close position PID14465154 is sent to server
+2023.11.21 12:34:02.783 | → Request to close position PID14465154 is ACCEPTED, order OID76111644 created (21/11/2023 12:34:02.715 UTC+0)
+2023.11.21 12:34:03.080 | → Order OID76111644 is FILLED at 1.09465, position PID14465154 closed (21/11/2023 12:34:02.989 UTC+0)
+2023.11.21 12:37:04.380 | Request to Sell 0.50 Lots EURUSD is sent to server
+2023.11.21 12:37:04.489 | → Request to Sell 0.50 Lots EURUSD is ACCEPTED, order OID76111782 created (21/11/2023 12:37:04.441 UTC+0)
+2023.11.21 12:37:04.723 | → Order OID76111782 is FILLED at 1.09447, position PID14465858 (21/11/2023 12:37:04.674 UTC+0)
+2023.11.21 12:37:39.364 | Request to amend position PID14465858 (SL: 1.09547) is sent to server
+2023.11.21 12:37:39.473 | → Request to amend position PID14465858 (SL: 1.09547) is ACCEPTED
+2023.11.21 12:42:37.559 | Request to Sell 0.50 Lots GBPUSD is sent to server
+2023.11.21 12:42:37.637 | → Request to Sell 0.50 Lots GBPUSD is ACCEPTED, order OID76112047 created (21/11/2023 12:42:37.601 UTC+0)
+2023.11.21 12:42:37.903 | → Order OID76112047 is FILLED at 1.25341, position PID14465962 (21/11/2023 12:42:37.856 UTC+0)
+2023.11.21 12:43:31.887 | Request to amend position PID14465962 (SL: 1.25441) is sent to server
+2023.11.21 12:43:31.966 | → Request to amend position PID14465962 (SL: 1.25441) is ACCEPTED
+2023.11.21 13:06:53.014 | → Order OID76111808 is FILLED at 1.09547, position PID14465858 closed (21/11/2023 13:06:52.967 UTC+0)
+2023.11.21 13:07:22.952 | → Order OID76112069 is FILLED at 1.25443, position PID14465962 closed (21/11/2023 13:07:22.910 UTC+0)
+2023.11.22 13:52:46.207 | cTrader started
+2023.11.22 13:53:29.865 | Request to Buy 0.50 Lots GBPUSD is sent to server
+2023.11.22 13:53:30.022 | → Request to Buy 0.50 Lots GBPUSD is ACCEPTED, order OID76179272 created (22/11/2023 13:53:29.999 UTC+0)
+2023.11.22 13:53:30.365 | → Order OID76179272 is FILLED at 1.25131, position PID14494491 (22/11/2023 13:53:30.289 UTC+0)
+2023.11.22 13:53:42.115 | Request to amend position PID14494491 (SL: 1.25081) is sent to server
+2023.11.22 13:53:42.240 | → Request to amend position PID14494491 (SL: 1.25081) is ACCEPTED
+2023.11.22 13:56:18.304 | Request to amend position PID14494491 (SL: 1.25134) is sent to server
+2023.11.22 13:56:18.413 | → Request to amend position PID14494491 (SL: 1.25134) is ACCEPTED
+2023.11.22 14:00:59.448 | → Order OID76179292 is FILLED at 1.25132, position PID14494491 closed (22/11/2023 14:00:59.376 UTC+0)
+2023.11.22 18:00:52.566 | Request to Sell 1.00 Lots GBPUSD (SL: 5.0) is sent to server
+2023.11.22 18:00:52.660 | → Request to Sell 1.00 Lots GBPUSD (SL: 5.0) is ACCEPTED, order OID76204572 created (22/11/2023 18:00:52.625 UTC+0)
+2023.11.22 18:00:52.879 | → Order OID76204572 is FILLED at 1.24800, position PID14505048 (22/11/2023 18:00:52.839 UTC+0)
+2023.11.22 18:03:03.135 | Request to amend position PID14505048 (SL: 1.24900) is sent to server
+2023.11.22 18:03:03.260 | → Request to amend position PID14505048 (SL: 1.24900) is ACCEPTED
+2023.11.22 18:08:05.772 | Request to amend position PID14505048 (SL: 1.24950) is sent to server
+2023.11.22 18:08:05.912 | → Request to amend position PID14505048 (SL: 1.24950) is ACCEPTED
+2023.11.22 18:21:56.514 | Request to amend position PID14505048 (SL: 1.25000) is sent to server
+2023.11.22 18:21:56.639 | → Request to amend position PID14505048 (SL: 1.25000) is ACCEPTED
+2023.11.23 00:37:01.143 | Request to amend position PID14505048 (TP: 1.24500) is sent to server
+2023.11.23 00:37:01.237 | → Request to amend position PID14505048 (TP: 1.24500) is ACCEPTED
+2023.11.23 14:47:51.209 | cTrader started
+2023.11.23 14:57:21.239 | Request to Buy 0.50 Lots EURUSD is sent to server
+2023.11.23 14:57:21.442 | → Request to Buy 0.50 Lots EURUSD is ACCEPTED, order OID76238806 created (23/11/2023 14:57:21.302 UTC+0)
+2023.11.23 14:57:21.645 | → Order OID76238806 is FILLED at 1.08954, position PID14520063 (23/11/2023 14:57:21.515 UTC+0)
+2023.11.23 14:58:03.052 | Request to amend position PID14520063 (SL: 1.08864) is sent to server
+2023.11.23 14:58:03.161 | → Request to amend position PID14520063 (SL: 1.08864) is ACCEPTED
+2023.11.23 14:58:24.692 | Request to amend position PID14520063 (TP: 1.09314) is sent to server
+2023.11.23 14:58:24.817 | → Request to amend position PID14520063 (TP: 1.09314) is ACCEPTED
+2023.11.23 16:24:37.583 | Request to close position PID14520063 is sent to server
+2023.11.23 16:24:38.130 | → Request to close position PID14520063 is ACCEPTED, order OID76242063 created (23/11/2023 16:24:37.720 UTC+0)
+2023.11.23 16:24:38.177 | → Order OID76242063 is FILLED at 1.09045, position PID14520063 closed (23/11/2023 16:24:37.948 UTC+0)
+2023.11.24 11:18:40.603 | cTrader started
+2023.11.24 14:42:22.481 | Request to Sell 0.20 Lots EURUSD (SL: 15.0) is sent to server
+2023.11.24 14:42:22.653 | → Request to Sell 0.20 Lots EURUSD (SL: 15.0) is ACCEPTED, order OID76272205 created (24/11/2023 14:42:22.552 UTC+0)
+2023.11.24 14:42:22.903 | → Order OID76272205 is FILLED at 1.09304, position PID14534551 (24/11/2023 14:42:22.756 UTC+0)
+2023.11.24 14:44:28.840 | Request to amend position PID14534551 (TP: 1.08504) is sent to server
+2023.11.24 14:44:28.949 | → Request to amend position PID14534551 (TP: 1.08504) is ACCEPTED
+2023.11.24 14:47:19.426 | Request to Buy 0.20 Lots GBPUSD (SL: 15.0) is sent to server
+2023.11.24 14:47:19.535 | → Request to Buy 0.20 Lots GBPUSD (SL: 15.0) is ACCEPTED, order OID76272822 created (24/11/2023 14:47:19.490 UTC+0)
+2023.11.24 14:47:19.832 | → Order OID76272822 is FILLED at 1.25877, position PID14534823 (24/11/2023 14:47:19.780 UTC+0)
+2023.11.24 14:49:16.273 | Request to close position PID14534551 is sent to server
+2023.11.24 14:49:16.398 | → Request to close position PID14534551 is ACCEPTED, order OID76273120 created (24/11/2023 14:49:16.354 UTC+0)
+2023.11.24 14:49:16.680 | → Order OID76273120 is FILLED at 1.0929, position PID14534551 closed (24/11/2023 14:49:16.601 UTC+0)
+2023.11.24 14:49:47.601 | Request to amend position PID14534823 is sent to server
+2023.11.24 14:49:47.711 | → Request to amend position PID14534823 is ACCEPTED
+2023.11.24 14:50:06.617 | Request to close position PID14534823 is sent to server
+2023.11.24 14:50:06.711 | → Request to close position PID14534823 is ACCEPTED, order OID76273243 created (24/11/2023 14:50:06.673 UTC+0)
+2023.11.24 14:50:07.055 | → Order OID76273243 is FILLED at 1.2591, position PID14534823 closed (24/11/2023 14:50:06.939 UTC+0)
+2023.11.24 15:09:09.607 | Request to Sell 0.20 Lots EURUSD (SL: 15.0) is sent to server
+2023.11.24 15:09:09.701 | → Request to Sell 0.20 Lots EURUSD (SL: 15.0) is ACCEPTED, order OID76275896 created (24/11/2023 15:09:09.659 UTC+0)
+2023.11.24 15:09:09.935 | → Order OID76275896 is FILLED at 1.09423, position PID14536309 (24/11/2023 15:09:09.874 UTC+0)
+2023.11.24 15:17:32.541 | Request to amend position PID14536309 (SL: 1.09420) is sent to server
+2023.11.24 15:17:32.651 | → Request to amend position PID14536309 (SL: 1.09420) is ACCEPTED
+2023.11.24 15:18:08.041 | Request to Sell 0.20 Lots GBPUSD (SL: 15.0) is sent to server
+2023.11.24 15:18:08.151 | → Request to Sell 0.20 Lots GBPUSD (SL: 15.0) is ACCEPTED, order OID76277062 created (24/11/2023 15:18:08.098 UTC+0)
+2023.11.24 15:18:08.369 | → Order OID76277062 is FILLED at 1.26060, position PID14536807 (24/11/2023 15:18:08.305 UTC+0)
+2023.11.24 15:26:59.331 | Request to amend position PID14536309 (SL: 1.09480) is sent to server
+2023.11.24 15:26:59.440 | → Request to amend position PID14536309 (SL: 1.09480) is ACCEPTED
+2023.11.24 16:35:01.023 | Request to amend position PID14536309 (SL: 1.09420) is sent to server
+2023.11.24 16:35:01.477 | → Request to amend position PID14536309 (SL: 1.09420) is ACCEPTED
+2023.11.24 17:40:20.087 | Request to close position PID14536309 is sent to server
+2023.11.24 17:40:20.181 | → Request to close position PID14536309 is ACCEPTED, order OID76288567 created (24/11/2023 17:40:20.140 UTC+0)
+2023.11.24 17:40:20.416 | → Order OID76288567 is FILLED at 1.0937, position PID14536309 closed (24/11/2023 17:40:20.367 UTC+0)
+2023.11.24 17:40:21.306 | Request to close position PID14536807 is sent to server
+2023.11.24 17:40:21.400 | → Request to close position PID14536807 is ACCEPTED, order OID76288569 created (24/11/2023 17:40:21.357 UTC+0)
+2023.11.24 17:40:21.697 | → Order OID76288569 is FILLED at 1.26042, position PID14536807 closed (24/11/2023 17:40:21.644 UTC+0)
+2023.11.27 06:37:12.406 | cTrader started
+2023.11.27 06:39:58.892 | Request to Buy 0.50 Lots EURUSD (SL: 10.0) is sent to server
+2023.11.27 06:39:59.033 | → Request to Buy 0.50 Lots EURUSD (SL: 10.0) is ACCEPTED, order OID76304179 created (27/11/2023 06:39:58.964 UTC+0)
+2023.11.27 06:39:59.376 | → Order OID76304179 is FILLED at 1.09495, position PID14548635 (27/11/2023 06:39:59.238 UTC+0)
+2023.11.27 06:40:21.538 | Request to close position PID14548635 is sent to server
+2023.11.27 06:40:21.632 | → Request to close position PID14548635 is ACCEPTED, order OID76304185 created (27/11/2023 06:40:21.571 UTC+0)
+2023.11.27 06:40:21.897 | → Order OID76304185 is FILLED at 1.09492, position PID14548635 closed (27/11/2023 06:40:21.807 UTC+0)
+2023.11.27 06:40:25.225 | Request to Sell 0.50 Lots EURUSD (SL: 10.0) is sent to server
+2023.11.27 06:40:25.335 | → Request to Sell 0.50 Lots EURUSD (SL: 10.0) is ACCEPTED, order OID76304186 created (27/11/2023 06:40:25.262 UTC+0)
+2023.11.27 06:40:25.538 | → Order OID76304186 is FILLED at 1.09496, position PID14548639 (27/11/2023 06:40:25.488 UTC+0)
+2023.11.27 08:17:47.979 | Request to Sell 0.50 Lots GBPUSD (SL: 10.0) is sent to server
+2023.11.27 08:17:48.088 | → Request to Sell 0.50 Lots GBPUSD (SL: 10.0) is ACCEPTED, order OID76307968 created (27/11/2023 08:17:48.026 UTC+0)
+2023.11.27 08:17:48.307 | → Order OID76307968 is FILLED at 1.26148, position PID14550430 (27/11/2023 08:17:48.236 UTC+0)
+2023.11.27 08:18:58.635 | Request to amend position PID14550430 (SL: 1.26278) is sent to server
+2023.11.27 08:18:58.729 | → Request to amend position PID14550430 (SL: 1.26278) is ACCEPTED
+2023.11.27 08:50:48.293 | Request to amend position PID14550430 (SL: 1.26145) is sent to server
+2023.11.27 08:50:48.465 | → Request to amend position PID14550430 (SL: 1.26145) is ACCEPTED
+2023.11.27 08:50:58.386 | Request to amend position PID14548639 (SL: 1.09493) is sent to server
+2023.11.27 08:50:58.480 | → Request to amend position PID14548639 (SL: 1.09493) is ACCEPTED
+2023.11.27 09:06:15.503 | Request to amend position PID14548639 (TP: 1.09320) is sent to server
+2023.11.27 09:06:15.612 | → Request to amend position PID14548639 (TP: 1.09320) is ACCEPTED
+2023.11.27 09:06:45.916 | Request to amend position PID14550430 (TP: 1.25910) is sent to server
+2023.11.27 09:06:46.025 | → Request to amend position PID14550430 (TP: 1.25910) is ACCEPTED
+2023.11.27 09:12:12.283 | → Order OID76304187 is FILLED at 1.09493, position PID14548639 closed (27/11/2023 09:12:12.228 UTC+0)
+2023.11.27 09:35:23.474 | → Order OID76307970 is FILLED at 1.26149, position PID14550430 closed (27/11/2023 09:35:23.410 UTC+0)
+2023.11.27 10:49:09.817 | Request to Buy 0.50 Lots EURUSD (SL: 10.0) is sent to server
+2023.11.27 10:49:09.973 | → Request to Buy 0.50 Lots EURUSD (SL: 10.0) is ACCEPTED, order OID76317713 created (27/11/2023 10:49:09.907 UTC+0)
+2023.11.27 10:49:10.238 | → Order OID76317713 is FILLED at 1.09555, position PID14554677 (27/11/2023 10:49:10.192 UTC+0)
+2023.11.27 10:57:13.314 | Request to amend position PID14554677 (TP: 1.09755) is sent to server
+2023.11.27 10:57:13.392 | → Request to amend position PID14554677 (TP: 1.09755) is ACCEPTED
+2023.11.27 13:00:45.761 | Request to amend position PID14554677 (SL: 1.09375) is sent to server
+2023.11.27 13:00:45.933 | → Request to amend position PID14554677 (SL: 1.09375) is ACCEPTED
+2023.11.27 13:04:48.106 | Request to amend position PID14554677 (TP: 1.09955) is sent to server
+2023.11.27 13:04:48.216 | → Request to amend position PID14554677 (TP: 1.09955) is ACCEPTED
+2023.11.27 14:14:15.672 | → Order OID76317714 is FILLED at 1.09373, position PID14554677 closed (27/11/2023 14:14:15.620 UTC+0)
+2023.11.27 14:18:27.956 | Request to Buy 0.50 Lots EURUSD (SL: 10.0) is sent to server
+2023.11.27 14:18:28.050 | → Request to Buy 0.50 Lots EURUSD (SL: 10.0) is ACCEPTED, order OID76329794 created (27/11/2023 14:18:28.017 UTC+0)
+2023.11.27 14:18:28.300 | → Order OID76329794 is FILLED at 1.09325, position PID14559865 (27/11/2023 14:18:28.285 UTC+0)
+2023.11.27 14:48:47.605 | Request to amend position PID14559865 (TP: 1.09725) is sent to server
+2023.11.27 14:48:47.715 | → Request to amend position PID14559865 (TP: 1.09725) is ACCEPTED
+2023.11.27 18:58:35.244 | Request to amend position PID14559865 (SL: 1.09378) is sent to server
+2023.11.27 18:58:35.354 | → Request to amend position PID14559865 (SL: 1.09378) is ACCEPTED
+2023.11.27 19:08:29.902 | Request to amend position PID14559865 (SL: 1.09428) is sent to server
+2023.11.27 19:08:30.043 | → Request to amend position PID14559865 (SL: 1.09428) is ACCEPTED
+2023.11.27 19:13:01.314 | Request to close position PID14559865 is sent to server
+2023.11.27 19:13:01.845 | → Request to close position PID14559865 is ACCEPTED, order OID76356151 created (27/11/2023 19:13:01.351 UTC+0)
+2023.11.27 19:13:01.861 | → Order OID76356151 is FILLED at 1.09471, position PID14559865 closed (27/11/2023 19:13:01.645 UTC+0)
+2023.11.28 09:43:54.433 | cTrader started
+2023.11.28 09:44:27.558 | Request to Sell 0.50 Lots EURUSD is sent to server
+2023.11.28 09:44:27.715 | → Request to Sell 0.50 Lots EURUSD is ACCEPTED, order OID76378195 created (28/11/2023 09:44:27.620 UTC+0)
+2023.11.28 09:44:28.043 | → Order OID76378195 is FILLED at 1.09490, position PID14579896 (28/11/2023 09:44:27.911 UTC+0)
+2023.11.28 09:45:25.789 | Request to amend position PID14579896 (SL: 1.09560) is sent to server
+2023.11.28 09:45:25.883 | → Request to amend position PID14579896 (SL: 1.09560) is ACCEPTED
+2023.11.28 09:45:54.664 | Request to amend position PID14579896 (SL: 1.09570) is sent to server
+2023.11.28 09:45:54.773 | → Request to amend position PID14579896 (SL: 1.09570) is ACCEPTED
+2023.11.28 10:28:20.037 | → Order OID76378245 is FILLED at 1.09571, position PID14579896 closed (28/11/2023 10:28:19.935 UTC+0)
+2023.11.28 15:13:27.394 | cTrader started
+2023.11.28 15:16:43.158 | Request to Sell 0.50 Lots EURUSD is sent to server
+2023.11.28 15:16:43.408 | → Request to Sell 0.50 Lots EURUSD is ACCEPTED, order OID76404278 created (28/11/2023 15:16:43.302 UTC+0)
+2023.11.28 15:16:43.674 | → Order OID76404278 is FILLED at 1.09739, position PID14591847 (28/11/2023 15:16:43.533 UTC+0)
+2023.11.28 15:17:23.377 | Request to amend position PID14591847 (SL: 1.09889) is sent to server
+2023.11.28 15:17:24.111 | → Request to amend position PID14591847 (SL: 1.09889) is ACCEPTED
+2023.11.28 15:25:03.301 | Request to Sell 0.50 Lots EURUSD (SL: 10.0) is sent to server
+2023.11.28 15:25:03.504 | → Request to Sell 0.50 Lots EURUSD (SL: 10.0) is ACCEPTED, order OID76405153 created (28/11/2023 15:25:03.434 UTC+0)
+2023.11.28 15:25:03.739 | → Order OID76405153 is FILLED at 1.09719, position PID14592252 (28/11/2023 15:25:03.659 UTC+0)
+2023.11.28 15:25:12.020 | Request to amend position PID14592252 (SL: 1.09869) is sent to server
+2023.11.28 15:25:12.754 | → Request to amend position PID14592252 (SL: 1.09869) is ACCEPTED
+2023.11.28 15:37:40.899 | Stop order to Sell 2.00 Lots EURUSD (Price: 1.09683, SL: 5.0, TP: 5) is sent to server
+2023.11.28 15:37:41.071 | → Stop order OID76406477 to Sell 2.00 Lots EURUSD (Price: 1.09683, SL: 5.0, TP: 5) is ACCEPTED (28/11/2023 15:37:40.987 UTC+0)
+2023.11.28 15:37:45.759 | → Stop order to SELL 2.00 Lots EURUSD OID76406477 is FILLED at 1.09683, position PID14592808 (28/11/2023 15:37:45.634 UTC+0)
+2023.11.28 15:38:51.774 | → Order OID76406487 is FILLED at 1.09734, position PID14592808 closed (28/11/2023 15:38:51.649 UTC+0)
+2023.11.28 15:39:34.009 | → Order OID76405154 is FILLED at 1.0987, position PID14592252 closed (28/11/2023 15:39:33.923 UTC+0)
+2023.11.28 15:39:39.962 | → Order OID76404365 is FILLED at 1.09889, position PID14591847 closed (28/11/2023 15:39:39.848 UTC+0)
+2023.11.29 07:25:34.091 | cTrader started
+2023.11.29 07:26:30.117 | Request to Buy 2.00 Lots GBPUSD is sent to server
+2023.11.29 07:26:30.273 | → Request to Buy 2.00 Lots GBPUSD is ACCEPTED, order OID76440808 created (29/11/2023 07:26:30.199 UTC+0)
+2023.11.29 07:26:30.570 | → Order OID76440808 is FILLED at 1.27032, position PID14607266 (29/11/2023 07:26:30.432 UTC+0)
+2023.11.29 07:26:53.148 | Request to amend position PID14607266 (SL: 1.26940) is sent to server
+2023.11.29 07:26:53.242 | → Request to amend position PID14607266 (SL: 1.26940) is ACCEPTED
+2023.11.29 07:38:09.417 | → Order OID76440826 is FILLED at 1.26939, position PID14607266 closed (29/11/2023 07:38:09.331 UTC+0)
+2023.11.29 13:39:04.829 | Request to Buy 0.50 Lots GBPUSD is sent to server
+2023.11.29 13:39:04.938 | → Request to Buy 0.50 Lots GBPUSD is ACCEPTED, order OID76465956 created (29/11/2023 13:39:04.907 UTC+0)
+2023.11.29 13:39:05.235 | → Order OID76465956 is FILLED at 1.26850, position PID14618055 (29/11/2023 13:39:05.195 UTC+0)
+2023.11.29 13:39:13.251 | Request to close position PID14618055 is sent to server
+2023.11.29 13:39:13.360 | → Request to close position PID14618055 is ACCEPTED, order OID76465981 created (29/11/2023 13:39:13.308 UTC+0)
+2023.11.29 13:39:13.579 | → Order OID76465981 is FILLED at 1.26843, position PID14618055 closed (29/11/2023 13:39:13.540 UTC+0)
+2023.11.29 13:40:10.360 | Request to Sell 0.50 Lots GBPUSD is sent to server
+2023.11.29 13:40:10.485 | → Request to Sell 0.50 Lots GBPUSD is ACCEPTED, order OID76466136 created (29/11/2023 13:40:10.462 UTC+0)
+2023.11.29 13:40:10.782 | → Order OID76466136 is FILLED at 1.26850, position PID14618126 (29/11/2023 13:40:10.738 UTC+0)
+2023.11.29 13:40:22.798 | Request to Sell 0.50 Lots EURUSD is sent to server
+2023.11.29 13:40:23.048 | → Request to Sell 0.50 Lots EURUSD is ACCEPTED, order OID76466169 created (29/11/2023 13:40:22.991 UTC+0)
+2023.11.29 13:40:23.266 | → Order OID76466169 is FILLED at 1.09750, position PID14618141 (29/11/2023 13:40:23.219 UTC+0)
+2023.11.29 13:40:31.751 | Request to Sell 0.50 Lots EURUSD (SL: 10.0) is sent to server
+2023.11.29 13:40:31.954 | → Request to Sell 0.50 Lots EURUSD (SL: 10.0) is ACCEPTED, order OID76466190 created (29/11/2023 13:40:31.918 UTC+0)
+2023.11.29 13:40:32.251 | → Order OID76466190 is FILLED at 1.09757, position PID14618150 (29/11/2023 13:40:32.207 UTC+0)
+2023.11.29 13:40:47.223 | Request to amend position PID14618126 (SL: 1.26950) is sent to server
+2023.11.29 13:40:47.395 | → Request to amend position PID14618126 (SL: 1.26950) is ACCEPTED
+2023.11.29 13:40:54.645 | Request to amend position PID14618141 (SL: 1.09850) is sent to server
+2023.11.29 13:40:54.754 | → Request to amend position PID14618141 (SL: 1.09850) is ACCEPTED
+2023.11.29 13:49:32.751 | Request to amend position PID14618141 (TP: 1.09250) is sent to server
+2023.11.29 13:49:32.845 | → Request to amend position PID14618141 (TP: 1.09250) is ACCEPTED
+2023.11.29 13:49:40.595 | Request to amend position PID14618150 (TP: 1.09257) is sent to server
+2023.11.29 13:49:40.688 | → Request to amend position PID14618150 (TP: 1.09257) is ACCEPTED
+2023.11.29 13:50:53.183 | Request to amend position PID14618126 (TP: 1.26480) is sent to server
+2023.11.29 13:50:53.308 | → Request to amend position PID14618126 (TP: 1.26480) is ACCEPTED
+2023.11.29 13:56:50.775 | → Order OID76466229 is FILLED at 1.2695, position PID14618126 closed (29/11/2023 13:56:50.714 UTC+0)
+2023.11.29 14:31:53.974 | → Order OID76466249 is FILLED at 1.09849, position PID14618141 closed (29/11/2023 14:31:53.919 UTC+0)
+2023.11.29 14:31:54.911 | Request to amend position PID14618150 (SL: 1.09907) is sent to server
+2023.11.29 14:31:55.005 | → Request to amend position PID14618150 (SL: 1.09907) is ACCEPTED
+2023.11.29 14:36:02.845 | Request to close position PID14618150 is sent to server
+2023.11.29 14:36:02.970 | → Request to close position PID14618150 is ACCEPTED, order OID76471696 created (29/11/2023 14:36:02.899 UTC+0)
+2023.11.29 14:36:03.220 | → Order OID76471696 is FILLED at 1.09859, position PID14618150 closed (29/11/2023 14:36:03.148 UTC+0)
+2023.11.29 15:13:38.176 | Request to Buy 0.50 Lots EURUSD is sent to server
+2023.11.29 15:13:38.317 | → Request to Buy 0.50 Lots EURUSD is ACCEPTED, order OID76478556 created (29/11/2023 15:13:38.247 UTC+0)
+2023.11.29 15:13:38.583 | → Order OID76478556 is FILLED at 1.09748, position PID14623299 (29/11/2023 15:13:38.527 UTC+0)
+2023.11.29 15:14:09.708 | Request to amend position PID14623299 (SL: 1.09600) is sent to server
+2023.11.29 15:14:09.864 | → Request to amend position PID14623299 (SL: 1.09600) is ACCEPTED
+2023.11.29 15:20:04.244 | Request to close position PID14623299 is sent to server
+2023.11.29 15:20:04.353 | → Request to close position PID14623299 is ACCEPTED, order OID76479702 created (29/11/2023 15:20:04.302 UTC+0)
+2023.11.29 15:20:04.587 | → Order OID76479702 is FILLED at 1.09619, position PID14623299 closed (29/11/2023 15:20:04.529 UTC+0)
+2023.11.29 17:04:26.589 | cTrader started
+2023.11.30 08:27:04.345 | cTrader started
+2023.11.30 09:15:37.501 | Request to Buy 0.50 Lots EURUSD is sent to server
+2023.11.30 09:15:37.673 | → Request to Buy 0.50 Lots EURUSD is ACCEPTED, order OID76518466 created (30/11/2023 09:15:37.583 UTC+0)
+2023.11.30 09:15:37.954 | → Order OID76518466 is FILLED at 1.09283, position PID14640135 (30/11/2023 09:15:37.835 UTC+0)
+2023.11.30 09:16:22.537 | Request to amend position PID14640135 (SL: 1.09133) is sent to server
+2023.11.30 09:16:22.662 | → Request to amend position PID14640135 (SL: 1.09133) is ACCEPTED
+2023.11.30 09:18:37.210 | Request to amend position PID14640135 (SL: 1.09286) is sent to server
+2023.11.30 09:18:37.320 | → Request to amend position PID14640135 (SL: 1.09286) is ACCEPTED
+2023.11.30 09:26:33.202 | Request to close position PID14640135 is sent to server
+2023.11.30 09:26:33.296 | → Request to close position PID14640135 is ACCEPTED, order OID76519138 created (30/11/2023 09:26:33.254 UTC+0)
+2023.11.30 09:26:33.702 | → Order OID76519138 is FILLED at 1.09314, position PID14640135 closed (30/11/2023 09:26:33.506 UTC+0)
+2023.11.30 10:00:05.142 | Request to Buy 1.00 Lots EURUSD (SL: 5.0, TP: 25.0) is sent to server
+2023.11.30 10:00:05.235 | → Request to Buy 1.00 Lots EURUSD (SL: 5.0, TP: 25.0) is ACCEPTED, order OID76521031 created (30/11/2023 10:00:05.209 UTC+0)
+2023.11.30 10:00:05.517 | → Order OID76521031 is FILLED at 1.09285, position PID14641223 (30/11/2023 10:00:05.460 UTC+0)
+2023.11.30 10:05:21.701 | → Order OID76521032 is FILLED at 1.09231, position PID14641223 closed (30/11/2023 10:05:21.633 UTC+0)
+2023.11.30 12:02:45.395 | Limit order to Buy 0.50 Lots EURUSD (Price: 1.09160, SL: 4.0, TP: 12) is sent to server
+2023.11.30 12:02:45.520 | → Limit order OID76527834 to Buy 0.50 Lots EURUSD (Price: 1.09160, SL: 4.0, TP: 12) is ACCEPTED (30/11/2023 12:02:45.455 UTC+0)
+2023.11.30 12:09:27.529 | → Limit order to BUY 0.50 Lots EURUSD OID76527834 is FILLED at 1.09160, position PID14644306 (30/11/2023 12:09:27.467 UTC+0)
+2023.11.30 12:13:13.921 | → Order OID76528269 is FILLED at 1.09117, position PID14644306 closed (30/11/2023 12:13:13.860 UTC+0)
+2023.11.30 15:43:10.601 | Limit order to Buy 0.20 Lots EURUSD (Price: 1.08980, SL: 15.0) is sent to server
+2023.11.30 15:43:10.757 | → Limit order OID76554242 to Buy 0.20 Lots EURUSD (Price: 1.08980, SL: 15.0) is ACCEPTED (30/11/2023 15:43:10.712 UTC+0)
+2023.11.30 15:46:00.052 | Request to amend order OID76554242 is sent to server
+2023.11.30 15:46:00.567 | → Request to amend order OID76554242 is ACCEPTED (30/11/2023 15:46:00.138 UTC+0)
+2023.11.30 15:48:59.185 | Limit order to Buy 0.30 Lots GBPUSD (Price: 1.26100, SL: 15.0) is sent to server
+2023.11.30 15:48:59.295 | → Limit order OID76555047 to Buy 0.30 Lots GBPUSD (Price: 1.26100, SL: 15.0) is ACCEPTED (30/11/2023 15:48:59.232 UTC+0)
+2023.11.30 15:50:10.404 | → Limit order to BUY 0.30 Lots EURUSD OID76554242 is FILLED at 1.08975, position PID14655647 (30/11/2023 15:50:10.338 UTC+0)
+2023.11.30 15:56:57.203 | Request to amend position PID14655647 (TP: 1.09225) is sent to server
+2023.11.30 15:56:57.328 | → Request to amend position PID14655647 (TP: 1.09225) is ACCEPTED
+2023.11.30 15:59:01.901 | Request to amend position PID14655647 (SL: 1.09055) is sent to server
+2023.11.30 15:59:02.104 | → Request to amend position PID14655647 (SL: 1.09055) is ACCEPTED
+2023.11.30 15:59:26.124 | → Order OID76555190 is FILLED at 1.09046, position PID14655647 closed (30/11/2023 15:59:26.043 UTC+0)
+2023.11.30 16:11:37.868 | Request to CANCEL order OID76555047 is sent to server
+2023.11.30 16:11:37.993 | → Limit order to BUY 0.30 Lots GBPUSD OID76555047 is CANCELLED (30/11/2023 16:11:37.928 UTC+0)
+2023.11.30 17:56:13.735 | Limit order to Buy 0.30 Lots GBPUSD (Price: 1.26100, SL: 15.0, TP: 60.0) is sent to server
+2023.11.30 17:56:13.860 | → Limit order OID76564976 to Buy 0.30 Lots GBPUSD (Price: 1.26100, SL: 15.0, TP: 60.0) is ACCEPTED (30/11/2023 17:56:13.814 UTC+0)
+2023.11.30 18:12:21.332 | Request to amend order OID76564976 (Price: 1.26040) is sent to server
+2023.11.30 18:12:21.457 | → Request to amend order OID76564976 (Price: 1.26040) is ACCEPTED (30/11/2023 18:12:21.436 UTC+0)
+2023.11.30 18:14:20.293 | Request to amend order OID76564976 (TP: 75.0) is sent to server
+2023.11.30 18:14:20.418 | → Request to amend order OID76564976 (TP: 75.0) is ACCEPTED (30/11/2023 18:14:20.359 UTC+0)
+2023.11.30 18:35:34.308 | Request to Buy 0.30 Lots GBPUSD is sent to server
+2023.11.30 18:35:34.401 | → Request to Buy 0.30 Lots GBPUSD is ACCEPTED, order OID76566927 created (30/11/2023 18:35:34.356 UTC+0)
+2023.11.30 18:35:34.761 | → Order OID76566927 is FILLED at 1.26310, position PID14660936 (30/11/2023 18:35:34.612 UTC+0)
+2023.11.30 18:36:33.183 | Request to close position PID14660936 is sent to server
+2023.11.30 18:36:33.292 | → Request to close position PID14660936 is ACCEPTED, order OID76566992 created (30/11/2023 18:36:33.249 UTC+0)
+2023.11.30 18:36:33.714 | → Order OID76566992 is FILLED at 1.26311, position PID14660936 closed (30/11/2023 18:36:33.545 UTC+0)
+2023.11.30 18:36:49.636 | Request to Sell 0.30 Lots GBPUSD (SL: 7.5) is sent to server
+2023.11.30 18:36:49.714 | → Request to Sell 0.30 Lots GBPUSD (SL: 7.5) is ACCEPTED, order OID76566999 created (30/11/2023 18:36:49.682 UTC+0)
+2023.11.30 18:36:49.995 | → Order OID76566999 is FILLED at 1.26305, position PID14660972 (30/11/2023 18:36:49.960 UTC+0)
+2023.11.30 18:38:49.403 | Request to amend position PID14660972 (TP: 1.26105) is sent to server
+2023.11.30 18:38:49.481 | → Request to amend position PID14660972 (TP: 1.26105) is ACCEPTED
+2023.11.30 18:44:39.145 | Request to amend position PID14660972 (SL: 1.26302) is sent to server
+2023.11.30 18:44:39.254 | → Request to amend position PID14660972 (SL: 1.26302) is ACCEPTED
+2023.11.30 18:47:42.361 | Request to amend position PID14660972 (SL: 1.26252) is sent to server
+2023.11.30 18:47:42.470 | → Request to amend position PID14660972 (SL: 1.26252) is ACCEPTED
+2023.11.30 18:51:11.917 | Request to CANCEL order OID76564976 is sent to server
+2023.11.30 18:51:12.011 | → Limit order to BUY 0.30 Lots GBPUSD OID76564976 is CANCELLED (30/11/2023 18:51:11.988 UTC+0)
+2023.11.30 18:51:56.292 | Request to amend position PID14660972 (SL: 1.26202) is sent to server
+2023.11.30 18:51:56.401 | → Request to amend position PID14660972 (SL: 1.26202) is ACCEPTED
+2023.11.30 18:52:49.917 | Request to amend position PID14660972 (TP: 1.26005) is sent to server
+2023.11.30 18:52:50.042 | → Request to amend position PID14660972 (TP: 1.26005) is ACCEPTED
+2023.11.30 18:58:50.347 | → Order OID76567000 is FILLED at 1.26203, position PID14660972 closed (30/11/2023 18:58:50.291 UTC+0)

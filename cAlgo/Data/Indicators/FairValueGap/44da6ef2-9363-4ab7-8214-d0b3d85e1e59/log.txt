@@ -1,0 +1,2 @@
+23/01/2026 19:12:41.783 | Info | Indicator instance [FairValueGap, NDX100, m1] loaded.
+23/01/2026 19:19:39.953 | Info | Indicator instance [FairValueGap, NDX100, m1] unloaded.

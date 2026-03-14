@@ -1,0 +1,567 @@
+2025.08.13 08:09:57.612 | cTrader started
+2025.08.13 08:10:16.950 | Demo account 5461832 successfully created
+2025.08.13 08:37:46.180 | cTrader started
+2025.08.13 08:38:31.840 | cTrader started
+2025.08.13 08:46:56.237 | cTrader started
+2025.08.13 08:49:05.547 | Request to Buy 1.00 Lots EURUSD (SL: 53.8, TP: 53.2) is sent to server
+2025.08.13 08:49:05.719 | → Request to Buy 1.00 Lots EURUSD (SL: 53.8, TP: 53.2) is ACCEPTED, order OID253949428 created (13/08/2025 08:49:05.634 UTC+0)
+2025.08.13 08:49:05.751 | → Order OID253949428 is REJECTED with error "NOT_ENOUGH_MONEY"
+2025.08.13 08:50:10.391 | Demo account 5461898 successfully created
+2025.08.13 08:52:27.263 | Request to Sell 1.00 Lots US TECH 100 (SL: 100.11, TP: 99.14) is sent to server
+2025.08.13 08:52:27.372 | → Request to Sell 1.00 Lots US TECH 100 (SL: 100.11, TP: 99.14) is ACCEPTED, order OID253950488 created (13/08/2025 08:52:27.328 UTC+0)
+2025.08.13 08:52:27.700 | → Order OID253950488 is FILLED at 23892.80, position PID142703862 (13/08/2025 08:52:27.597 UTC+0)
+2025.08.13 08:54:40.501 | Request to Sell 3.00 Lots US TECH 100 is sent to server
+2025.08.13 08:54:40.689 | → Request to Sell 3.00 Lots US TECH 100 is ACCEPTED, order OID253950849 created (13/08/2025 08:54:40.632 UTC+0)
+2025.08.13 08:54:40.954 | → Order OID253950849 is FILLED at 23897.30, position PID142703862 (13/08/2025 08:54:40.893 UTC+0)
+2025.08.13 08:56:48.642 | Request to amend position PID142703862 (remove TP) is sent to server
+2025.08.13 08:56:48.736 | → Request to amend position PID142703862 (remove TP) is ACCEPTED
+2025.08.13 09:27:19.762 | Request to amend position PID142703862 (SL: 23886.62) is sent to server
+2025.08.13 09:27:19.841 | → Request to amend position PID142703862 (SL: 23886.62) is ACCEPTED
+2025.08.13 09:28:46.387 | → Order OID253950490 is FILLED at 23886.8, position PID142703862 closed (13/08/2025 09:28:46.274 UTC+0)
+2025.08.13 09:30:24.239 | Request to Sell 1.00 Lots US TECH 100 (SL: 100.11, TP: 99.14) is sent to server
+2025.08.13 09:30:24.364 | → Request to Sell 1.00 Lots US TECH 100 (SL: 100.11, TP: 99.14) is ACCEPTED, order OID253959048 created (13/08/2025 09:30:24.271 UTC+0)
+2025.08.13 09:30:24.551 | → Order OID253959048 is FILLED at 23886.60, position PID142714987 (13/08/2025 09:30:24.502 UTC+0)
+2025.08.13 09:32:30.614 | Request to Sell 3.00 Lots US TECH 100 is sent to server
+2025.08.13 09:32:30.707 | → Request to Sell 3.00 Lots US TECH 100 is ACCEPTED, order OID253959550 created (13/08/2025 09:32:30.663 UTC+0)
+2025.08.13 09:32:30.957 | → Order OID253959550 is FILLED at 23890.60, position PID142714987 (13/08/2025 09:32:30.918 UTC+0)
+2025.08.13 09:33:49.739 | Request to amend position PID142714987 (remove TP) is sent to server
+2025.08.13 09:33:49.832 | → Request to amend position PID142714987 (remove TP) is ACCEPTED
+2025.08.13 11:51:39.919 | cTrader started
+2025.08.13 11:58:24.563 | Request to close position PID142714987 is sent to server
+2025.08.13 11:58:24.704 | → Request to close position PID142714987 is ACCEPTED, order OID253987555 created (13/08/2025 11:58:24.631 UTC+0)
+2025.08.13 11:58:25.001 | → Order OID253987555 is FILLED at 23893.4, position PID142714987 closed (13/08/2025 11:58:24.879 UTC+0)
+2025.08.13 12:01:55.241 | Limit order to Buy 68.00 Lots US TECH 100 (Price: 23889.95, SL: 23875.25, TP: 23919.35) is sent to server
+2025.08.13 12:01:55.350 | → Limit order OID253988499 to Buy 68.00 Lots US TECH 100 (Price: 23889.95, SL: 23875.25, TP: 23919.35) is ACCEPTED (13/08/2025 12:01:55.304 UTC+0)
+2025.08.13 12:05:12.424 | Request to CANCEL order OID253988499 is sent to server
+2025.08.13 12:05:12.533 | → Limit order to BUY 68.00 Lots US TECH 100 OID253988499 is CANCELLED (13/08/2025 12:05:12.490 UTC+0)
+2025.08.13 12:49:10.281 | Limit order to Buy 1.00 Lots US TECH 100 (Price: 23913.65) is sent to server
+2025.08.13 12:49:10.374 | → Limit order OID253998112 to Buy 1.00 Lots US TECH 100 (Price: 23913.65) is ACCEPTED (13/08/2025 12:49:10.329 UTC+0)
+2025.08.13 12:49:20.406 | Request to amend order OID253998112 (TP: 4.83) is sent to server
+2025.08.13 12:49:20.593 | → Request to amend order OID253998112 (TP: 4.83) is ACCEPTED (13/08/2025 12:49:20.486 UTC+0)
+2025.08.13 12:49:22.484 | Request to amend order OID253998112 (SL: 6.62) is sent to server
+2025.08.13 12:49:22.702 | → Request to amend order OID253998112 (SL: 6.62) is ACCEPTED (13/08/2025 12:49:22.620 UTC+0)
+2025.08.13 12:49:33.999 | Request to CANCEL order OID253998112 is sent to server
+2025.08.13 12:49:34.124 | → Limit order to BUY 1.00 Lots US TECH 100 OID253998112 is CANCELLED (13/08/2025 12:49:34.087 UTC+0)
+2025.08.13 12:50:45.593 | Limit order to Buy 1.00 Lots US TECH 100 (Price: 23910.74, SL: 20, TP: 40) is sent to server
+2025.08.13 12:50:45.687 | → Limit order OID253998543 to Buy 1.00 Lots US TECH 100 (Price: 23910.74, SL: 20, TP: 40) is ACCEPTED (13/08/2025 12:50:45.660 UTC+0)
+2025.08.13 12:52:55.498 | Request to CANCEL order OID253998543 is sent to server
+2025.08.13 12:52:55.591 | → Limit order to BUY 1.00 Lots US TECH 100 OID253998543 is CANCELLED (13/08/2025 12:52:55.552 UTC+0)
+2025.08.13 13:39:54.972 | Stop order to Sell 40.00 Lots US TECH 100 (Price: 23943.07, SL: 23968.05, TP: 23893.10) is sent to server
+2025.08.13 13:39:55.129 | → Stop order OID254010834 to Sell 40.00 Lots US TECH 100 (Price: 23943.07, SL: 23968.05, TP: 23893.10) is ACCEPTED (13/08/2025 13:39:55.082 UTC+0)
+2025.08.13 13:42:44.722 | → Stop order to SELL 40.00 Lots US TECH 100 OID254010834 is FILLED at 23943.00, position PID142787341 (13/08/2025 13:42:44.654 UTC+0)
+2025.08.13 13:55:37.759 | Request to close position PID142787341 is sent to server
+2025.08.13 13:55:37.837 | → Request to close position PID142787341 is ACCEPTED, order OID254016903 created (13/08/2025 13:55:37.799 UTC+0)
+2025.08.13 13:55:37.837 | Request to amend position PID142787341 (SL: 23933.42) is sent to server
+2025.08.13 13:55:37.930 | → Request to amend position PID142787341 (SL: 23933.42) is ACCEPTED
+2025.08.13 13:55:38.102 | → Position PID142787341 is PARTIALLY CLOSED for 10.00 Lots at 23925.10 (13/08/2025 13:55:38.020 UTC+0)
+2025.08.13 13:56:40.555 | Request to close position PID142787341 is sent to server
+2025.08.13 13:56:40.634 | → Request to close position PID142787341 is ACCEPTED, order OID254017198 created (13/08/2025 13:56:40.619 UTC+0)
+2025.08.13 13:56:40.962 | → Position PID142787341 is PARTIALLY CLOSED for 10.00 Lots at 23912.30 (13/08/2025 13:56:40.920 UTC+0)
+2025.08.13 14:04:44.248 | → Order OID254011741 is FILLED at 23891.8, position PID142787341 closed (13/08/2025 14:04:44.174 UTC+0)
+2025.08.13 15:09:31.436 | Limit order to Sell 24.00 Lots US TECH 100 (Price: 23822.98, SL: 23865.10, TP: 23780.87) is sent to server
+2025.08.13 15:09:31.561 | → Limit order OID254035861 to Sell 24.00 Lots US TECH 100 (Price: 23822.98, SL: 23865.10, TP: 23780.87) is ACCEPTED (13/08/2025 15:09:31.518 UTC+0)
+2025.08.13 15:10:27.905 | Request to CANCEL order OID254035861 is sent to server
+2025.08.13 15:10:27.983 | → Limit order to SELL 24.00 Lots US TECH 100 OID254035861 is CANCELLED (13/08/2025 15:10:27.944 UTC+0)
+2025.08.13 15:20:11.089 | Request to Buy 5.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.13 15:20:11.182 | → Request to Buy 5.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID254038796 created (13/08/2025 15:20:11.151 UTC+0)
+2025.08.13 15:20:11.495 | → Order OID254038796 is FILLED at 23826.10, position PID142825679 (13/08/2025 15:20:11.438 UTC+0)
+2025.08.13 15:22:16.682 | Request to amend position PID142825679 (SL: 23835.63) is sent to server
+2025.08.13 15:22:16.760 | → Request to amend position PID142825679 (SL: 23835.63) is ACCEPTED
+2025.08.13 15:27:18.021 | → Order OID254038798 is FILLED at 23835.3, position PID142825679 closed (13/08/2025 15:27:17.946 UTC+0)
+2025.08.13 15:33:02.587 | Stop order to Buy 36.00 Lots US TECH 100 (Price: 23846.28, SL: 23818.21, TP: 23902.43) is sent to server
+2025.08.13 15:33:02.650 | → Stop order OID254040993 to Buy 36.00 Lots US TECH 100 (Price: 23846.28, SL: 23818.21, TP: 23902.43) is ACCEPTED (13/08/2025 15:33:02.634 UTC+0)
+2025.08.13 15:36:16.962 | Request to CANCEL order OID254040993 is sent to server
+2025.08.13 15:36:17.056 | → Stop order to BUY 36.00 Lots US TECH 100 OID254040993 is CANCELLED (13/08/2025 15:36:17.038 UTC+0)
+2025.08.14 07:57:24.623 | cTrader started
+2025.08.14 07:58:54.027 | Limit order to Buy 67.00 Lots US TECH 100 (Price: 23831.75, SL: 23816.66, TP: 23861.92) is sent to server
+2025.08.14 07:58:54.246 | → Limit order OID254183522 to Buy 67.00 Lots US TECH 100 (Price: 23831.75, SL: 23816.66, TP: 23861.92) is ACCEPTED (14/08/2025 07:58:54.097 UTC+0)
+2025.08.14 08:12:53.669 | Request to CANCEL order OID254183522 is sent to server
+2025.08.14 08:12:53.841 | → Limit order to BUY 67.00 Lots US TECH 100 OID254183522 is CANCELLED (14/08/2025 08:12:53.721 UTC+0)
+2025.08.14 12:54:04.001 | Stop order to Sell 41.00 Lots US TECH 100 (Price: 23748.33, SL: 23772.98, TP: 23699.03) is sent to server
+2025.08.14 12:54:04.095 | → Stop order OID254258970 to Sell 41.00 Lots US TECH 100 (Price: 23748.33, SL: 23772.98, TP: 23699.03) is ACCEPTED (14/08/2025 12:54:04.065 UTC+0)
+2025.08.14 12:54:04.360 | → Stop order to SELL 41.00 Lots US TECH 100 OID254258970 is FILLED at 23747.34, position PID143207821 (14/08/2025 12:54:04.296 UTC+0)
+2025.08.14 13:00:57.469 | Request to amend position PID143207821 (SL: 23737.84) is sent to server
+2025.08.14 13:00:57.578 | → Request to amend position PID143207821 (SL: 23737.84) is ACCEPTED
+2025.08.14 13:01:50.971 | → Order OID254258972 is FILLED at 23738.1, position PID143207821 closed (14/08/2025 13:01:50.881 UTC+0)
+2025.08.14 15:50:41.834 | Request to Buy 37.00 Lots US TECH 100 (SL: 27.31, TP: 89.96) is sent to server
+2025.08.14 15:50:41.928 | → Request to Buy 37.00 Lots US TECH 100 (SL: 27.31, TP: 89.96) is ACCEPTED, order OID254313769 created (14/08/2025 15:50:41.882 UTC+0)
+2025.08.14 15:50:42.162 | → Order OID254313769 is FILLED at 23830.50, position PID143281172 (14/08/2025 15:50:42.129 UTC+0)
+2025.08.14 15:51:48.476 | Request to amend position PID143281172 (TP: 23967.74) is sent to server
+2025.08.14 15:51:48.585 | → Request to amend position PID143281172 (TP: 23967.74) is ACCEPTED
+2025.08.14 15:53:05.871 | Request to amend position PID143281172 (SL: 23767.89) is sent to server
+2025.08.14 15:53:05.965 | → Request to amend position PID143281172 (SL: 23767.89) is ACCEPTED
+2025.08.14 17:00:46.446 | Request to close position PID143281172 is sent to server
+2025.08.14 17:00:46.571 | → Request to close position PID143281172 is ACCEPTED, order OID254329439 created (14/08/2025 17:00:46.526 UTC+0)
+2025.08.14 17:00:46.571 | Request to amend position PID143281172 (SL: 23840.03) is sent to server
+2025.08.14 17:00:46.664 | → Request to amend position PID143281172 (SL: 23840.03) is ACCEPTED
+2025.08.14 17:00:46.774 | → Position PID143281172 is PARTIALLY CLOSED for 10.00 Lots at 23856.20 (14/08/2025 17:00:46.738 UTC+0)
+2025.08.14 18:05:54.332 | → Order OID254313770 is FILLED at 23838.6, position PID143281172 closed (14/08/2025 18:05:54.275 UTC+0)
+2025.08.15 06:20:59.481 | cTrader started
+2025.08.15 12:39:45.843 | Request to Buy 5.30 Lots EURUSD (SL: 19.1, TP: 35.1) is sent to server
+2025.08.15 12:39:46.046 | → Request to Buy 5.30 Lots EURUSD (SL: 19.1, TP: 35.1) is ACCEPTED, order OID254448279 created (15/08/2025 12:39:45.944 UTC+0)
+2025.08.15 12:39:46.374 | → Order OID254448279 is FILLED at 1.16948, position PID143605277 (15/08/2025 12:39:46.224 UTC+0)
+2025.08.15 13:58:39.419 | Request to Buy 38.00 Lots US TECH 100 (SL: 26.63, TP: 103.51) is sent to server
+2025.08.15 13:58:39.544 | → Request to Buy 38.00 Lots US TECH 100 (SL: 26.63, TP: 103.51) is ACCEPTED, order OID254467299 created (15/08/2025 13:58:39.496 UTC+0)
+2025.08.15 13:58:39.794 | → Order OID254467299 is FILLED at 23712.81, position PID143649962 (15/08/2025 13:58:39.747 UTC+0)
+2025.08.15 13:58:58.638 | Request to amend position PID143649962 (TP: 23879.66) is sent to server
+2025.08.15 13:58:58.748 | → Request to amend position PID143649962 (TP: 23879.66) is ACCEPTED
+2025.08.15 13:59:06.091 | Request to amend position PID143649962 (TP: 23871.53) is sent to server
+2025.08.15 13:59:06.169 | → Request to amend position PID143649962 (TP: 23871.53) is ACCEPTED
+2025.08.15 14:00:00.599 | → Order OID254467300 is FILLED at 23680.09, position PID143649962 closed (15/08/2025 14:00:00.495 UTC+0)
+2025.08.15 14:01:38.276 | Request to Buy 25.00 Lots US TECH 100 (SL: 39.83, TP: 152.66) is sent to server
+2025.08.15 14:01:38.432 | → Request to Buy 25.00 Lots US TECH 100 (SL: 39.83, TP: 152.66) is ACCEPTED, order OID254468016 created (15/08/2025 14:01:38.361 UTC+0)
+2025.08.15 14:01:38.698 | → Order OID254468016 is FILLED at 23717.90, position PID143651691 (15/08/2025 14:01:38.629 UTC+0)
+2025.08.15 14:07:41.092 | Request to close position PID143605277 is sent to server
+2025.08.15 14:07:41.249 | → Request to close position PID143605277 is ACCEPTED, order OID254470283 created (15/08/2025 14:07:41.138 UTC+0)
+2025.08.15 14:07:41.264 | Request to amend position PID143605277 (SL: 1.16959) is sent to server
+2025.08.15 14:07:41.342 | → Request to amend position PID143605277 (SL: 1.16959) is ACCEPTED
+2025.08.15 14:07:41.421 | → Position PID143605277 is PARTIALLY CLOSED for 2.00 Lots at 1.17147 (15/08/2025 14:07:41.352 UTC+0)
+2025.08.15 14:09:47.546 | Request to close position PID143651691 is sent to server
+2025.08.15 14:09:47.655 | → Request to close position PID143651691 is ACCEPTED, order OID254470887 created (15/08/2025 14:09:47.614 UTC+0)
+2025.08.15 14:09:47.671 | Request to amend position PID143651691 (SL: 23727.39) is sent to server
+2025.08.15 14:09:47.764 | → Request to amend position PID143651691 (SL: 23727.39) is ACCEPTED
+2025.08.15 14:09:47.999 | → Position PID143651691 is PARTIALLY CLOSED for 10.00 Lots at 23772.00 (15/08/2025 14:09:47.872 UTC+0)
+2025.08.15 14:45:34.541 | → Order OID254468017 is FILLED at 23726.2, position PID143651691 closed (15/08/2025 14:45:34.513 UTC+0)
+2025.08.15 16:57:45.654 | Limit order to Buy 22.00 Lots US TECH 100 (Price: 23721.17, SL: 23675.54, TP: 23833.79) is sent to server
+2025.08.15 16:57:45.764 | → Limit order OID254494318 to Buy 22.00 Lots US TECH 100 (Price: 23721.17, SL: 23675.54, TP: 23833.79) is ACCEPTED (15/08/2025 16:57:45.699 UTC+0)
+2025.08.15 16:58:14.873 | Request to amend order OID254494318 (Price: 23722.51, SL: 23676.88, TP: 23835.13) is sent to server
+2025.08.15 16:58:15.029 | → Request to amend order OID254494318 (Price: 23722.51, SL: 23676.88, TP: 23835.13) is ACCEPTED (15/08/2025 16:58:14.952 UTC+0)
+2025.08.15 16:58:18.436 | Request to amend order OID254494318 (SL: 23675.55) is sent to server
+2025.08.15 16:58:18.514 | → Request to amend order OID254494318 (SL: 23675.55) is ACCEPTED (15/08/2025 16:58:18.478 UTC+0)
+2025.08.15 17:05:05.634 | → Limit order to BUY 22.00 Lots US TECH 100 OID254494318 is FILLED at 23722.50, position PID143730765 (15/08/2025 17:05:05.554 UTC+0)
+2025.08.15 17:07:16.121 | Request to amend position PID143730765 (TP: 23829.54) is sent to server
+2025.08.15 17:07:16.199 | → Request to amend position PID143730765 (TP: 23829.54) is ACCEPTED
+2025.08.18 08:34:40.086 | cTrader started
+2025.08.18 08:35:51.888 | Request to Buy 27.00 Lots US TECH 100 (SL: 36.67, TP: 73.35) is sent to server
+2025.08.18 08:35:52.029 | → Request to Buy 27.00 Lots US TECH 100 (SL: 36.67, TP: 73.35) is ACCEPTED, order OID254662338 created (18/08/2025 08:35:51.949 UTC+0)
+2025.08.18 08:35:52.279 | → Order OID254662338 is FILLED at 23696.44, position PID144817023 (18/08/2025 08:35:52.152 UTC+0)
+2025.08.18 08:36:01.560 | Request to amend position PID144817023 (SL: 23656.88) is sent to server
+2025.08.18 08:36:01.654 | → Request to amend position PID144817023 (SL: 23656.88) is ACCEPTED
+2025.08.18 09:25:21.741 | → Order OID254662340 is FILLED at 23656.56, position PID144817023 closed (18/08/2025 09:25:21.648 UTC+0)
+2025.08.18 13:56:31.670 | Request to Sell 32.00 Lots US TECH 100 (SL: 30.53, TP: 61.05) is sent to server
+2025.08.18 13:56:31.780 | → Request to Sell 32.00 Lots US TECH 100 (SL: 30.53, TP: 61.05) is ACCEPTED, order OID254738177 created (18/08/2025 13:56:31.728 UTC+0)
+2025.08.18 13:56:31.983 | → Order OID254738177 is FILLED at 23675.30, position PID144942182 (18/08/2025 13:56:31.949 UTC+0)
+2025.08.18 13:57:13.686 | Request to amend position PID144942182 (SL: 23718.68) is sent to server
+2025.08.18 13:57:13.780 | → Request to amend position PID144942182 (SL: 23718.68) is ACCEPTED
+2025.08.18 13:57:30.846 | Request to amend position PID144942182 (TP: 23612.86) is sent to server
+2025.08.18 13:57:30.925 | → Request to amend position PID144942182 (TP: 23612.86) is ACCEPTED
+2025.08.18 14:00:46.768 | Request to amend position PID144942182 (TP: 23605.57) is sent to server
+2025.08.18 14:00:46.925 | → Request to amend position PID144942182 (TP: 23605.57) is ACCEPTED
+2025.08.18 14:24:13.208 | Request to amend position PID144942182 (SL: 23731.14) is sent to server
+2025.08.18 14:24:13.302 | → Request to amend position PID144942182 (SL: 23731.14) is ACCEPTED
+2025.08.18 14:24:43.055 | → Order OID254738178 is FILLED at 23731.5, position PID144942182 closed (18/08/2025 14:24:42.965 UTC+0)
+2025.08.18 14:25:21.867 | Request to Buy 75.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.18 14:25:21.961 | → Request to Buy 75.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID254746191 created (18/08/2025 14:25:21.930 UTC+0)
+2025.08.18 14:25:22.226 | → Order OID254746191 is FILLED at 23735.15, position PID144955729 (18/08/2025 14:25:22.181 UTC+0)
+2025.08.18 14:25:55.055 | Request to amend position PID144955729 (SL: 23651.84) is sent to server
+2025.08.18 14:25:55.164 | → Request to amend position PID144955729 (SL: 23651.84) is ACCEPTED
+2025.08.18 14:26:16.148 | Request to amend position PID144955729 (TP: 23879.16) is sent to server
+2025.08.18 14:26:16.226 | → Request to amend position PID144955729 (TP: 23879.16) is ACCEPTED
+2025.08.18 14:27:16.851 | Request to amend position PID144955729 (TP: 23831.62) is sent to server
+2025.08.18 14:27:16.930 | → Request to amend position PID144955729 (TP: 23831.62) is ACCEPTED
+2025.08.18 14:30:16.368 | Request to amend position PID144955729 (SL: 23600.40) is sent to server
+2025.08.18 14:30:16.509 | → Request to amend position PID144955729 (SL: 23600.40) is ACCEPTED
+2025.08.19 05:55:59.447 | cTrader started
+2025.08.19 09:14:52.758 | cTrader started
+2025.08.19 11:55:17.380 | Request to Sell 75.00 Lots US TECH 100 (SL: 12.74, TP: 25.49) is sent to server
+2025.08.19 11:55:17.505 | → Request to Sell 75.00 Lots US TECH 100 (SL: 12.74, TP: 25.49) is ACCEPTED, order OID254917621 created (19/08/2025 11:55:17.454 UTC+0)
+2025.08.19 11:55:17.848 | → Order OID254917621 is FILLED at 23687.36, position PID144955729 closed (19/08/2025 11:55:17.753 UTC+0)
+2025.08.19 11:55:17.864 | → Order OID254917621 is FILLED at 23687.36, position PID144955729 (19/08/2025 11:55:17.753 UTC+0)
+2025.08.19 12:04:09.619 | Request to Buy 75.00 Lots US TECH 100 (SL: 12.16, TP: 13.16) is sent to server
+2025.08.19 12:04:09.682 | → Request to Buy 75.00 Lots US TECH 100 (SL: 12.16, TP: 13.16) is ACCEPTED, order OID254919714 created (19/08/2025 12:04:09.661 UTC+0)
+2025.08.19 12:04:09.963 | → Order OID254919714 is FILLED at 23689.52, position PID145376319 (19/08/2025 12:04:09.919 UTC+0)
+2025.08.19 12:04:36.525 | Request to amend position PID145376319 (SL: 23670.84) is sent to server
+2025.08.19 12:04:36.635 | → Request to amend position PID145376319 (SL: 23670.84) is ACCEPTED
+2025.08.19 12:04:40.150 | Request to amend position PID145376319 (TP: 23705.84) is sent to server
+2025.08.19 12:04:40.244 | → Request to amend position PID145376319 (TP: 23705.84) is ACCEPTED
+2025.08.19 12:05:53.492 | Request to amend position PID145376319 (TP: 23719.91) is sent to server
+2025.08.19 12:05:53.570 | → Request to amend position PID145376319 (TP: 23719.91) is ACCEPTED
+2025.08.19 12:08:20.962 | → Order OID254919715 is FILLED at 23670.18, position PID145376319 closed (19/08/2025 12:08:20.920 UTC+0)
+2025.08.19 12:08:32.821 | Request to Sell 75.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.19 12:08:32.930 | → Request to Sell 75.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID254921334 created (19/08/2025 12:08:32.866 UTC+0)
+2025.08.19 12:08:32.946 | → Order OID254921334 is REJECTED with error "NOT_ENOUGH_MONEY"
+2025.08.19 12:08:50.868 | Request to Sell 75.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.19 12:08:50.946 | → Request to Sell 75.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID254921408 created (19/08/2025 12:08:50.904 UTC+0)
+2025.08.19 12:08:50.946 | → Order OID254921408 is REJECTED with error "NOT_ENOUGH_MONEY"
+2025.08.19 12:09:04.493 | Request to Sell 70.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.19 12:09:04.602 | → Request to Sell 70.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID254921508 created (19/08/2025 12:09:04.533 UTC+0)
+2025.08.19 12:09:04.852 | → Order OID254921508 is FILLED at 23670.36, position PID145378370 (19/08/2025 12:09:04.804 UTC+0)
+2025.08.19 12:10:27.727 | Request to amend position PID145378370 (SL: 23693.41) is sent to server
+2025.08.19 12:10:27.821 | → Request to amend position PID145378370 (SL: 23693.41) is ACCEPTED
+2025.08.19 12:26:13.300 | Request to amend position PID145378370 (SL: 23720.63) is sent to server
+2025.08.19 12:26:13.378 | → Request to amend position PID145378370 (SL: 23720.63) is ACCEPTED
+2025.08.19 12:44:00.432 | Request to amend position PID145378370 (SL: 23700.01) is sent to server
+2025.08.19 12:44:00.525 | → Request to amend position PID145378370 (SL: 23700.01) is ACCEPTED
+2025.08.19 13:32:11.235 | → Order OID254921510 is FILLED at 23630.15, position PID145378370 closed (19/08/2025 13:32:11.174 UTC+0)
+2025.08.19 13:40:45.676 | Request to Buy 16.00 Lots US TECH 100 (SL: 56.98, TP: 121.17) is sent to server
+2025.08.19 13:40:45.832 | → Request to Buy 16.00 Lots US TECH 100 (SL: 56.98, TP: 121.17) is ACCEPTED, order OID254956390 created (19/08/2025 13:40:45.768 UTC+0)
+2025.08.19 13:40:46.035 | → Order OID254956390 is FILLED at 23632.70, position PID145418917 (19/08/2025 13:40:45.983 UTC+0)
+2025.08.19 13:43:32.097 | Request to Buy 48.00 Lots US TECH 100 (SL: 18.99, TP: 37.99) is sent to server
+2025.08.19 13:43:32.191 | → Request to Buy 48.00 Lots US TECH 100 (SL: 18.99, TP: 37.99) is ACCEPTED, order OID254957477 created (19/08/2025 13:43:32.163 UTC+0)
+2025.08.19 13:43:32.472 | → Order OID254957477 is FILLED at 23634.53, position PID145418917 (19/08/2025 13:43:32.442 UTC+0)
+2025.08.19 13:44:23.472 | Request to amend position PID145418917 (SL: 23600.54) is sent to server
+2025.08.19 13:44:23.597 | → Request to amend position PID145418917 (SL: 23600.54) is ACCEPTED
+2025.08.19 13:44:33.222 | Request to amend position PID145418917 (SL: 23575.82) is sent to server
+2025.08.19 13:44:33.363 | → Request to amend position PID145418917 (SL: 23575.82) is ACCEPTED
+2025.08.19 13:45:13.519 | Request to amend position PID145418917 (SL: 23544.82) is sent to server
+2025.08.19 13:45:13.613 | → Request to amend position PID145418917 (SL: 23544.82) is ACCEPTED
+2025.08.19 13:45:25.784 | Request to amend position PID145418917 (SL: 23500.22) is sent to server
+2025.08.19 13:45:25.941 | → Request to amend position PID145418917 (SL: 23500.22) is ACCEPTED
+2025.08.19 14:04:14.024 | Request to amend position PID145418917 (TP: 23751.78) is sent to server
+2025.08.19 14:04:14.212 | → Request to amend position PID145418917 (TP: 23751.78) is ACCEPTED
+2025.08.19 14:04:56.431 | Request to amend position PID145418917 (TP: 23795.45) is sent to server
+2025.08.19 14:04:56.524 | → Request to amend position PID145418917 (TP: 23795.45) is ACCEPTED
+2025.08.19 14:07:24.878 | Request to amend position PID145418917 (SL: 23588.84) is sent to server
+2025.08.19 14:07:24.972 | → Request to amend position PID145418917 (SL: 23588.84) is ACCEPTED
+2025.08.19 14:23:59.229 | Request to amend position PID145418917 (SL: 23556.38) is sent to server
+2025.08.19 14:23:59.291 | → Request to amend position PID145418917 (SL: 23556.38) is ACCEPTED
+2025.08.19 14:27:53.204 | Request to amend position PID145418917 (SL: 23469.44) is sent to server
+2025.08.19 14:27:53.298 | → Request to amend position PID145418917 (SL: 23469.44) is ACCEPTED
+2025.08.19 14:37:50.185 | Request to amend position PID145418917 (SL: 23330.21) is sent to server
+2025.08.19 14:37:50.294 | → Request to amend position PID145418917 (SL: 23330.21) is ACCEPTED
+2025.08.19 14:57:54.825 | Limit order to Buy 1.00 Lots EURUSD (Price: 1.16717, SL: 20, TP: 40) is sent to server
+2025.08.19 14:57:54.934 | → Limit order OID254987270 to Buy 1.00 Lots EURUSD (Price: 1.16717, SL: 20, TP: 40) is ACCEPTED (19/08/2025 14:57:54.869 UTC+0)
+2025.08.19 14:58:06.403 | → Limit order to BUY 1.00 Lots EURUSD OID254987270 is FILLED at 1.16715, position PID145460634 (19/08/2025 14:58:06.259 UTC+0)
+2025.08.19 14:58:25.231 | Request to Buy 20.00 Lots EURUSD (SL: 20, TP: 40) is sent to server
+2025.08.19 14:58:25.325 | → Order OID0 is REJECTED with error "Not enough funds"
+2025.08.19 14:58:36.200 | Request to Buy 20.00 Lots EURUSD (SL: 20, TP: 40) is sent to server
+2025.08.19 14:58:36.294 | → Order OID0 is REJECTED with error "Not enough funds"
+2025.08.19 14:59:09.388 | Request to amend position PID145460634 (TP: 1.17165) is sent to server
+2025.08.19 14:59:09.559 | → Request to amend position PID145460634 (TP: 1.17165) is ACCEPTED
+2025.08.19 15:00:37.747 | Request to Sell 1.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.19 15:00:37.825 | → Request to Sell 1.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID254989273 created (19/08/2025 15:00:37.798 UTC+0)
+2025.08.19 15:00:38.091 | → Order OID254989273 is FILLED at 23445.60, position PID145418917 (19/08/2025 15:00:38.028 UTC+0)
+2025.08.19 15:00:49.028 | Request to Sell 75.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.19 15:00:49.122 | → Request to Sell 75.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID254989983 created (19/08/2025 15:00:49.096 UTC+0)
+2025.08.19 15:00:49.497 | → Order OID254989983 is FILLED at 23443.15, position PID145418917 (19/08/2025 15:00:49.395 UTC+0)
+2025.08.19 15:01:08.091 | Request to amend position PID145418917 (TP: 23326.87) is sent to server
+2025.08.19 15:01:08.216 | → Request to amend position PID145418917 (TP: 23326.87) is ACCEPTED
+2025.08.19 15:01:16.177 | Request to amend position PID145418917 (TP: 23306.23) is sent to server
+2025.08.19 15:01:16.287 | → Request to amend position PID145418917 (TP: 23306.23) is ACCEPTED
+2025.08.19 15:01:21.458 | Request to Sell 75.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.19 15:01:21.583 | → Order OID0 is REJECTED with error "Not enough funds"
+2025.08.19 15:02:26.474 | Request to amend position PID145418917 (SL: 23516.24) is sent to server
+2025.08.19 15:02:26.552 | → Request to amend position PID145418917 (SL: 23516.24) is ACCEPTED
+2025.08.19 15:02:37.287 | Request to Sell 60.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.19 15:02:37.380 | → Order OID0 is REJECTED with error "Not enough funds"
+2025.08.19 15:20:22.223 | Request to close position PID145418917 is sent to server
+2025.08.19 15:20:22.301 | → Request to close position PID145418917 is ACCEPTED, order OID254996671 created (19/08/2025 15:20:22.284 UTC+0)
+2025.08.19 15:20:22.614 | → Order OID254996671 is FILLED at 23485.3, position PID145418917 closed (19/08/2025 15:20:22.568 UTC+0)
+2025.08.19 15:20:38.879 | Request to Buy 60.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.19 15:20:38.942 | → Request to Buy 60.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID254996750 created (19/08/2025 15:20:38.930 UTC+0)
+2025.08.19 15:20:39.254 | → Order OID254996750 is FILLED at 23487.84, position PID145474481 (19/08/2025 15:20:39.216 UTC+0)
+2025.08.19 15:20:46.254 | Request to amend position PID145474481 (SL: 23431.69) is sent to server
+2025.08.19 15:20:46.348 | → Request to amend position PID145474481 (SL: 23431.69) is ACCEPTED
+2025.08.19 15:21:03.551 | Request to amend position PID145474481 (TP: 23720.61) is sent to server
+2025.08.19 15:21:03.645 | → Request to amend position PID145474481 (TP: 23720.61) is ACCEPTED
+2025.08.19 16:39:19.183 | → Order OID254996753 is FILLED at 23429.76, position PID145474481 closed (19/08/2025 16:39:19.093 UTC+0)
+2025.08.20 11:50:51.143 | cTrader started
+2025.08.20 12:15:04.994 | Request to Sell 56.00 Lots US TECH 100 (SL: 13.12, TP: 26.24) is sent to server
+2025.08.20 12:15:05.150 | → Request to Sell 56.00 Lots US TECH 100 (SL: 13.12, TP: 26.24) is ACCEPTED, order OID255251307 created (20/08/2025 12:15:05.086 UTC+0)
+2025.08.20 12:15:05.416 | → Order OID255251307 is FILLED at 23337.20, position PID145708759 (20/08/2025 12:15:05.313 UTC+0)
+2025.08.20 12:32:07.908 | Request to amend position PID145708759 (SL: 23327.86) is sent to server
+2025.08.20 12:32:08.018 | → Request to amend position PID145708759 (SL: 23327.86) is ACCEPTED
+2025.08.20 12:33:09.611 | → Order OID255251308 is FILLED at 23329.02, position PID145708759 closed (20/08/2025 12:33:09.528 UTC+0)
+2025.08.20 14:05:30.782 | Request to Sell 15.00 Lots US TECH 100 (SL: 48.94, TP: 97.87) is sent to server
+2025.08.20 14:05:30.876 | → Request to Sell 15.00 Lots US TECH 100 (SL: 48.94, TP: 97.87) is ACCEPTED, order OID255298727 created (20/08/2025 14:05:30.820 UTC+0)
+2025.08.20 14:05:31.220 | → Order OID255298727 is FILLED at 23070.60, position PID145755334 (20/08/2025 14:05:31.116 UTC+0)
+2025.08.20 14:06:19.892 | Request to amend position PID145755334 (TP: 22940.36) is sent to server
+2025.08.20 14:06:19.970 | → Request to amend position PID145755334 (TP: 22940.36) is ACCEPTED
+2025.08.20 14:08:57.095 | Request to amend position PID145755334 (TP: 22915.96) is sent to server
+2025.08.20 14:08:57.204 | → Request to amend position PID145755334 (TP: 22915.96) is ACCEPTED
+2025.08.20 14:09:13.525 | Request to amend position PID145755334 (TP: 22915.48) is sent to server
+2025.08.20 14:09:13.603 | → Request to amend position PID145755334 (TP: 22915.48) is ACCEPTED
+2025.08.20 14:11:32.869 | Request to amend position PID145755334 (SL: 23061.17) is sent to server
+2025.08.20 14:11:32.978 | → Request to amend position PID145755334 (SL: 23061.17) is ACCEPTED
+2025.08.20 14:15:01.576 | Request to amend position PID145755334 (SL: 23098.72) is sent to server
+2025.08.20 14:15:01.654 | → Request to amend position PID145755334 (SL: 23098.72) is ACCEPTED
+2025.08.20 14:24:04.309 | Request to amend position PID145755334 (SL: 23136.87) is sent to server
+2025.08.20 14:24:04.387 | → Request to amend position PID145755334 (SL: 23136.87) is ACCEPTED
+2025.08.20 15:16:34.923 | Request to amend position PID145755334 (SL: 23354.88) is sent to server
+2025.08.20 15:16:35.033 | → Request to amend position PID145755334 (SL: 23354.88) is ACCEPTED
+2025.08.21 09:05:04.049 | cTrader started
+2025.08.21 11:16:09.212 | Limit order to Sell 23.00 Lots US TECH 100 (Price: 23226.45, SL: 23258.37, TP: 23162.62) is sent to server
+2025.08.21 11:16:09.399 | → Limit order OID255462951 to Sell 23.00 Lots US TECH 100 (Price: 23226.45, SL: 23258.37, TP: 23162.62) is ACCEPTED (21/08/2025 11:16:09.293 UTC+0)
+2025.08.21 11:16:47.125 | Request to CANCEL order OID255462951 is sent to server
+2025.08.21 11:16:47.235 | → Limit order to SELL 23.00 Lots US TECH 100 OID255462951 is CANCELLED (21/08/2025 11:16:47.141 UTC+0)
+2025.08.21 12:30:08.870 | Stop order to Sell 36.00 Lots US TECH 100 (Price: 23145.31, SL: 23165.70, TP: 23104.53) is sent to server
+2025.08.21 12:30:09.027 | → Stop order OID255483647 to Sell 36.00 Lots US TECH 100 (Price: 23145.31, SL: 23165.70, TP: 23104.53) is ACCEPTED (21/08/2025 12:30:08.950 UTC+0)
+2025.08.21 12:30:40.970 | Request to CANCEL order OID255483647 is sent to server
+2025.08.21 12:30:41.063 | → Stop order to SELL 36.00 Lots US TECH 100 OID255483647 is CANCELLED (21/08/2025 12:30:41.019 UTC+0)
+2025.08.21 12:52:27.750 | Stop order to Sell 29.00 Lots US TECH 100 (Price: 23141.09, SL: 23166.40, TP: 23090.47) is sent to server
+2025.08.21 12:52:27.875 | → Stop order OID255491169 to Sell 29.00 Lots US TECH 100 (Price: 23141.09, SL: 23166.40, TP: 23090.47) is ACCEPTED (21/08/2025 12:52:27.806 UTC+0)
+2025.08.21 12:53:22.094 | → Stop order to SELL 29.00 Lots US TECH 100 OID255491169 is FILLED at 23140.45, position PID145755334 (21/08/2025 12:53:22.003 UTC+0)
+2025.08.21 13:09:23.274 | → Order OID255298730 is FILLED at 23166.8, position PID145755334 closed (21/08/2025 13:09:23.189 UTC+0)
+2025.08.21 13:30:50.857 | Request to Sell 60.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.21 13:30:50.998 | → Request to Sell 60.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID255501928 created (21/08/2025 13:30:50.951 UTC+0)
+2025.08.21 13:30:51.264 | → Order OID255501928 is FILLED at 23135.36, position PID145962856 (21/08/2025 13:30:51.211 UTC+0)
+2025.08.21 13:31:11.748 | Request to amend position PID145962856 (SL: 23190.12) is sent to server
+2025.08.21 13:31:11.826 | → Request to amend position PID145962856 (SL: 23190.12) is ACCEPTED
+2025.08.21 13:31:23.982 | Request to amend position PID145962856 (TP: 23000.83) is sent to server
+2025.08.21 13:31:24.092 | → Request to amend position PID145962856 (TP: 23000.83) is ACCEPTED
+2025.08.21 13:33:30.747 | Request to Buy 60.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.21 13:33:30.887 | → Request to Buy 60.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID255503299 created (21/08/2025 13:33:30.832 UTC+0)
+2025.08.21 13:33:31.090 | → Order OID255503299 is FILLED at 23186.74, position PID145962856 closed (21/08/2025 13:33:31.035 UTC+0)
+2025.08.21 13:33:31.090 | → Order OID255503299 is FILLED at 23186.74, position PID145962856 (21/08/2025 13:33:31.035 UTC+0)
+2025.08.21 13:33:31.684 | Request to Buy 60.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.21 13:33:31.856 | → Order OID0 is REJECTED with error "Not enough funds"
+2025.08.21 13:33:41.325 | Request to Buy 60.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.21 13:33:41.450 | → Order OID0 is REJECTED with error "Not enough funds"
+2025.08.21 13:33:48.325 | Request to Buy 50.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.21 13:33:48.419 | → Request to Buy 50.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID255503452 created (21/08/2025 13:33:48.381 UTC+0)
+2025.08.21 13:33:48.669 | → Order OID255503452 is FILLED at 23187.43, position PID145963801 (21/08/2025 13:33:48.622 UTC+0)
+2025.08.21 13:33:55.325 | Request to amend position PID145963801 (TP: 23291.74) is sent to server
+2025.08.21 13:33:55.419 | → Request to amend position PID145963801 (TP: 23291.74) is ACCEPTED
+2025.08.21 13:34:53.637 | Request to amend position PID145963801 (SL: 23122.06) is sent to server
+2025.08.21 13:34:53.731 | → Order OID255503453 is FILLED at 23167.77, position PID145963801 closed (21/08/2025 13:34:53.668 UTC+0)
+2025.08.21 13:34:53.747 | → Request to amend position PID145963801 (SL: 23122.06) is REJECTED with error "Position not found with id 145963801"
+2025.08.21 13:35:53.747 | Demo account 5479595 successfully created
+2025.08.21 13:38:47.108 | Limit order to Buy 4.00 Lots US TECH 100 (Price: 23191.62, SL: 23147.96, TP: 23278.95) is sent to server
+2025.08.21 13:38:47.233 | → Limit order OID255505099 to Buy 4.00 Lots US TECH 100 (Price: 23191.62, SL: 23147.96, TP: 23278.95) is ACCEPTED (21/08/2025 13:38:47.185 UTC+0)
+2025.08.21 13:39:12.295 | → Limit order to BUY 4.00 Lots US TECH 100 OID255505099 is FILLED at 23191.40, position PID145965284 (21/08/2025 13:39:12.249 UTC+0)
+2025.08.21 13:45:22.873 | → Order OID255505192 is FILLED at 23147.8, position PID145965284 closed (21/08/2025 13:45:22.826 UTC+0)
+2025.08.21 13:47:04.294 | Request to Sell 50.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.21 13:47:04.404 | → Order OID0 is REJECTED with error "Not enough funds"
+2025.08.21 13:47:16.263 | Stop order to Sell 6.00 Lots US TECH 100 (Price: 23103.13, SL: 23131.84, TP: 23045.70) is sent to server
+2025.08.21 13:47:16.341 | → Stop order OID255509526 to Sell 6.00 Lots US TECH 100 (Price: 23103.13, SL: 23131.84, TP: 23045.70) is ACCEPTED (21/08/2025 13:47:16.294 UTC+0)
+2025.08.21 13:47:24.841 | Request to amend order OID255509526 (SL: 23210.34) is sent to server
+2025.08.21 13:47:24.998 | → Request to amend order OID255509526 (SL: 23210.34) is ACCEPTED (21/08/2025 13:47:24.945 UTC+0)
+2025.08.21 13:47:31.623 | Request to amend order OID255509526 (SL: 23184.84) is sent to server
+2025.08.21 13:47:31.701 | → Request to amend order OID255509526 (SL: 23184.84) is ACCEPTED (21/08/2025 13:47:31.664 UTC+0)
+2025.08.21 13:49:53.591 | Request to CANCEL order OID255509526 is sent to server
+2025.08.21 13:49:53.669 | → Stop order to SELL 6.00 Lots US TECH 100 OID255509526 is CANCELLED (21/08/2025 13:49:53.649 UTC+0)
+2025.08.21 14:02:16.225 | Limit order to Buy 3.00 Lots US TECH 100 (Price: 23149.64, SL: 23092.25, TP: 23264.42) is sent to server
+2025.08.21 14:02:16.303 | → Limit order OID255514105 to Buy 3.00 Lots US TECH 100 (Price: 23149.64, SL: 23092.25, TP: 23264.42) is ACCEPTED (21/08/2025 14:02:16.278 UTC+0)
+2025.08.21 14:02:40.209 | Stop order to Buy 3.00 Lots US TECH 100 (Price: 23178.33, SL: 23120.93, TP: 23293.12) is sent to server
+2025.08.21 14:02:40.303 | → Stop order OID255514357 to Buy 3.00 Lots US TECH 100 (Price: 23178.33, SL: 23120.93, TP: 23293.12) is ACCEPTED (21/08/2025 14:02:40.255 UTC+0)
+2025.08.21 14:02:59.850 | → Stop order to BUY 3.00 Lots US TECH 100 OID255514357 is FILLED at 23179.90, position PID145975465 (21/08/2025 14:02:59.796 UTC+0)
+2025.08.21 14:04:33.350 | Request to CANCEL order OID255514105 is sent to server
+2025.08.21 14:04:33.444 | → Limit order to BUY 3.00 Lots US TECH 100 OID255514105 is CANCELLED (21/08/2025 14:04:33.424 UTC+0)
+2025.08.21 14:29:04.634 | Request to amend position PID145975465 (SL: 23189.17) is sent to server
+2025.08.21 14:29:04.791 | → Request to amend position PID145975465 (SL: 23189.17) is ACCEPTED
+2025.08.21 14:39:02.710 | → Order OID255514398 is FILLED at 23188.3, position PID145975465 closed (21/08/2025 14:39:02.639 UTC+0)
+2025.08.21 14:58:08.767 | Request to Buy 4.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.21 14:58:09.017 | → Request to Buy 4.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID255528445 created (21/08/2025 14:58:08.969 UTC+0)
+2025.08.21 14:58:09.439 | → Order OID255528445 is FILLED at 23218.80, position PID145991877 (21/08/2025 14:58:09.191 UTC+0)
+2025.08.21 14:58:43.954 | Request to amend position PID145991877 (TP: 23291.95) is sent to server
+2025.08.21 14:58:44.064 | → Request to amend position PID145991877 (TP: 23291.95) is ACCEPTED
+2025.08.21 15:04:10.037 | Request to amend position PID145991877 (SL: 23170.70) is sent to server
+2025.08.21 15:04:10.131 | → Request to amend position PID145991877 (SL: 23170.70) is ACCEPTED
+2025.08.21 15:11:08.797 | → Order OID255528448 is FILLED at 23167.4, position PID145991877 closed (21/08/2025 15:11:08.765 UTC+0)
+2025.08.22 11:40:35.077 | cTrader started
+2025.08.22 11:43:21.777 | Limit order to Sell 11.00 Lots US TECH 100 (Price: 23188.76, SL: 23204.17, TP: 23157.95) is sent to server
+2025.08.22 11:43:21.965 | → Limit order OID255665663 to Sell 11.00 Lots US TECH 100 (Price: 23188.76, SL: 23204.17, TP: 23157.95) is ACCEPTED (22/08/2025 11:43:21.852 UTC+0)
+2025.08.22 11:43:33.590 | Request to amend order OID255665663 (Price: 23190.69, SL: 23206.10, TP: 23159.88) is sent to server
+2025.08.22 11:43:33.731 | → Request to amend order OID255665663 (Price: 23190.69, SL: 23206.10, TP: 23159.88) is ACCEPTED (22/08/2025 11:43:33.663 UTC+0)
+2025.08.22 12:18:52.288 | → Limit order to SELL 11.00 Lots US TECH 100 OID255665663 is FILLED at 23190.70, position PID146174136 (22/08/2025 12:18:52.215 UTC+0)
+2025.08.22 13:03:42.172 | Request to amend position PID146174136 (SL: 23181.28) is sent to server
+2025.08.22 13:03:42.266 | → Request to amend position PID146174136 (SL: 23181.28) is ACCEPTED
+2025.08.22 13:04:18.917 | Request to amend position PID146174136 (SL: 23190.26) is sent to server
+2025.08.22 13:04:19.026 | → Request to amend position PID146174136 (SL: 23190.26) is ACCEPTED
+2025.08.22 13:06:54.185 | Request to amend position PID146174136 (SL: 23204.89) is sent to server
+2025.08.22 13:06:54.310 | → Request to amend position PID146174136 (SL: 23204.89) is ACCEPTED
+2025.08.22 13:30:30.268 | → Order OID255673298 is FILLED at 23158.8, position PID146174136 closed (22/08/2025 13:30:30.178 UTC+0)
+2025.08.22 13:34:03.099 | Request to Buy 2.00 Lots US TECH 100 (SL: 100.11, TP: 200.00) is sent to server
+2025.08.22 13:34:03.178 | → Request to Buy 2.00 Lots US TECH 100 (SL: 100.11, TP: 200.00) is ACCEPTED, order OID255695503 created (22/08/2025 13:34:03.143 UTC+0)
+2025.08.22 13:34:03.443 | → Order OID255695503 is FILLED at 23153.30, position PID146195198 (22/08/2025 13:34:03.410 UTC+0)
+2025.08.22 13:34:22.678 | Request to close position PID146195198 is sent to server
+2025.08.22 13:34:22.771 | → Request to close position PID146195198 is ACCEPTED, order OID255695659 created (22/08/2025 13:34:22.751 UTC+0)
+2025.08.22 13:34:23.068 | → Order OID255695659 is FILLED at 23174.9, position PID146195198 closed (22/08/2025 13:34:23.037 UTC+0)
+2025.08.22 14:21:40.238 | Limit order to Sell 2.00 Lots US TECH 100 (Price: 23468.44, SL: 23555.21, TP: 23294.92) is sent to server
+2025.08.22 14:21:40.348 | → Limit order OID255734545 to Sell 2.00 Lots US TECH 100 (Price: 23468.44, SL: 23555.21, TP: 23294.92) is ACCEPTED (22/08/2025 14:21:40.295 UTC+0)
+2025.08.22 14:21:44.567 | → Limit order to SELL 2.00 Lots US TECH 100 OID255734545 is FILLED at 23469.40, position PID146221321 (22/08/2025 14:21:44.450 UTC+0)
+2025.08.22 14:43:31.108 | Request to amend position PID146221321 (SL: 23557.66) is sent to server
+2025.08.22 14:43:31.233 | → Request to amend position PID146221321 (SL: 23557.66) is ACCEPTED
+2025.08.22 14:46:54.022 | → Order OID255734588 is FILLED at 23561.7, position PID146221321 closed (22/08/2025 14:46:53.934 UTC+0)
+2025.08.24 12:52:25.820 | cTrader started
+2025.08.24 13:36:18.333 | cTrader started
+2025.08.24 13:36:24.974 | cTrader started
+2025.08.25 07:43:41.200 | cTrader started
+2025.08.25 13:34:54.539 | Limit order to Sell 5.00 Lots US TECH 100 (Price: 23413.74, SL: 23448.07, TP: 23345.10) is sent to server
+2025.08.25 13:34:54.821 | → Limit order OID255989744 to Sell 5.00 Lots US TECH 100 (Price: 23413.74, SL: 23448.07, TP: 23345.10) is ACCEPTED (25/08/2025 13:34:54.637 UTC+0)
+2025.08.25 13:35:16.961 | → Limit order to SELL 5.00 Lots US TECH 100 OID255989744 is FILLED at 23414.90, position PID146605686 (25/08/2025 13:35:16.895 UTC+0)
+2025.08.25 13:59:02.722 | → Order OID255989924 is FILLED at 23448.5, position PID146605686 closed (25/08/2025 13:59:02.628 UTC+0)
+2025.08.25 14:07:14.601 | Stop order to Buy 3.00 Lots US TECH 100 (Price: 23473.16, SL: 23416.66, TP: 23586.16) is sent to server
+2025.08.25 14:07:14.680 | → Stop order OID256002578 to Buy 3.00 Lots US TECH 100 (Price: 23473.16, SL: 23416.66, TP: 23586.16) is ACCEPTED (25/08/2025 14:07:14.644 UTC+0)
+2025.08.25 14:07:14.976 | → Stop order to BUY 3.00 Lots US TECH 100 OID256002578 is FILLED at 23473.50, position PID146617528 (25/08/2025 14:07:14.931 UTC+0)
+2025.08.26 10:14:23.985 | cTrader started
+2025.08.26 13:40:25.580 | Request to Buy 11.00 Lots US TECH 100 (SL: 15.15, TP: 30.30) is sent to server
+2025.08.26 13:40:25.752 | → Request to Buy 11.00 Lots US TECH 100 (SL: 15.15, TP: 30.30) is ACCEPTED, order OID256195166 created (26/08/2025 13:40:25.641 UTC+0)
+2025.08.26 13:40:26.017 | → Order OID256195166 is FILLED at 23423.40, position PID147260520 (26/08/2025 13:40:25.886 UTC+0)
+2025.08.26 13:42:17.064 | Request to close position PID147260520 is sent to server
+2025.08.26 13:42:17.205 | → Request to close position PID147260520 is ACCEPTED, order OID256196173 created (26/08/2025 13:42:17.117 UTC+0)
+2025.08.26 13:42:17.471 | → Order OID256196173 is FILLED at 23442.4, position PID147260520 closed (26/08/2025 13:42:17.381 UTC+0)
+2025.08.26 13:49:12.485 | Limit order to Sell 6.00 Lots US TECH 100 (Price: 23397.54, SL: 23425.50, TP: 23341.62) is sent to server
+2025.08.26 13:49:12.579 | → Limit order OID256198206 to Sell 6.00 Lots US TECH 100 (Price: 23397.54, SL: 23425.50, TP: 23341.62) is ACCEPTED (26/08/2025 13:49:12.531 UTC+0)
+2025.08.26 13:49:45.907 | Request to amend order OID256198206 (TP: 23305.09) is sent to server
+2025.08.26 13:49:46.048 | → Request to amend order OID256198206 (TP: 23305.09) is ACCEPTED (26/08/2025 13:49:45.976 UTC+0)
+2025.08.26 13:50:05.345 | Request to amend order OID256198206 (Price: 23414.50, SL: 23442.46, TP: 23322.05) is sent to server
+2025.08.26 13:50:05.548 | → Request to amend order OID256198206 (Price: 23414.50, SL: 23442.46, TP: 23322.05) is ACCEPTED (26/08/2025 13:50:05.503 UTC+0)
+2025.08.26 13:50:10.579 | Request to amend order OID256198206 (Price: 23394.89, SL: 23422.85, TP: 23302.44) is sent to server
+2025.08.26 13:50:10.735 | → Request to amend order OID256198206 (Price: 23394.89, SL: 23422.85, TP: 23302.44) is ACCEPTED (26/08/2025 13:50:10.655 UTC+0)
+2025.08.26 13:50:15.017 | Request to amend order OID256198206 (Price: 23397.01, SL: 23424.97, TP: 23304.56) is sent to server
+2025.08.26 13:50:15.110 | → Request to amend order OID256198206 (Price: 23397.01, SL: 23424.97, TP: 23304.56) is ACCEPTED (26/08/2025 13:50:15.071 UTC+0)
+2025.08.26 13:50:24.845 | Request to amend order OID256198206 (Price: 23398.60, SL: 23426.56, TP: 23306.15) is sent to server
+2025.08.26 13:50:25.063 | → Request to amend order OID256198206 (Price: 23398.60, SL: 23426.56, TP: 23306.15) is ACCEPTED (26/08/2025 13:50:25.026 UTC+0)
+2025.08.26 13:50:52.610 | → Limit order to SELL 6.00 Lots US TECH 100 OID256198206 is FILLED at 23400.60, position PID147271118 (26/08/2025 13:50:52.544 UTC+0)
+2025.08.26 13:51:00.032 | Request to amend position PID147271118 (SL: 23441.38) is sent to server
+2025.08.26 13:51:00.157 | → Request to amend position PID147271118 (SL: 23441.38) is ACCEPTED
+2025.08.26 14:00:12.639 | → Order OID256199004 is FILLED at 23441.4, position PID147271118 closed (26/08/2025 14:00:12.571 UTC+0)
+2025.08.26 14:11:51.364 | Limit order to Sell 8.00 Lots US TECH 100 (Price: 23439.66, SL: 23460.25, TP: 23398.50) is sent to server
+2025.08.26 14:11:51.442 | → Limit order OID256205109 to Sell 8.00 Lots US TECH 100 (Price: 23439.66, SL: 23460.25, TP: 23398.50) is ACCEPTED (26/08/2025 14:11:51.399 UTC+0)
+2025.08.26 14:12:06.192 | Request to amend order OID256205109 (Price: 23434.99, SL: 23455.58, TP: 23393.83) is sent to server
+2025.08.26 14:12:06.286 | → Request to amend order OID256205109 (Price: 23434.99, SL: 23455.58, TP: 23393.83) is ACCEPTED (26/08/2025 14:12:06.249 UTC+0)
+2025.08.26 14:12:08.598 | Request to amend order OID256205109 (SL: 23461.52) is sent to server
+2025.08.26 14:12:08.692 | → Request to amend order OID256205109 (SL: 23461.52) is ACCEPTED (26/08/2025 14:12:08.652 UTC+0)
+2025.08.26 14:12:14.911 | → Limit order to SELL 8.00 Lots US TECH 100 OID256205109 is FILLED at 23435.10, position PID147296430 (26/08/2025 14:12:14.856 UTC+0)
+2025.08.26 14:12:32.630 | Request to amend position PID147296430 (TP: 23305.03) is sent to server
+2025.08.26 14:12:32.755 | → Request to amend position PID147296430 (TP: 23305.03) is ACCEPTED
+2025.08.26 14:19:11.325 | → Order OID256205240 is FILLED at 23462.5, position PID147296430 closed (26/08/2025 14:19:11.265 UTC+0)
+2025.08.26 14:21:23.429 | Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.26 14:21:23.522 | → Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID256208085 created (26/08/2025 14:21:23.481 UTC+0)
+2025.08.26 14:21:23.788 | → Order OID256208085 is FILLED at 23454.00, position PID147306820 (26/08/2025 14:21:23.723 UTC+0)
+2025.08.26 14:22:19.632 | Request to amend position PID147306820 (TP: 23578.12) is sent to server
+2025.08.26 14:22:19.741 | → Request to amend position PID147306820 (TP: 23578.12) is ACCEPTED
+2025.08.26 14:32:49.099 | Request to Buy 7.00 Lots US TECH 100 (SL: 23.13, TP: 46.25) is sent to server
+2025.08.26 14:32:49.240 | → Order OID0 is REJECTED with error "Not enough funds"
+2025.08.26 14:33:14.318 | Request to Buy 21.00 Lots US TECH 100 (SL: 7.71, TP: 15.42) is sent to server
+2025.08.26 14:33:14.411 | → Order OID0 is REJECTED with error "Not enough funds"
+2025.08.26 14:39:40.547 | Request to amend position PID147306820 (SL: 23418.69) is sent to server
+2025.08.26 14:39:40.625 | → Request to amend position PID147306820 (SL: 23418.69) is ACCEPTED
+2025.08.26 14:41:15.110 | Request to amend position PID147306820 (SL: 23361.14) is sent to server
+2025.08.26 14:41:15.188 | → Request to amend position PID147306820 (SL: 23361.14) is ACCEPTED
+2025.08.26 18:20:59.433 | Request to close position PID147306820 is sent to server
+2025.08.26 18:20:59.652 | → Request to close position PID147306820 is ACCEPTED, order OID256246926 created (26/08/2025 18:20:59.373 UTC+0)
+2025.08.26 18:21:00.183 | → Order OID256246926 is FILLED at 23466, position PID147306820 closed (26/08/2025 18:20:59.629 UTC+0)
+2025.08.27 07:44:35.568 | cTrader started
+2025.08.27 08:57:06.343 | Request to Buy 28.00 Lots US TECH 100 (SL: 5.76, TP: 11.51) is sent to server
+2025.08.27 08:57:06.468 | → Order OID0 is REJECTED with error "Not enough funds"
+2025.08.27 08:57:21.328 | Limit order to Buy 28.00 Lots US TECH 100 (Price: 23516.60, SL: 23510.85, TP: 23528.12) is sent to server
+2025.08.27 08:57:21.468 | → Limit order OID256324790 to Buy 28.00 Lots US TECH 100 (Price: 23516.60, SL: 23510.85, TP: 23528.12) is ACCEPTED (27/08/2025 08:57:21.383 UTC+0)
+2025.08.27 08:58:04.187 | Request to amend order OID256324790 (Price: 23519.80, SL: 23514.05, TP: 23531.32) is sent to server
+2025.08.27 08:58:04.312 | → Request to amend order OID256324790 (Price: 23519.80, SL: 23514.05, TP: 23531.32) is ACCEPTED (27/08/2025 08:58:04.273 UTC+0)
+2025.08.27 08:58:12.031 | Request to amend order OID256324790 (SL: 23511.51) is sent to server
+2025.08.27 08:58:12.156 | → Request to amend order OID256324790 (SL: 23511.51) is ACCEPTED (27/08/2025 08:58:12.100 UTC+0)
+2025.08.27 08:58:58.936 | Request to amend order OID256324790 (SL: 8.29, TP: 16.52) is sent to server
+2025.08.27 08:58:59.029 | → Request to amend order OID256324790 (SL: 8.29, TP: 16.52) is ACCEPTED (27/08/2025 08:58:58.999 UTC+0)
+2025.08.27 09:00:38.879 | Request to amend order OID256324790 (SL: 17.02) is sent to server
+2025.08.27 09:00:38.957 | → Request to amend order OID256324790 (SL: 17.02) is ACCEPTED (27/08/2025 09:00:38.931 UTC+0)
+2025.08.27 09:00:47.629 | Request to amend order OID256324790 (SL: 16.12) is sent to server
+2025.08.27 09:00:47.707 | → Request to amend order OID256324790 (SL: 16.12) is ACCEPTED (27/08/2025 09:00:47.675 UTC+0)
+2025.08.27 09:01:13.645 | Request to amend order OID256324790 (TP: 44.22) is sent to server
+2025.08.27 09:01:13.895 | → Request to amend order OID256324790 (TP: 44.22) is ACCEPTED (27/08/2025 09:01:13.835 UTC+0)
+2025.08.27 09:57:42.564 | Request to amend order OID256324790 (Price: 23520.00, SL: 23503.00, TP: 23565.00) is sent to server
+2025.08.27 09:57:42.642 | → Request to amend order OID256324790 (Price: 23520.00, SL: 23503.00, TP: 23565.00) is ACCEPTED (27/08/2025 09:57:42.595 UTC+0)
+2025.08.27 12:31:54.689 | → Limit order to BUY 10.00 Lots US TECH 100 OID256324790 is FILLED at 23519.80, position PID147722127 (27/08/2025 12:31:54.596 UTC+0)
+2025.08.27 12:41:34.004 | → Order OID256357056 is FILLED at 23503, position PID147722127 closed (27/08/2025 12:41:33.926 UTC+0)
+2025.08.27 13:48:31.279 | Request to Buy 5.00 Lots US TECH 100 (SL: 31.72, TP: 100.74) is sent to server
+2025.08.27 13:48:31.357 | → Request to Buy 5.00 Lots US TECH 100 (SL: 31.72, TP: 100.74) is ACCEPTED, order OID256375233 created (27/08/2025 13:48:31.322 UTC+0)
+2025.08.27 13:48:31.591 | → Order OID256375233 is FILLED at 23463.60, position PID147845963 (27/08/2025 13:48:31.560 UTC+0)
+2025.08.27 13:49:35.732 | → Order OID256375235 is FILLED at 23431.5, position PID147845963 closed (27/08/2025 13:49:35.661 UTC+0)
+2025.08.27 13:54:14.204 | Request to Buy 4.00 Lots US TECH 100 (SL: 39.16, TP: 100.74) is sent to server
+2025.08.27 13:54:14.266 | → Request to Buy 4.00 Lots US TECH 100 (SL: 39.16, TP: 100.74) is ACCEPTED, order OID256377154 created (27/08/2025 13:54:14.261 UTC+0)
+2025.08.27 13:54:14.798 | → Order OID256377154 is FILLED at 23467.50, position PID147850225 (27/08/2025 13:54:14.490 UTC+0)
+2025.08.27 13:55:40.961 | Request to amend position PID147850225 (SL: 23425.32) is sent to server
+2025.08.27 13:55:41.055 | → Request to amend position PID147850225 (SL: 23425.32) is ACCEPTED
+2025.08.27 14:22:47.310 | Request to amend position PID147850225 (TP: 23564.58) is sent to server
+2025.08.27 14:22:47.404 | → Request to amend position PID147850225 (TP: 23564.58) is ACCEPTED
+2025.08.27 15:30:51.931 | Request to close position PID147850225 is sent to server
+2025.08.27 15:30:52.134 | → Request to close position PID147850225 is ACCEPTED, order OID256398482 created (27/08/2025 15:30:51.989 UTC+0)
+2025.08.27 15:30:52.290 | → Order OID256398482 is FILLED at 23528.6, position PID147850225 closed (27/08/2025 15:30:52.241 UTC+0)
+2025.08.28 13:28:25.603 | cTrader started
+2025.08.28 13:43:03.110 | Request to Buy 4.00 Lots US TECH 100 (SL: 39.90, TP: 79.80) is sent to server
+2025.08.28 13:43:03.266 | → Request to Buy 4.00 Lots US TECH 100 (SL: 39.90, TP: 79.80) is ACCEPTED, order OID256572749 created (28/08/2025 13:43:03.204 UTC+0)
+2025.08.28 13:43:03.563 | → Order OID256572749 is FILLED at 23666.90, position PID148445221 (28/08/2025 13:43:03.437 UTC+0)
+2025.08.28 13:45:35.636 | → Order OID256572750 is FILLED at 23627, position PID148445221 closed (28/08/2025 13:45:35.544 UTC+0)
+2025.08.28 13:55:51.977 | Request to Sell 3.00 Lots US TECH 100 (SL: 52.58, TP: 105.15) is sent to server
+2025.08.28 13:55:52.118 | → Request to Sell 3.00 Lots US TECH 100 (SL: 52.58, TP: 105.15) is ACCEPTED, order OID256578079 created (28/08/2025 13:55:52.074 UTC+0)
+2025.08.28 13:55:52.414 | → Order OID256578079 is FILLED at 23565.30, position PID148456881 (28/08/2025 13:55:52.367 UTC+0)
+2025.08.28 13:56:02.274 | Request to amend position PID148456881 (SL: 23652.42) is sent to server
+2025.08.28 13:56:02.368 | → Request to amend position PID148456881 (SL: 23652.42) is ACCEPTED
+2025.08.28 13:56:37.571 | Request to amend position PID148456881 (TP: 23430.60) is sent to server
+2025.08.28 13:56:37.664 | → Request to amend position PID148456881 (TP: 23430.60) is ACCEPTED
+2025.08.28 14:08:29.678 | Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.28 14:08:29.787 | → Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID256581886 created (28/08/2025 14:08:29.740 UTC+0)
+2025.08.28 14:08:30.147 | → Order OID256581886 is FILLED at 23604.60, position PID148467847 (28/08/2025 14:08:29.993 UTC+0)
+2025.08.28 14:08:40.928 | Request to amend position PID148467847 (TP: 23684.23) is sent to server
+2025.08.28 14:08:41.053 | → Request to amend position PID148467847 (TP: 23684.23) is ACCEPTED
+2025.08.28 14:08:44.787 | Request to amend position PID148467847 (SL: 23513.38) is sent to server
+2025.08.28 14:08:44.944 | → Request to amend position PID148467847 (SL: 23513.38) is ACCEPTED
+2025.08.28 14:08:53.365 | Request to amend position PID148456881 (SL: 23701.82) is sent to server
+2025.08.28 14:08:53.475 | → Request to amend position PID148456881 (SL: 23701.82) is ACCEPTED
+2025.08.28 14:08:58.944 | Request to amend position PID148456881 (SL: 23684.59) is sent to server
+2025.08.28 14:08:59.131 | → Request to amend position PID148456881 (SL: 23684.59) is ACCEPTED
+2025.08.28 14:09:08.256 | Request to amend position PID148467847 (SL: 23430.09) is sent to server
+2025.08.28 14:09:08.365 | → Request to amend position PID148467847 (SL: 23430.09) is ACCEPTED
+2025.08.28 14:09:27.365 | Request to close position PID148456881 is sent to server
+2025.08.28 14:09:27.506 | → Request to close position PID148456881 is ACCEPTED, order OID256582113 created (28/08/2025 14:09:27.456 UTC+0)
+2025.08.28 14:09:27.756 | → Order OID256582113 is FILLED at 23612.4, position PID148456881 closed (28/08/2025 14:09:27.725 UTC+0)
+2025.08.28 14:09:37.819 | Request to amend position PID148467847 (SL: 23514.52) is sent to server
+2025.08.28 14:09:37.928 | → Request to amend position PID148467847 (SL: 23514.52) is ACCEPTED
+2025.08.28 14:10:08.149 | Request to amend position PID148467847 (TP: 23795.45) is sent to server
+2025.08.28 14:10:08.274 | → Request to amend position PID148467847 (TP: 23795.45) is ACCEPTED
+2025.08.28 14:57:18.758 | Request to amend position PID148467847 (TP: 23683.70) is sent to server
+2025.08.28 14:57:18.867 | → Request to amend position PID148467847 (TP: 23683.70) is ACCEPTED
+2025.08.28 15:16:38.554 | → Order OID256581887 is FILLED at 23688.5, position PID148467847 closed (28/08/2025 15:16:38.503 UTC+0)
+2025.08.28 19:17:01.434 | Request to Sell 9.00 Lots US TECH 100 (SL: 18.19, TP: 36.37) is sent to server
+2025.08.28 19:17:01.574 | → Request to Sell 9.00 Lots US TECH 100 (SL: 18.19, TP: 36.37) is ACCEPTED, order OID256634579 created (28/08/2025 19:17:01.502 UTC+0)
+2025.08.28 19:17:01.809 | → Order OID256634579 is FILLED at 23718.80, position PID148621340 (28/08/2025 19:17:01.772 UTC+0)
+2025.08.28 19:40:59.717 | Request to close position PID148621340 is sent to server
+2025.08.28 19:40:59.889 | → Request to close position PID148621340 is ACCEPTED, order OID256636148 created (28/08/2025 19:40:59.769 UTC+0)
+2025.08.28 19:41:00.139 | → Order OID256636148 is FILLED at 23725.4, position PID148621340 closed (28/08/2025 19:41:00.024 UTC+0)
+2025.08.28 19:41:01.982 | Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.28 19:41:02.076 | → Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID256636149 created (28/08/2025 19:41:02.034 UTC+0)
+2025.08.28 19:41:02.311 | → Order OID256636149 is FILLED at 23725.70, position PID148630347 (28/08/2025 19:41:02.248 UTC+0)
+2025.08.28 19:41:26.420 | Request to amend position PID148630347 (SL: 23709.54) is sent to server
+2025.08.28 19:41:26.576 | → Request to amend position PID148630347 (SL: 23709.54) is ACCEPTED
+2025.08.28 19:41:38.279 | Request to amend position PID148630347 (TP: 23794.13) is sent to server
+2025.08.28 19:41:38.404 | → Request to amend position PID148630347 (TP: 23794.13) is ACCEPTED
+2025.08.28 19:59:34.678 | → Order OID256636150 is FILLED at 23709.4, position PID148630347 closed (28/08/2025 19:59:34.597 UTC+0)
+2025.08.29 06:42:21.498 | cTrader started
+2025.08.29 06:42:52.499 | Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.29 06:42:52.702 | → Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID256679399 created (29/08/2025 06:42:52.575 UTC+0)
+2025.08.29 06:42:52.999 | → Order OID256679399 is FILLED at 23672.90, position PID148758562 (29/08/2025 06:42:52.836 UTC+0)
+2025.08.29 06:43:09.921 | Request to amend position PID148758562 (TP: 23700.39) is sent to server
+2025.08.29 06:43:09.999 | → Request to amend position PID148758562 (TP: 23700.39) is ACCEPTED
+2025.08.29 07:43:01.897 | → Order OID256679400 is FILLED at 23652.5, position PID148758562 closed (29/08/2025 07:43:01.796 UTC+0)
+2025.08.29 13:31:40.902 | cTrader started
+2025.08.29 13:58:25.544 | Request to Buy 6.00 Lots US TECH 100 (SL: 26.07, TP: 52.14) is sent to server
+2025.08.29 13:58:25.747 | → Request to Buy 6.00 Lots US TECH 100 (SL: 26.07, TP: 52.14) is ACCEPTED, order OID256745916 created (29/08/2025 13:58:25.619 UTC+0)
+2025.08.29 13:58:26.060 | → Order OID256745916 is FILLED at 23469.20, position PID148877298 (29/08/2025 13:58:25.889 UTC+0)
+2025.08.29 14:03:56.379 | → Order OID256745918 is FILLED at 23442.8, position PID148877298 closed (29/08/2025 14:03:56.303 UTC+0)
+2025.08.29 14:26:44.807 | Request to Sell 10.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.29 14:26:44.885 | → Request to Sell 10.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID256768025 created (29/08/2025 14:26:44.867 UTC+0)
+2025.08.29 14:26:45.119 | → Order OID256768025 is FILLED at 23399.20, position PID148898198 (29/08/2025 14:26:45.080 UTC+0)
+2025.08.29 14:27:05.995 | Request to amend position PID148898198 (SL: 23446.28) is sent to server
+2025.08.29 14:27:06.152 | → Request to amend position PID148898198 (SL: 23446.28) is ACCEPTED
+2025.08.29 14:27:19.652 | Request to amend position PID148898198 (TP: 23306.84) is sent to server
+2025.08.29 14:27:19.777 | → Request to amend position PID148898198 (TP: 23306.84) is ACCEPTED
+2025.08.29 14:29:56.747 | → Order OID256768028 is FILLED at 23446.3, position PID148898198 closed (29/08/2025 14:29:56.638 UTC+0)
+2025.08.29 14:30:00.138 | Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.29 14:30:00.217 | → Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID256768905 created (29/08/2025 14:30:00.171 UTC+0)
+2025.08.29 14:30:00.482 | → Order OID256768905 is FILLED at 23444.60, position PID148900279 (29/08/2025 14:30:00.449 UTC+0)
+2025.08.29 14:30:03.904 | Request to amend position PID148900279 (SL: 23377.65) is sent to server
+2025.08.29 14:30:03.967 | → Request to amend position PID148900279 (SL: 23377.65) is ACCEPTED
+2025.08.29 14:30:09.498 | Request to amend position PID148900279 (TP: 23627.92) is sent to server
+2025.08.29 14:30:09.607 | → Request to amend position PID148900279 (TP: 23627.92) is ACCEPTED
+2025.08.29 14:50:56.212 | → Order OID256768929 is FILLED at 23375.5, position PID148900279 closed (29/08/2025 14:50:56.155 UTC+0)
+2025.08.29 15:00:44.649 | Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.29 15:00:44.727 | → Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID256784087 created (29/08/2025 15:00:44.698 UTC+0)
+2025.08.29 15:00:45.024 | → Order OID256784087 is FILLED at 23389.70, position PID148920199 (29/08/2025 15:00:44.988 UTC+0)
+2025.08.29 15:00:49.836 | Request to amend position PID148920199 (SL: 23365.84) is sent to server
+2025.08.29 15:00:49.899 | → Request to amend position PID148920199 (SL: 23365.84) is ACCEPTED
+2025.08.29 15:00:56.414 | Request to amend position PID148920199 (TP: 23573.57) is sent to server
+2025.08.29 15:00:56.524 | → Request to amend position PID148920199 (TP: 23573.57) is ACCEPTED
+2025.08.29 15:01:02.852 | Request to amend position PID148920199 (TP: 23628.26) is sent to server
+2025.08.29 15:01:02.930 | → Request to amend position PID148920199 (TP: 23628.26) is ACCEPTED
+2025.08.29 17:15:42.460 | → Order OID256784089 is FILLED at 23365.1, position PID148920199 closed (29/08/2025 17:15:42.407 UTC+0)
+2025.08.29 17:40:14.061 | Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is sent to server
+2025.08.29 17:40:14.139 | → Request to Buy 10.00 Lots US TECH 100 (SL: 20, TP: 40) is ACCEPTED, order OID256820055 created (29/08/2025 17:40:14.124 UTC+0)
+2025.08.29 17:40:14.530 | → Order OID256820055 is FILLED at 23388.80, position PID148975697 (29/08/2025 17:40:14.373 UTC+0)
+2025.08.29 17:40:20.077 | Request to amend position PID148975697 (SL: 23352.37) is sent to server
+2025.08.29 17:40:20.155 | → Request to amend position PID148975697 (SL: 23352.37) is ACCEPTED
+2025.08.29 17:40:42.311 | Request to amend position PID148975697 (TP: 23627.81) is sent to server
+2025.08.29 17:40:42.436 | → Request to amend position PID148975697 (TP: 23627.81) is ACCEPTED
+2025.08.29 18:12:54.997 | Request to close position PID148975697 is sent to server
+2025.08.29 18:12:55.106 | → Request to close position PID148975697 is ACCEPTED, order OID256825396 created (29/08/2025 18:12:55.076 UTC+0)
+2025.08.29 18:12:55.403 | → Order OID256825396 is FILLED at 23407.1, position PID148975697 closed (29/08/2025 18:12:55.355 UTC+0)
